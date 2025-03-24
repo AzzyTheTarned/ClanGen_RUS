@@ -4,42 +4,42 @@
             "one": "pale",
             "many": "pale"
         },
-        "FULLWHITE": "white",
+        "FULLWHITE": "белый",
         "PALEGREY": {
-            "one": "gray",
-            "many": "pale gray"
+            "one": "серый",
+            "many": "светло-серый"
         },
         "SILVER": {
-            "one": "silver",
-            "many": "silver"
+            "one": "серебяный",
+            "many": "серебяный"
         },
         "GREY": {
-            "one": "gray",
-            "many": "gray"
+            "one": "серый",
+            "many": "серый"
         },
         "DARKGREY": {
-            "one": "gray",
-            "many": "dark gray"
+            "one": "серый",
+            "many": "тёмно-серый"
         },
         "GHOST": {
-            "one": "black",
-            "many": "black"
+            "one": "чёрный",
+            "many": "чёрный"
         },
         "BLACK": {
-            "one": "black",
-            "many": "black"
+            "one": "чёрный",
+            "many": "чёрный"
         },
         "CREAM": {
-            "one": "cream",
-            "many": "cream"
+            "one": "кремовый",
+            "many": "кремовый"
         },
         "PALEGINGER": {
             "one": "ginger",
             "many": "pale ginger"
         },
         "GOLDEN": {
-            "one": "golden",
-            "many": "golden"
+            "one": "золотой",
+            "many": "золотой"
         },
         "GINGER": {
             "one": "ginger",
@@ -54,7 +54,7 @@
             "many": "dark ginger"
         },
         "LIGHTBROWN": {
-            "one": "brown",
+            "one": "коричневый",
             "many": "light brown"
         },
         "LILAC": {
@@ -77,21 +77,21 @@
             "one": "brown",
             "many": "dark brown"
         },
-        "SingleColour": "single color",
+        "SingleColour": "сплошной окрас",
         "SingleColour_long": "%{color}",
-        "TwoColour": "two color",
+        "TwoColour": "двухцветный окрас",
         "TwoColour_long": "%{color}",
-        "Tabby": "tabby",
-        "Tabby_long": "%{color} tabby",
-        "Speckled": "speckled",
-        "Speckled_long": "speckled %{color}",
-        "Bengal": "bengal",
-        "Bengal_long": "unusually dappled %{color}",
-        "Marbled": "marbled",
+        "Tabby": "табби",
+        "Tabby_long": "%{color} табби",
+        "Speckled": "пятнистый",
+        "Speckled_long": "пятнистый %{color}",
+        "Bengal": "бенгал",
+        "Bengal_long": "экзотическая пятнистость %{color} окраса",
+        "Marbled": "мраморный",
         "Marbled_long": "%{color} tabby",
-        "Ticked": "ticked",
+        "Ticked": "тикированный",
         "Ticked_long": "%{color} ticked",
-        "Smoke": "smoke",
+        "Smoke": "дым",
         "Smoke_long": "%{color} smoke",
         "Mackerel": "mackerel",
         "Mackerel_long": "%{color} tabby",

@@ -1,19 +1,19 @@
 {
     "ru": {
-        "heading": "Timeskip to progress your Clan's life.",
-        "season": "Current season: %{season}",
+        "heading": "Ппопустить луну, чтобы продвинуть жизнь Племени.",
+        "season": "Текущий сезон: %{season}",
         "age": {
-            "one": "Clan age: %{count} moon",
-            "many": "Clan age: %{count} moons"
+            "one": "Возраст Племени: %{count} Луна",
+            "many": "Возраст Племени: %{count} Луны/Лун"
         },
-        "timeskip_button": "Timeskip One Moon",
-        "all events": "all events",
-        "ceremonies": "ceremonies",
-        "births & deaths": "births & deaths",
-        "relationships": "relationships",
-        "health": "health",
-        "other clans": "other clans",
-        "miscellaneous": "miscellaneous",
-        "no_events": "Nothing interesting happened this moon."
+        "timeskip_button": "пропустить одну луну",
+        "all events": "все события",
+        "ceremonies": "церемонии",
+        "births & deaths": "рождение/смерть",
+        "relationships": "отношения",
+        "health": "здоровье",
+        "other clans": "другие племена",
+        "miscellaneous": "разное",
+        "no_events": "На этой луне не было ничего интересного.."
     }
 }

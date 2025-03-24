@@ -1,9 +1,9 @@
 {
     "ru": {
-        "info": "Note: This will close the game.\n When you open it next, it should have the new Clan.",
+        "info": "Примечание: Это приведет к закрытию игры.\n При следующем открытии в нём появится новое Племя",
         "current_clan": {
-            "zero": "There is no Clan currently loaded.",
-            "one": "The currently loaded Clan is %{clan}Clan."
+            "zero": "В данный момент не загружено ни одино Племени",
+            "one": "Текущий Племя - %{clan}Clan."
         }
     }
 }

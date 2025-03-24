@@ -1,20 +1,20 @@
 {
     "ru": {
-        "favorite_hide_tooltip": "hide favorite cat indicators",
-        "favorite_show_tooltip": "show favorite cat indicators",
-        "view_dead": "view dead",
-        "view_dead_tooltip": "view cats in the afterlife",
-        "view_living": "view living",
-        "view_living_tooltip": "view cats in the living world",
-        "choose_group": "choose group to view:",
-        "your_clan": "Your Clan",
-        "cotc": "Cats Outside the Clan",
-        "filter_label": "sort by:",
-        "filter_age": "age \u2191",
-        "filter_reverse_age": "age \u2193",
-        "filter_death": "death",
-        "filter_exp": "EXP",
+        "favorite_hide_tooltip": "Скрыть избранных котов",
+        "favorite_show_tooltip": "Показать избранных котов",
+        "view_dead": "мёртвые",
+        "view_dead_tooltip": "Показать кошек в загробном мире",
+        "view_living": "живые",
+        "view_living_tooltip": "Показать кошек в живом мире",
+        "choose_group": "выберите группу:",
+        "your_clan": "Ваше Племя",
+        "cotc": "Коты Одиночки",
+        "filter_label": "порядок:",
+        "filter_age": "луны \u2191",
+        "filter_reverse_age": "луны \u2193",
+        "filter_death": "мёртвые",
+        "filter_exp": "опыт",
         "filter_id": "ID",
-        "filter_rank": "rank"
+        "filter_rank": "ранг"
     }
 }

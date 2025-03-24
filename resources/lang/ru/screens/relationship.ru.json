@@ -1,7 +1,7 @@
 {
     "ru": {
-        "heading": "m_c's Relationships",
-        "show_dead_checkbox": "Show Dead",
-        "show_empty_checkbox": "Show Empty"
+        "heading": "Отношения m_c",
+        "show_dead_checkbox": "мёртвые",
+        "show_empty_checkbox": "Empty"
     }
 }

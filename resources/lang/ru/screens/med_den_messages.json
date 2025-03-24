@@ -1,11 +1,11 @@
 {
     "storage_status": {
         "empty": [
-            "The herb stores are empty and bare, this does not bode well.",
-            "m_c shifts nervously, staring at the empty herb stores.",
-            "m_c couldn't even treat a thorn in a paw with so little supplies. The herb stores need replenishing.",
-            "Seeing the empty herb stores makes m_c shiver slightly and puff out {PRONOUN\/m_c\/poss} fur.",
-            "Without any herbs m_c feels helpless.",
+            "Травяных запасов нет и это не предвещает ничего хорошего.",
+            "m_c нервно переминается с ноги на ногу, глядя на пустые травяные запасы.",
+            "m_c не мог вылечить даже колючку на лапе, имея так мало запасов. Запасы трав нужно пополнить.",
+            "Отсутствие трав заставило m_c слегка дрожать и распушил мех.",
+            "Без трав m_c чувствует себя беспомощным.",
             "c_n needs a herb gathering patrol <i>yesterday<\/i>, the herb stores are entirely empty and m_c feels like {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} going to vibrate out of {PRONOUN\/m_c\/poss} skin."
         ],
         "low": [

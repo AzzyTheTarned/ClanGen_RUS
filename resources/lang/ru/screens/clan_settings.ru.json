@@ -1,12 +1,12 @@
 {
     "ru": {
-        "general": "general settings",
-        "general_info": "Change the general Clan-specific settings",
-        "relation": "relation settings",
-        "relation_info": "Change Clan-specific settings regarding cat relationships",
-        "role": "role settings",
-        "role_info": "Change Clan-specific settings regarding cat roles",
-        "stats": "clan stats",
-        "stats_text": "Living Clan Cats: %{living}\nStarClan Cats: %{starclan}\nDark Forest Cats: %{darkforest}\nUnknown Residence Cats: %{unknownresidence}\nMedicine Cats: %{medcats}\nMedicine Cat Apprentices: %{medcatapps}\nWarriors: %{warriors}\nWarrior Apprentices: %{apps}\nMediators: %{mediators}\nMediator Apprentices: %{mediatorapps}\nElders: %{elders}\nKittens and Newborns: %{kits}\nFaded Cats: %{faded}"
+        "general": "общие настройки",
+        "general_info": "Изменение общих настроек, характерных для Племени",
+        "relation": "настройки отношений",
+        "relation_info": "Изменение настроек Племени, касающихся отношений между кошками",
+        "role": "настройки ролей",
+        "role_info": "Изменение настроек Племени, касающихся ролей кошек",
+        "stats": "Статы Племени",
+        "stats_text": "Живые коты Племени: %{living}\nКоты Звёздного Племени: %{starclan}\nКоты Сумрачного леса: %{darkforest}\nКоты Бродяги: %{unknownresidence}\nЦелители: %{medcats}\nУченики Целителей: %{medcatapps}\nВойны: %{warriors}\nУченики Воинов: %{apps}\nМиротворцы: %{mediators}\nУченик Миротворцев: %{mediatorapps}\nСтарейшины: %{elders}\nКотята и Новорождёные: %{kits}\nРассеявшийся Коты : %{faded}"
     }
 }

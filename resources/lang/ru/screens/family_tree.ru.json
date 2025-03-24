@@ -1,18 +1,18 @@
 {
     "ru": {
-        "heading": "%{name}'s Family Tree",
-        "lineage": "Viewing %{name}'s Lineage",
+        "heading": "Семейное Древо %{name}",
+        "lineage": "Родословная %{name}",
         "no_cats": "None",
-        "parents": "parents",
-        "siblings": "siblings",
-        "siblings_mates": "siblings' mates",
-        "siblings_kits": "siblings' kits",
-        "parents_siblings": "parents' siblings",
-        "cousins": "cousins",
-        "grandparents": "grandparents",
-        "mates": "mates",
-        "kits": "kits",
-        "kits_mates": "kits' mates",
-        "grandkits": "grandkits"
+        "parents": "родители",
+        "siblings": "брат/сестра",
+        "siblings_mates": "пары брата/сестры",
+        "siblings_kits": "Котята брата/сестры",
+        "parents_siblings": "брат/сестра родителей",
+        "cousins": "кузены",
+        "grandparents": "бабушка/дедушка",
+        "mates": "пара",
+        "kits": "котята",
+        "kits_mates": "пара котят",
+        "grandkits": "внук/внучка"
     }
 }

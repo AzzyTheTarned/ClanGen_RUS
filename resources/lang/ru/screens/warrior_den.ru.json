@@ -1,16 +1,16 @@
 {
     "ru": {
-        "help_tooltip": "This screen allows you to manage your warriors more effectively! You can give them a specific focus, which will provide some benefits (and possibly some negatives) to your Clan.  Some focuses are not available in classic mode.  Click on each focus to see a description of what they will do.  Focuses that target other Clans will allow you to choose which Clans you target.  Your focus can only be changed every 3 moons, so choose carefully.",
-        "change_focus": "Change Focus",
-        "current_focus": "<b>Current Focus:<\/b> %{name}%{desc}",
-        "focus_last_changed": "<b>Focus Last Changed:<\/b> %{last_changed}<br>%{next_change}",
+        "help_tooltip": "Это окно позволяет вам более эффективно управлять своими воинами!Вы можете выбрать для них определённую специализацию, которая принесёт вашему Племени преимущества (а возможно, и недостатки). Некоторые фокусы недоступны в классическом режиме. Нажмите на каждый фокус, чтобы увидеть описание того, что он будет делать. Фокусы, направленные на другие кланы, позволят вам выбрать, на какие кланы вы нацелились. Фокус можно менять только раз в 3 луны, так что выбирайте тщательно.",
+        "change_focus": "Выбрать Фокус",
+        "current_focus": "<b>Текущий фокус:<\/b> %{name}%{desc}",
+        "focus_last_changed": "<b>Последнее изменение фокуса:<\/b> %{last_changed}<br>%{next_change}",
         "next_change": {
-            "zero": "(can change again now)",
-            "one": "(next change in %{moons})",
-            "many": "(next change in %{moons})"
+            "zero": "(Теперь можно изменить снова)",
+            "one": "(следущее изменение  %{moons})",
+            "many": "(следущее изменение %{moons})"
         },
-        "involved_clans": "<br><b>Involved Clans:<\/b> %{clans}",
-        "what_to_focus": "What should your warriors focus on?",
-        "selected_info": "<b>Selected information:<\/b>\n%{info}"
+        "involved_clans": "<br><b>Вовлеченные кланы:<\/b> %{clans}",
+        "what_to_focus": "На чем должны сосредоточиться ваши воины?",
+        "selected_info": "<b>Избранная информация:<\/b>\n%{info}"
     }
 }
