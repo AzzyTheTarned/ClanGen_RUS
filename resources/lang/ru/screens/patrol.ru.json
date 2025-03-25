@@ -13,10 +13,10 @@
         "skills_traits_label": "навыки и черты характера",
         "remove_all_label": "вернуть всех",
         "go_on_patrol": "отправить патруль",
-        "current_prey": "текущая кол-во еды: %{prey}",
-        "needed_prey": "необходимая кол-во еды: %{prey}",
+        "current_prey": "сейчас еды: %{prey}",
+        "needed_prey": "нужно еды: %{prey}",
         "label_patrol_info": "командир патруля: %{leader}\nчлены патруля: %{members}\nнавыки патруля: %{skills}\nчерты патруля: %{traits}",
-        "current_patrol_info": "текущие навыки патруля: %{skills}\nтекущие черты патруля: %{traits}",
+        "current_patrol_info": "навыки патруля: %{skills}\nчерты патруля: %{traits}",
         "proceed": "действовать",
         "dont_proceed": "не действовать",
         "antagonize": "Разозлить ",
@@ -39,22 +39,22 @@
         "clan_rep_neutral": "Отношения с %{clan} не изменилось.",
         "clan_rep_worsened": "Отношения с %{clan} ухудшилось.",
         "herbs_gathered": {
-            "zero": "Despite searching, no herbs were found.",
-            "one": "%{herbs} was gathered.",
-            "many": "%{herbs} were gathered."
+            "zero": "Несмотря на поиски, трав не найдено.",
+            "one": "Собрана %{herbs}.",
+            "many": "Собрано %{herbs}."
         },
         "herb_log": {
             "one": "%{herbs} was gathered on patrol.",
             "many": "%{herbs} were gathered on patrol."
         },
         "prey_log": {
-            "one": "%{count} piece of prey was caught on a patrol.",
-            "many": "%{count} pieces of prey were caught on a patrol."
+            "one": "Во время патрулирования поймана %{count} штука добычи.",
+            "many": "Во время патрулирования поймано %{count} штук добычи."
         },
-        "prey_very_small": "A very small amount of prey is brought to camp.",
-        "prey_small": "A small amount of prey is brought to camp.",
-        "prey_medium": "A medium amount of prey is brought to camp.",
-        "prey_large": "A large amount of prey is brought to camp.",
-        "prey_huge": "A huge amount of prey is brought to camp."
+        "prey_very_small": "В лагерь приносят очень мало добычи.",
+        "prey_small": "В лагерь приносят немного добычи.",
+        "prey_medium": "В лагерь приносят умеренное количество добычи.",
+        "prey_large": "В лагерь приносят много добычи.",
+        "prey_huge": "В лагерь приносят огромное количество добычи."
     }
 }

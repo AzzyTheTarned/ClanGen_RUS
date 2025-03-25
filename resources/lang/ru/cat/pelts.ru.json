@@ -1,8 +1,8 @@
 {
     "ru": {
         "WHITE": {
-            "one": "pale",
-            "many": "pale"
+            "one": "бледный",
+            "many": "бледные"
         },
         "FULLWHITE": "белый",
         "PALEGREY": {
@@ -34,97 +34,97 @@
             "many": "кремовый"
         },
         "PALEGINGER": {
-            "one": "ginger",
-            "many": "pale ginger"
+            "one": "рыжий",
+            "many": "бледно-рыжие"
         },
         "GOLDEN": {
             "one": "золотой",
             "many": "золотой"
         },
         "GINGER": {
-            "one": "ginger",
-            "many": "ginger"
+            "one": "рыжий",
+            "many": "рыжие"
         },
         "DARKGINGER": {
-            "one": "ginger",
-            "many": "dark ginger"
+            "one": "рыжий",
+            "many": "тёмно-рыжий"
         },
         "SIENNA": {
-            "one": "ginger",
-            "many": "dark ginger"
+            "one": "рыжий",
+            "many": "тёмно-рыжий"
         },
         "LIGHTBROWN": {
-            "one": "коричневый",
-            "many": "light brown"
+            "one": "бурый",
+            "many": "светло-бурый"
         },
         "LILAC": {
-            "one": "brown",
-            "many": "light brown"
+            "one": "brбурыйown",
+            "many": "светло-бурый"
         },
         "BROWN": {
-            "one": "brown",
-            "many": "brown"
+            "one": "бурый",
+            "many": "бурый"
         },
         "GOLDEN-BROWN": {
-            "one": "brown",
-            "many": "golden brown"
+            "one": "бурый",
+            "many": "золото-бурый"
         },
         "DARKBROWN": {
             "one": "brown",
-            "many": "dark brown"
+            "many": "тёмно-бурый"
         },
         "CHOCOLATE": {
-            "one": "brown",
-            "many": "dark brown"
+            "one": "бурый",
+            "many": "тёмно-бурый"
         },
-        "SingleColour": "сплошной окрас",
+        "SingleColour": "сплошной",
         "SingleColour_long": "%{color}",
-        "TwoColour": "двухцветный окрас",
+        "TwoColour": "двухцветный",
         "TwoColour_long": "%{color}",
         "Tabby": "табби",
         "Tabby_long": "%{color} табби",
         "Speckled": "пятнистый",
         "Speckled_long": "пятнистый %{color}",
         "Bengal": "бенгал",
-        "Bengal_long": "экзотическая пятнистость %{color} окраса",
+        "Bengal_long": "экзотическая пятнистость %{color}",
         "Marbled": "мраморный",
-        "Marbled_long": "%{color} tabby",
+        "Marbled_long": "%{color} табби",
         "Ticked": "тикированный",
         "Ticked_long": "%{color} ticked",
-        "Smoke": "дым",
-        "Smoke_long": "%{color} smoke",
-        "Mackerel": "mackerel",
-        "Mackerel_long": "%{color} tabby",
-        "Classic": "classic",
-        "Classic_long": "%{color} tabby",
-        "Agouti": "agouti",
-        "Agouti_long": "%{color} tabby",
-        "Singlestripe": "single-striped",
-        "Singlestripe_long": "dorsal-striped %{color}",
-        "Rosette": "Rosette",
-        "Rosette_long": "unusually spotted %{color}",
-        "Sokoke": "Sokoke",
-        "Sokoke_long": "%{color} tabby",
-        "Masked": "Masked",
-        "Masked_long": "masked %{color} tabby",
-        "Calico": "calico",
-        "Calico_tabby": "calico tabby",
-        "Tortie": "tortie",
-        "Tortie_tabby": "tortie tabby",
-        "mottled": "mottled",
-        "mottled_long": "%{color} mottled",
-        "point": "%{color} point",
-        "NOTAIL": "no tail",
-        "HALFTAIL": "half a tail",
-        "NOPAW": "three legs",
-        "NOLEFTEAR": "a missing ear",
-        "NORIGHTEAR": "a missing ear",
-        "NOEAR": "no ears",
-        "vitiligo": "vitiligo",
-        "long_furred": "long-furred",
-        "scarred": "scarred",
-        "fur_short": "short",
-        "fur_medium": "medium",
-        "fur_long": "long"
+        "Smoke": "дымчатый",
+        "Smoke_long": "%{color} дымчатый",
+        "Mackerel": "макрель",
+        "Mackerel_long": "%{color} табби",
+        "Classic": "обычный",
+        "Classic_long": "%{color} табби",
+        "Agouti": "агути",
+        "Agouti_long": "%{color} табби",
+        "Singlestripe": "однополосый",
+        "Singlestripe_long": "с полосой на спине %{color}",
+        "Rosette": "розеточный",
+        "Rosette_long": "уникально пятнистый %{color}",
+        "Sokoke": "сококе",
+        "Sokoke_long": "%{color} табби",
+        "Masked": "масковый",
+        "Masked_long": "масковый %{color} табби",
+        "Calico": "калико",
+        "Calico_tabby": "калико табби",
+        "Tortie": "черепаховый",
+        "Tortie_tabby": "черепаховый табби",
+        "mottled": "крапчатый",
+        "mottled_long": "%{color} крапчатый",
+        "point": "%{color} пойнт",
+        "NOTAIL": "без хвоста",
+        "HALFTAIL": "полхвоста",
+        "NOPAW": "три ноги",
+        "NOLEFTEAR": "без уха",
+        "NORIGHTEAR": "без уха",
+        "NOEAR": "без ушей",
+        "vitiligo": "витилиго",
+        "long_furred": "длинношерстный",
+        "scarred": "со шрамами",
+        "fur_short": "короткая",
+        "fur_medium": "средняя",
+        "fur_long": "длинная"
     }
 }

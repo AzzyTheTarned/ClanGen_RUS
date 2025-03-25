@@ -1,9 +1,9 @@
 {
     "ru": {
         "content_warning": "Внимание: В игре присутствуют: кровь, насилие и сцены жестокости по отношению к животным",
-        "tooltip_twitter": "Check out our Twitter!",
-        "tooltip_tumblr": "Check out our Tumblr!",
-        "tooltip_discord": "Join our Discord!",
+        "tooltip_twitter": "Наш Twitter!",
+        "tooltip_tumblr": "Наш Tumblr!",
+        "tooltip_discord": "Наш Discord!",
         "error_text": "Произошла ошибка при загрузке игры:%{error}%{traceback}",
         "error_gethelp": "Пожалуйста, присоединитесь к серверу Discord и обратитесь за технической поддержкой. Мы будем рады помочь! Пожалуйста, укажите сообщение об ошибке и текст ошибки ниже (если есть).<br><a href=\"https:\/\/discord.gg\/clangen\">Discord<\/a>"
     }

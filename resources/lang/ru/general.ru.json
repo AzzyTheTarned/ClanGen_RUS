@@ -1,8 +1,8 @@
 {
     "ru": {
         "moons_age": {
-            "one": "1 moon",
-            "many": "%{count} moons"
+            "one": "1 луна",
+            "many": "%{count} луны/лун"
         },
         "moons_age_in_death": {
             "one": "1 moon (in death)",
@@ -14,189 +14,189 @@
         },
         "moon_date": "moon %{moon}",
         "leader": {
-            "one": "leader",
-            "many": "leaders"
+            "one": "Лидер",
+            "many": "Лидеры"
         },
         "deputy": {
-            "one": "deputy",
-            "many": "deputies"
+            "one": "глашатый",
+            "many": "глашатые"
         },
         "warrior": {
-            "one": "warrior",
-            "many": "warriors"
+            "one": "воин",
+            "many": "воины"
         },
         "medicine cat": {
-            "one": "medicine cat",
-            "many": "medicine cats"
+            "one": "целитель",
+            "many": "целитили"
         },
         "mediator": {
-            "one": "mediator",
-            "many": "mediators"
+            "one": "миротворец",
+            "many": "миротворцы"
         },
         "apprentice": {
-            "one": "apprentice",
-            "many": "apprentices"
+            "one": "ученик",
+            "many": "ученики"
         },
         "medicine cat apprentice": {
-            "one": "medicine cat apprentice",
-            "many": "medicine cat apprentices"
+            "one": "ученик целителя",
+            "many": "ученики целителей"
         },
         "mediator apprentice": {
-            "one": "mediator apprentice",
-            "many": "mediator apprentices"
+            "one": "ученик миротворца",
+            "many": "ученики миротворцев"
         },
         "queen": {
-            "one": "queen",
-            "many": "queens"
+            "one": "королева",
+            "many": "королевы"
         },
         "queen\/pregnant": {
-            "one": "queen\/pregnant cat",
-            "many": "queens\/pregnant cats"
+            "one": "королева\/родитель",
+            "many": "королевы\/родители"
         },
         "newborn": {
-            "one": "newborn",
-            "many": "newborns"
+            "one": "новорождёный",
+            "many": "новорождёные"
         },
         "kitten": {
-            "one": "kitten",
-            "many": "kittens"
+            "one": "котёнок",
+            "many": "котята"
         },
-        "kitten_profile": "young",
-        "adolescent": "adolescent",
-        "young adult": "young adult",
-        "adult": "adult",
-        "senior adult": "senior adult",
-        "senior": "senior",
+        "kitten_profile": "ребёнок",
+        "adolescent": "подросток",
+        "young adult": "молодой взрослый",
+        "adult": "взрослый",
+        "senior adult": "зрелый взрослый",
+        "senior": "пожилой",
         "kit": {
-            "one": "kit",
-            "many": "kits"
+            "one": "котёнок",
+            "many": "котята"
         },
         "elder": {
-            "one": "elder",
-            "many": "elders"
+            "one": "старешийна",
+            "many": "старейшины"
         },
         "loner": {
-            "one": "loner",
-            "many": "loners"
+            "one": "одиночка",
+            "many": "одиночки"
         },
         "rogue": {
-            "one": "rogue",
-            "many": "rogues"
+            "one": "бродяга",
+            "many": "бродяги"
         },
         "kittypet": {
-            "one": "kittypet",
-            "many": "kittypets"
+            "one": "Домашняя киска",
+            "many": "Домашнии киски"
         },
         "former Clancat": {
-            "one": "former Clancat",
-            "many": "former Clancats"
+            "one": "Бывший кот Племени",
+            "many": "Бывшие коты Племени"
         },
         "exiled": {
-            "one": "exiled",
-            "many": "exiled"
+            "one": "изгнанник",
+            "many": "изгнанники"
         },
-        "lost": "lost",
+        "lost": "потерявшийся",
         "mate": {
-            "one": "mate",
-            "many": "mates"
+            "one": "пара",
+            "many": "пары"
         },
-        "she-cat": "she-cat",
-        "tom": "tom",
+        "she-cat": "кошка",
+        "tom": "кот",
         "cat": "cat",
-        "female": "female",
-        "male": "male",
-        "trans female": "trans female",
-        "trans male": "trans male",
-        "nonbinary": "nonbinary",
+        "female": "женский",
+        "male": "мужской",
+        "trans female": "транс дувушка",
+        "trans male": "транс мужчимна",
+        "nonbinary": "небинарный",
         "is": "is",
         "are": "are",
-        "can_work": "This cat can work",
-        "cant_work": "This cat isn't able to work",
-        "cant_work_condition": "Can't work with this condition",
-        "exp_label": "exp: %{exp}",
-        "newleaf": "newleaf",
-        "Newleaf": "Newleaf",
-        "greenleaf": "greenleaf",
-        "Greenleaf": "Greenleaf",
-        "leaf-fall": "leaf-fall",
-        "Leaf-fall": "Leaf-fall",
-        "leaf-bare": "leaf-bare",
-        "Leaf-bare": "Leaf-bare",
+        "can_work": "этот кот может работать",
+        "cant_work": "Этот кот не может работать",
+        "cant_work_condition": "Не может работать в таком состоянии",
+        "exp_label": "опыт: %{exp}",
+        "newleaf": "юыне-листья",
+        "Newleaf": "Юные-Листья",
+        "greenleaf": "зелёные листья",
+        "Greenleaf": "Зёленые Листья",
+        "leaf-fall": "падающие листья",
+        "Leaf-fall": "падающие Листья",
+        "leaf-bare": "голые деревья",
+        "Leaf-bare": "голые Деревья",
         "relation_BLOOD": "",
-        "relation_ADOPTIVE": "adoptive",
-        "relation_HALF_BLOOD": "half sibling",
-        "relation_NOT_BLOOD": "not blood related",
-        "relation_RELATED": "blood related",
-        "related_label": "related: %{relation}",
-        "niece": "niece",
-        "nephew": "nephew",
-        "siblings_child": "sibling's child",
-        "aunt": "aunt",
-        "uncle": "uncle",
-        "parents_sibling": "parent's sibling",
-        "grandparent": "grandparent",
-        "grandchild": "grandchild",
-        "parent": "parent",
-        "child": "child",
-        "sibling": "sibling",
-        "sibling_littermate": "sibling (littermate)",
-        "cousin": "cousin",
-        "starclan": "StarClan",
-        "dark_forest": "Dark Forest",
+        "relation_ADOPTIVE": "приёмный",
+        "relation_HALF_BLOOD": "сводный",
+        "relation_NOT_BLOOD": "неродственный",
+        "relation_RELATED": "кровный",
+        "related_label": "родство: %{relation}",
+        "niece": "племянница",
+        "nephew": "племянник",
+        "siblings_child": "племянник/племянница",
+        "aunt": "тётя",
+        "uncle": "дядя",
+        "parents_sibling": "брат/сестра родителя",
+        "grandparent": "дедушка/бабушка",
+        "grandchild": "внук/внучка",
+        "parent": "родитель",
+        "child": "ребёнок",
+        "sibling": "брат/сестра",
+        "sibling_littermate": "брат/сестра (littermate)",
+        "cousin": "двоюродный брат/сестра",
+        "starclan": "Звёздное Племя",
+        "dark_forest": "Сумрачный Лес",
         "unknown_residence": "Unknown Residence",
-        "empty": "empty",
-        "none": "none",
-        "name_search": "name search",
-        "has_a_mate": "has a mate",
-        "cats_mate": "%{name}'s mate",
-        "mate_none": "mate: none",
-        "mate_living": "(living)",
-        "mate_dead": "(dead)",
-        "mate_away": "(away)",
+        "empty": "пусто",
+        "none": "нет",
+        "name_search": "поиск по имени",
+        "has_a_mate": "имеет пару",
+        "cats_mate": "Партнёр %{name}",
+        "mate_none": "Партнёр: нет",
+        "mate_living": "(жив)",
+        "mate_dead": "(погиб)",
+        "mate_away": "(отсутствует)",
         "mate_label": {
-            "one": "mate: %{mates}",
-            "many": "mates: %{mates}"
+            "one": "пара: %{mates}",
+            "many": "пары: %{mates}"
         },
         "mate_extra": {
             "one": "1 other",
             "many": "%{count} others"
         },
         "mentor": {
-            "one": "mentor",
-            "many": "mentors"
+            "one": "наставник",
+            "many": "наставники"
         },
-        "mentor_label": "mentor: %{mentor}",
+        "mentor_label": "наставник: %{mentor}",
         "apprentice_label": {
             "zero": "",
-            "one": "apprentice: %{apprentices}",
-            "many": "apprentices: %{apprentices}"
+            "one": "оруженосец: %{apprentices}",
+            "many": "оруженосцы: %{apprentices}"
         },
         "former_apprentice_label": {
-            "one": "former apprentice: %{apprentices}",
-            "many": "former apprentices: %{apprentices}"
+            "one": "бывший оруженосец: %{apprentices}",
+            "many": "бывшие оруженосцы: %{apprentices}"
         },
         "apprentice_extra": {
             "zero": "",
             "one": "1 other",
             "many": "%{count} others"
         },
-        "dead_label": "%{name} (dead)",
-        "mark_favorite": "Mark as favorite",
-        "remove_favorite": "Remove favorite",
+        "dead_label": "%{name} (погиб(ла))",
+        "mark_favorite": "Добавить в избранное",
+        "remove_favorite": "Удалить из избранного",
         "has_permanent_condition": "has a permanent condition",
         "born_with": "born with this condition",
         "had_perm_condition_for": {
             "one": "has had this condtion for %{count} moon",
             "many": "has had this condition for %{count} moons"
         },
-        "had_injury_for": "has been hurt for %{moons}",
-        "pregnant_for": "has been pregnant for %{moons}",
-        "recovering_from_birth_for": "has been recovering for %{moons}",
-        "sick": "sick",
-        "injured": "injured",
-        "grieving": "grieving",
-        "fleas": "flea-ridden",
-        "is_infected": "is infected",
-        "is_festering": "is festering"
+        "had_injury_for": "получил(а) ранение %{moons}",
+        "pregnant_for": "беременна  %{moons}",
+        "recovering_from_birth_for": "восстановление после родов %{moons}",
+        "sick": "болен(на)",
+        "injured": "ранен(а)",
+        "grieving": "в трауре",
+        "fleas": "кишит блохами",
+        "is_infected": "инфицирован(а)",
+        "is_festering": "нагноение"
     }
 }

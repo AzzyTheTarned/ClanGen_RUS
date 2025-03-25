@@ -1,9 +1,9 @@
 {
     "ru": {
-        "training_kit": "This cat has not begun training.",
-        "training_app": "This cat has not finished training.",
+        "training_kit": "Этот кот/кошка ещё не начал/начала обучение.",
+        "training_app": "Этот кот/кошка ещё не закончил/закончила обучение..",
         "training_mentors": {
-            "zero": "This cat either did not have a mentor, or {PRONOUN\/m_c\/poss} mentor is unknown.",
+            "zero": "У этого кота/кошки либо не было наставника, либо {PRONOUN/m_c/poss} наставник неизвестен.",
             "one": "{PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/were\/was} mentored by %{mentors}.",
             "many": "{PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/were\/was} mentored by %{mentors}."
         },
@@ -21,25 +21,25 @@
             "one": "lost {PRONOUN\/m_c\/poss} %{cardinal} life",
             "many": "lost {PRONOUN\/m_c\/poss} %{cardinal} lives"
         },
-        "leader_death_retired": "lost {PRONOUN\/m_c\/poss} last remaining life",
-        "leader_death_default": "lost a life",
+        "leader_death_retired": "потерял {PRONOUN\/m_c\/poss} последнюю жизнь",
+        "leader_death_default": "потерял жизнь",
         "leader_lost_lives": {
-            "one": "m_c lost a life.",
-            "many": "m_c lost %{count} lives."
+            "one": "m_c потерял жизнь.",
+            "many": "m_c потерял %{count} жизни/ней."
         },
-        "regular_death": "%{cats} died.",
-        "death_cause": "%{death} when {PRONOUN\/m_c\/subject} %{text}.",
-        "murdered": "%{name} murdered %{victims}.",
+        "regular_death": "%{cats} погиб.",
+        "death_cause": "%{death} когда {PRONOUN\/m_c\/subject} %{text}.",
+        "murdered": "%{name} убит %{victims}.",
         "leader_lives_left_df": {
-            "zero": "The leader has no lives left and has travelled to the Dark Forest.",
-            "one": "The leader has one life left.",
-            "many": "The leader has %{count} lives left."
+            "zero": "У лидера не осталось жизней, и он отправился в Сумрачный Лес.",
+            "one": "У лидера осталась одна жизнь.",
+            "many": "У лидера осталось %{count} жизни/ей."
         },
         "leader_lives_left_sc": {
-            "zero": "The leader has no lives left and has travelled to StarClan.",
-            "one": "The leader has one life left.",
-            "many": "The leader has %{count} lives left."
+            "zero": "У лидера не осталось жизней, и он отправился в Звёздное Племя.",
+            "one": "У лидера осталась одна жизнь.",
+            "many": "У лидера осталось %{count} жизни/ей."
         },
-        "scar_from_injury": "m_c was scarred from an injury (%{injury_name})."
+        "scar_from_injury": "m_c получил шрам от травмы  (%{injury_name})."
     }
 }
