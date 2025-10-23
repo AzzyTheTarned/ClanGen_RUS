@@ -16,12 +16,12 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "As the patrol is marking the border lines, a gang of rogues burst from the beach grass! An ambush!",
-        "decline_text": "The patrol turns tail and races away! The borders are left open for the rogues to muddy.",
+        "intro_text": "Пока патруль метит границы, из прибрежных зарослей выскакивает шайка одиночек! Засада!",
+        "decline_text": "Патруль разворачивается и бежит прочь! Границы остаются незащищёнными, и одиночки могут их нарушить.",
         "chance_of_success": 10,
         "success_outcomes": [
             {
-                "text": "The patrol descends into battle without a second thought, eventually driving the rogues away.",
+                "text": "Патруль без раздумий вступает в бой и в конце концов прогоняет одиночек.",
                 "exp": 30,
                 "weight": 20,
                 "relationships": [
@@ -43,7 +43,7 @@
                 ]
             },
             {
-                "text": "s_c immediately leaps to protect {PRONOUN\/s_c\/poss} Clanmates. {PRONOUN\/s_c\/poss\/CAP} ferocity in battle terrifies the rogues. Realizing that they've sorely underestimated the Clan cats, the rogues turn tail and run.",
+                "text": "s_c немедленно бросается(ются) защищать {PRONOUN\/s_c\/poss} сородичей. {PRONOUN\/s_c\/poss\/CAP} ярость в бою пугает одиночек. Поняв, что они сильно недооценили котов племени, одиночки бегут прочь.",
                 "exp": 30,
                 "weight": 20,
                 "stat_skill": [
@@ -68,7 +68,7 @@
                 ]
             },
             {
-                "text": "s_c revels in the battle, leaping into the fray with {PRONOUN\/s_c\/poss} teeth bared and claws unsheathed. The rogues are quickly driven away by the patrol.",
+                "text": "s_c наслаждается(ются) боем, бросаясь(ются) в схватку с оскаленными зубами и выпущенными когтями. Патруль быстро прогоняет одиночек.",
                 "exp": 30,
                 "weight": 20,
                 "stat_trait": [
@@ -97,20 +97,20 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The rogues are terrifyingly coordinated and use the patrol's shock and confusion against them. The patrol cats are picked off one by one, and only a couple manage to escape the slaughter.",
+                "text": "Одиночки ужасающе скоординированы и используют шок и замешательство патруля против них. Котов патруля выбивают одного за другим, и лишь нескольким удаётся избежать резни.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": [
                     "multi"
                 ],
                 "history_text": {
-                    "scar": "m_c was badly scarred when rogues ambushed {PRONOUN\/m_c\/poss} patrol.",
-                    "reg_death": "m_c was killed when rogues ambushed {PRONOUN\/m_c\/poss} patrol.",
-                    "lead_death": "killed in a rogue ambush"
+                    "scar": "m_c получил(а) серьёзные шрамы, когда одиночки устроили засаду на {PRONOUN\/m_c\/poss} патруль.",
+                    "reg_death": "m_c погиб(ла), когда одиночки устроили засаду на {PRONOUN\/m_c\/poss} патруль.",
+                    "lead_death": "погиб(ла) в засаде одиночек"
                 }
             },
             {
-                "text": "Taken by surprise, the patrol scatters and loses cohesion. The rogues are quick to take advantage of the confusion and r_c is badly wounded, forcing the patrol to retreat.",
+                "text": "Застигнутые врасплох, патруль рассыпается и теряет сплочённость. Одиночки быстро пользуются замешательством, и r_c получает серьёзное ранение, вынуждая патруль отступить.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -127,9 +127,9 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was badly scarred when rogues ambushed {PRONOUN\/m_c\/poss} patrol.",
-                    "reg_death": "m_c died of injuries sustained in a rogue ambush.",
-                    "lead_death": "died of injuries sustained in a rogue ambush"
+                    "scar": "m_c получил(а) серьёзные шрамы, когда одиночки устроили засаду на {PRONOUN\/m_c\/poss} патруль.",
+                    "reg_death": "m_c умер(ла) от ран, полученных в засаде одиночек.",
+                    "lead_death": "умер(ла) от ран, полученных в засаде одиночек"
                 }
             }
         ]
@@ -151,12 +151,12 @@
         "max_cats": 1,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "As r_c is marking the border lines, a gang of rogues burst from the beach grass! An ambush!",
-        "decline_text": "r_c turns tail and races away! The rogues have {PRONOUN\/r_c\/object} far outnumbered; warning the Clan is more important than playing the hero.",
+        "intro_text": "Пока r_c метит границы, из прибрежных зарослей выскакивает шайка одиночек! Засада!",
+        "decline_text": "r_c разворачивается и бежит прочь! Одиночки значительно превосходят по численности; предупредить племя важнее, чем играть в героя.",
         "chance_of_success": 10,
         "success_outcomes": [
             {
-                "text": "Stunned for a moment, r_c is nearly caught in the teeth of the first rogue, but {PRONOUN\/r_c\/subject} {VERB\/r_c\/manage\/manages} to dodge and weave through the onslaught of attacks. Eventually, r_c escapes the fray and pelts towards camp with yowls of warning bursting from {PRONOUN\/r_c\/poss} lungs.",
+                "text": "Ошеломлённый(ая) на мгновение, r_c почти попадает в зубы первому одиночке, но {PRONOUN\/r_c\/subject} удаётся увернуться и проскользнуть сквозь шквал атак. В конце концов, r_c вырывается из схватки и мчится в лагерь с предупреждающими воплями, вырывающимися из {PRONOUN\/r_c\/poss} лёгких.",
                 "exp": 30,
                 "weight": 20,
                 "relationships": [
@@ -177,7 +177,7 @@
                 ]
             },
             {
-                "text": "s_c snarls at the rogues, outnumbered but not cowed. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/throw\/throws} {PRONOUN\/s_c\/self} at the intruders with such ferocity that the rogues are taken aback. Alarmed by the Clan cat's lack of fear and self-preservation, the rogues freeze. s_c sees {PRONOUN\/s_c\/poss} opportunity to run and takes it, racing back to the camp to gather more warriors and return.",
+                "text": "s_c рычит(ат) на одиночек, уступая в численности, но не сломлен(а). {PRONOUN\/s_c\/subject\/CAP} бросается на нарушителей с такой яростью, что одиночки отступают. Встревоженные отсутствием страха и инстинкта самосохранения у кота племени, одиночки замирают. s_c видит(ят) {PRONOUN\/s_c\/poss} возможность бежать и использует её, мчась обратно в лагерь, чтобы собрать воинов и вернуться.",
                 "exp": 30,
                 "weight": 20,
                 "stat_skill": [
@@ -203,7 +203,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "s_c snarls at the rogues, outnumbered but not cowed. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/throw\/throws} {PRONOUN\/s_c\/self} at the intruders with such ferocity that the rogues are taken aback. The shock only lasts a moment before they descend on the warrior once more. Eventually, s_c has no choice but to escape before {PRONOUN\/s_c\/subject}{VERB\/s_c\/'re\/'s} killed.",
+                "text": "s_c рычит(ат) на одиночек, уступая в численности, но не сломлен(а). {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/бросается\/бросаются} на нарушителей с такой яростью, что одиночки отступают. Шок длится лишь мгновение, прежде чем они снова набрасываются на воина. В конце концов, s_c не остаётся выбора, кроме как бежать, пока {PRONOUN\/s_c\/subject} {VERB\/s_c\/не погиб\/не погибла}.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -229,15 +229,15 @@
                 ]
             },
             {
-                "text": "The rogues greatly outnumber r_c and have no trouble killing the lone cat. {PRONOUN\/r_c\/poss\/CAP} body is discovered the next day, covered in wounds and cold.",
+                "text": "Одиночки значительно превосходят r_c по численности и без труда убивают одинокого кота. {PRONOUN\/r_c\/poss\/CAP} тело обнаруживают на следующий день, покрытое ранами и холодное.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": [
                     "r_c"
                 ],
                 "history_text": {
-                    "reg_death": "m_c was killed when rogues ambushed {PRONOUN\/m_c\/object} while on a solo patrol.",
-                    "lead_death": "{VERB\/m_c\/were\/was} killed in a rogue ambush"
+                    "reg_death": "m_c погиб(ла), когда одиночки устроили засаду на {PRONOUN\/m_c\/object} во время одиночного патруля.",
+                    "lead_death": "{VERB\/m_c\/были\/был} убит(а) в засаде одиночек"
                 },
                 "relationships": [
                     {
@@ -275,12 +275,12 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "As the patrol is marking the border lines, a gang of rogues stalk out of the beach grass to confront the Clan cats!",
-        "decline_text": "The patrol turns tail and races away! The borders are left open for the rogues to muddy.",
+        "intro_text": "Пока патруль метит границы, шайка одиночек выходит из прибрежных зарослей, чтобы противостоять котам племени!",
+        "decline_text": "Патруль разворачивается и бежит прочь! Границы остаются незащищёнными, и одиночки могут их нарушить.",
         "chance_of_success": 10,
         "success_outcomes": [
             {
-                "text": "The rogues posture and jeer, eventually provoking a battle. The Clan cats are strong, however, and the rogues seem to be weakened by hunger. The patrol easily drives the intruders away.",
+                "text": "Одиночки позируют и насмехаются, в конце концов спровоцировав бой. Однако коты племени сильны, а одиночки, кажется, ослаблены голодом. Патруль с лёгкостью прогоняет нарушителей.",
                 "exp": 30,
                 "weight": 20,
                 "relationships": [
@@ -301,7 +301,7 @@
                 ]
             },
             {
-                "text": "The rogues posture and jeer, eventually provoking a battle. The Clan cats are strong, however, and after a short fight, the rogues are forced to retreat.",
+                "text": "Одиночки позируют и насмехаются, в конце концов спровоцировав бой. Однако коты племени сильны, и после короткой схватки одиночки вынуждены отступить.",
                 "exp": 30,
                 "weight": 5,
                 "relationships": [
@@ -322,7 +322,7 @@
                 ]
             },
             {
-                "text": "s_c takes the lead, confronting the gang with confidence. Eventually, the rogues admit that they've been struggling to find enough prey and were looking to steal richer territory from the Clan. Tensions are eased when s_c informs the rogues of a prey-rich forest outside of c_n territory.",
+                "text": "s_c берёт(ют) на себя инициативу, уверенно противостоя шайке. В конце концов одиночки признаются, что им трудно найти достаточно добычи, и они хотели украсть более богатую территорию у племени. Напряжение спадает, когда s_c сообщает одиночкам о богатом добычей лесе за пределами территории c_n.",
                 "exp": 30,
                 "weight": 20,
                 "stat_skill": [
@@ -346,7 +346,7 @@
                 ]
             },
             {
-                "text": "s_c takes the lead, confronting the gang with confidence. Eventually, the rogues admit that they've been struggling to find enough prey and were looking to steal richer territory from the Clan. Tensions are eased when s_c informs the rogues of a prey-rich forest outside of c_n territory.",
+                "text": "s_c берёт(ют) на себя инициативу, уверенно противостоя шайке. В конце концов одиночки признаются, что им трудно найти достаточно добычи, и они хотели украсть более богатую территорию у племени. Напряжение спадает, когда s_c сообщает одиночкам о богатом добычей лесе за пределами территории c_n.",
                 "exp": 30,
                 "weight": 20,
                 "stat_trait": [
@@ -373,16 +373,16 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The rogues are terrifyingly coordinated and use the patrol's momentary surprise to their advantage. The patrol cats are picked off one by one, and only a couple manage to escape the slaughter.",
+                "text": "Одиночки ужасающе скоординированы и используют momentary surprise патруля в своих интересах. Котов патруля выбивают одного за другим, и лишь нескольким удаётся избежать резни.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": [
                     "multi"
                 ],
                 "history_text": {
-                    "scar": "m_c was badly scarred when rogues attacked {PRONOUN\/m_c\/poss} patrol.",
-                    "reg_death": "m_c died of injuries sustained in a rogue ambush.",
-                    "lead_death": "died of injuries sustained in a rogue ambush"
+                    "scar": "m_c получил(а) серьёзные шрамы, когда одиночки напали на {PRONOUN\/m_c\/poss} патруль.",
+                    "reg_death": "m_c умер(ла) от ран, полученных в засаде одиночек.",
+                    "lead_death": "умер(ла) от ран, полученных в засаде одиночек"
                 },
                 "relationships": [
                     {
@@ -402,7 +402,7 @@
                 ]
             },
             {
-                "text": "The rogues posture and jeer, eventually provoking a battle. They prove to be strong fighters, and r_c is badly injured, forcing the patrol to retreat.",
+                "text": "Одиночки позируют и насмехаются, в конце концов спровоцировав бой. Они оказываются сильными бойцами, и r_c получает серьёзное ранение, вынуждая патруль отступить.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -419,9 +419,9 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was badly scarred when rogues attacked {PRONOUN\/m_c\/poss} patrol.",
-                    "reg_death": "m_c died of injuries sustained in a rogue ambush.",
-                    "lead_death": "died of injuries sustained in a rogue ambush"
+                    "scar": "m_c получил(а) серьёзные шрамы, когда одиночки напали на {PRONOUN\/m_c\/poss} патруль.",
+                    "reg_death": "m_c умер(ла) от ран, полученных в засаде одиночек.",
+                    "lead_death": "умер(ла) от ран, полученных в засаде одиночек"
                 },
                 "relationships": [
                     {
@@ -443,14 +443,14 @@
         ],
         "antag_fail_outcomes": [
             {
-                "text": "The patrol descends into battle without a second thought, but the rogues are stronger than expected, and eventually the patrol is forced to retreat.",
+                "text": "Патруль без раздумий вступает в бой, но одиночки оказываются сильнее, чем ожидалось, и в конце концов патруль вынужден отступить.",
                 "exp": 0,
                 "weight": 20
             }
         ],
         "antag_success_outcomes": [
             {
-                "text": "The patrol descends into battle without a second thought, eventually driving the rogues away.",
+                "text": "Патруль без раздумий вступает в бой и в конце концов прогоняет одиночек.",
                 "exp": 30,
                 "weight": 20
             }
@@ -473,12 +473,12 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "There are dark clouds on the horizon, and p_l wonders if the patrol should continue.",
-        "decline_text": "The patrol decides to head back early.",
+        "intro_text": "На горизонте тёмные тучи, и p_l размышляет(ют), стоит ли патрулю продолжать.",
+        "decline_text": "Патруль решает вернуться пораньше.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "While it's pretty gray up there, the promised rain never comes.",
+                "text": "Хотя небо довольно серое, обещанный дождь так и не начинается.",
                 "exp": 20,
                 "weight": 20,
                 "relationships": [
@@ -499,7 +499,7 @@
                 ]
             },
             {
-                "text": "The cats get wet in the rain, but the patrol is otherwise successful.",
+                "text": "Коты промокают под дождём, но в остальном патруль успешен.",
                 "exp": 20,
                 "weight": 5,
                 "relationships": [
@@ -520,7 +520,7 @@
                 ]
             },
             {
-                "text": "s_c makes a careful judgment, and the patrol keeps going. They stick to the clifftops, avoiding the low beaches as the rain begins to pour around them.",
+                "text": "s_c тщательно оценивает(ют) ситуацию, и патруль продолжает путь. Они держатся(ятся) на вершинах утёсов, избегая низких пляжей, пока вокруг них начинается ливень.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -544,7 +544,7 @@
                 ]
             },
             {
-                "text": "It's not worth the risk - s_c convinces the patrol to head for home.",
+                "text": "Риск не стоит того - s_c убеждает(ят) патруль вернуться домой.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -572,15 +572,15 @@
         ],
         "fail_outcomes": [
             {
-                "text": "There is a downpour, and a sudden flood from the overflowing river sweeps all of the cats in the patrol away. Some manage to ride the waves, paddling for their lives, but many are lost forever.",
+                "text": "Начинается ливень, и внезапный паводок из разлившейся реки смывает всех котов патруля. Некоторые умудряются поймать волну, отчаянно гребя, но многие потеряны навсегда.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": [
                     "multi"
                 ],
                 "history_text": {
-                    "reg_death": "This cat was drowned by floodwaters.",
-                    "lead_death": "drowned in floodwaters"
+                    "reg_death": "Этот кот утонул в паводке.",
+                    "lead_death": "утонул(ла) в паводке"
                 }
             }
         ]
@@ -602,12 +602,12 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "There are dark clouds on the horizon, and p_l wonders if the patrol should continue.",
-        "decline_text": "The patrol decides to head back early.",
+        "intro_text": "На горизонте тёмные тучи, и p_l размышляет(ют), стоит ли патрулю продолжать.",
+        "decline_text": "Патруль решает вернуться пораньше.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "While it's pretty gray up there, the promised rain never comes.",
+                "text": "Хотя небо довольно серое, обещанный дождь так и не начинается.",
                 "exp": 20,
                 "weight": 20,
                 "relationships": [
@@ -628,7 +628,7 @@
                 ]
             },
             {
-                "text": "The cats get wet in the rain, but the patrol is otherwise successful.",
+                "text": "Коты промокают под дождём, но в остальном патруль успешен.",
                 "exp": 20,
                 "weight": 5,
                 "relationships": [
@@ -649,7 +649,7 @@
                 ]
             },
             {
-                "text": "s_c makes a careful judgment, and the patrol keeps going. They stick to the clifftops, avoiding the low beaches as the rain begins to pour around them.",
+                "text": "s_c тщательно оценивает(ют) ситуацию, и патруль продолжает путь. Они держатся(ятся) на вершинах утёсов, избегая низких пляжей, пока вокруг них начинается ливень.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -673,7 +673,7 @@
                 ]
             },
             {
-                "text": "It's not worth the risk - s_c convinces the patrol to head for home.",
+                "text": "Риск не стоит того - s_c убеждает(ят) патруль вернуться домой.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -701,15 +701,15 @@
         ],
         "fail_outcomes": [
             {
-                "text": "There is a downpour, and a sudden flood from the overflowing river sweeps all of the cats in the patrol away. p_l yowls out a warning, and most of the patrol is able to react fast and strike out strongly for passing pieces of driftwood, but r_c doesn't make it, sinking beneath the water.",
+                "text": "Начинается ливень, и внезапный паводок из разлившейся реки смывает всех котов патруля. p_l вопит(ят) предупреждение, и большая часть патруля успевает среагировать и доплыть до проплывающих обломков, но r_c не успевает, уходя под воду.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": [
                     "r_c"
                 ],
                 "history_text": {
-                    "reg_death": "m_c was drowned by floodwaters.",
-                    "lead_death": "drowned in floodwaters"
+                    "reg_death": "m_c утонул(ла) в паводке.",
+                    "lead_death": "утонул(ла) в паводке"
                 }
             }
         ]
@@ -731,22 +731,22 @@
         "max_cats": 1,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "There are dark clouds on the horizon, and r_c wonders if {PRONOUN\/r_c\/subject} should continue.",
-        "decline_text": "r_c decides to head back early.",
+        "intro_text": "На горизонте тёмные тучи, и r_c размышляет(ят), стоит ли продолжать.",
+        "decline_text": "r_c решает(ят) вернуться пораньше.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "While it's pretty gray up there, the promised rain never comes.",
+                "text": "Хотя небо довольно серое, обещанный дождь так и не начинается.",
                 "exp": 20,
                 "weight": 20
             },
             {
-                "text": "r_c gets wet in the rain, but otherwise, the patrol is successful.",
+                "text": "r_c промокает(ют) под дождём, но в остальном патруль успешен.",
                 "exp": 20,
                 "weight": 5
             },
             {
-                "text": "s_c makes a careful judgment and keeps going. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/stick\/sticks} to the clifftops, avoiding the low beaches as the rain begins to pour around {PRONOUN\/s_c\/object}.",
+                "text": "s_c тщательно оценивает(ют) ситуацию и продолжает(ят) путь. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/держится\/держатся} на вершинах утёсов, избегая низких пляжей, пока вокруг {PRONOUN\/s_c\/object} начинается ливень.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -754,7 +754,7 @@
                 ]
             },
             {
-                "text": "It's not worth the risk - s_c heads for home.",
+                "text": "Риск не стоит того - s_c направляется(ятся) домой.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -766,20 +766,20 @@
         ],
         "fail_outcomes": [
             {
-                "text": "There is a downpour, and a sudden flood from the overflowing river sweeps r_c away.",
+                "text": "Начинается ливень, и внезапный паводок из разлившейся реки смывает r_c.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": [
                     "r_c"
                 ],
                 "history_text": {
-                    "scar": "m_c was injured in a flood.",
-                    "reg_death": "m_c was drowned by floodwaters.",
-                    "lead_death": "drowned in floodwaters"
+                    "scar": "m_c был(а) ранен(а) в паводке.",
+                    "reg_death": "m_c утонул(ла) в паводке.",
+                    "lead_death": "утонул(ла) в паводке"
                 }
             },
             {
-                "text": "There is a downpour, and a sudden flood from the overflowing river sweeps r_c away. Injured, gasping for air and paddling desperately, r_c remembers enough of {PRONOUN\/r_c\/poss} training to keep an eye out for driftwood. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/sink\/sinks} {PRONOUN\/r_c\/poss} claws into the first piece that's swept past {PRONOUN\/r_c\/object}. It saves {PRONOUN\/r_c\/poss} life.",
+                "text": "Начинается ливень, и внезапный паводок из разлившейся реки смывает r_c. Раненый(ая), хватая воздух и отчаянно гребя, r_c вспоминает(ят) достаточно из {PRONOUN\/r_c\/poss} обучения, чтобы следить за обломками. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/вонзает\/вонзают} {PRONOUN\/r_c\/poss} когти в первый же проплывающий кусок. Это спасает {PRONOUN\/r_c\/poss} жизнь.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -795,9 +795,9 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was injured in a flood.",
-                    "reg_death": "m_c was drowned by floodwaters.",
-                    "lead_death": "drowned in floodwaters"
+                    "scar": "m_c был(а) ранен(а) в паводке.",
+                    "reg_death": "m_c утонул(ла) в паводке.",
+                    "lead_death": "утонул(ла) в паводке"
                 }
             }
         ]
@@ -819,22 +819,22 @@
         "max_cats": 1,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "There are dark clouds on the horizon, and r_c wonders if {PRONOUN\/r_c\/subject} should continue.",
-        "decline_text": "r_c decides to head back early.",
+        "intro_text": "На горизонте тёмные тучи, и r_c размышляет(ят), стоит ли продолжать.",
+        "decline_text": "r_c решает(ят) вернуться пораньше.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "While it's pretty gray up there, the promised rain never comes.",
+                "text": "Хотя небо довольно серое, обещанный дождь так и не начинается.",
                 "exp": 20,
                 "weight": 20
             },
             {
-                "text": "r_c gets wet in the rain, but otherwise, the patrol is successful.",
+                "text": "r_c промокает(ют) под дождём, но в остальном патруль успешен.",
                 "exp": 20,
                 "weight": 5
             },
             {
-                "text": "s_c makes a careful judgment and keeps going. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/stick\/sticks} to the clifftops, avoiding the low beaches as the rain begins to pour around {PRONOUN\/s_c\/object}.",
+                "text": "s_c тщательно оценивает(ют) ситуацию и продолжает(ят) путь. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/держится\/держатся} на вершинах утёсов, избегая низких пляжей, пока вокруг {PRONOUN\/s_c\/object} начинается ливень.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -842,7 +842,7 @@
                 ]
             },
             {
-                "text": "It's not worth the risk - s_c heads for home.",
+                "text": "Риск не стоит того - s_c направляется(ятся) домой.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -854,7 +854,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "There is a downpour, and a sudden flood from the overflowing river sweeps r_c away. With the little warning {PRONOUN\/r_c\/subject} {VERB\/r_c\/have\/has}, {PRONOUN\/r_c\/subject} {VERB\/r_c\/spot\/spots} a branch being carried by the water and {VERB\/r_c\/strike\/strikes} out strongly for it. Hurt and shivering from both exhaustion and the cold, {PRONOUN\/r_c\/subject} nevertheless {VERB\/r_c\/cling\/clings} to safety as the floodwaters run their course.",
+                "text": "Начинается ливень, и внезапный паводок из разлившейся реки смывает r_c. Имея мало предупреждения, {PRONOUN\/r_c\/subject} {VERB\/r_c\/замечает\/замечают} ветку, несомую водой, и {VERB\/r_c\/плывёт\/плывут} к ней. Раненый(ая) и дрожащий(ая) от истощения и холода, {PRONOUN\/r_c\/subject} тем не менее {VERB\/r_c\/цепляется\/цепляются} за спасение, пока паводок не проходит.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -870,7 +870,7 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was injured in a flood."
+                    "scar": "m_c был(а) ранен(а) в паводке."
                 }
             }
         ]
@@ -892,12 +892,12 @@
         "max_cats": 1,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "While on patrol, r_c notices some suspicious pawprints in the wet sand on the beach.",
-        "decline_text": "{PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/decide\/decides} not to investigate.",
+        "intro_text": "Во время патруля r_c замечает(ят) подозрительные следы лап на влажном песке пляжа.",
+        "decline_text": "{PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/решает\/решают} не расследовать.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "The pawprints lead to a trespassing rogue. r_c quickly hides {PRONOUN\/r_c\/self} in the grass on the sand dunes and sets up an ambush that sends the rogue fleeing off c_n territory.",
+                "text": "Следы ведут к вторгшемуся одиночке. r_c быстро прячется(ятся) в траве на песчаных дюнах и устраивает(ат) засаду, которая заставляет одиночку бежать с территории c_n.",
                 "exp": 10,
                 "weight": 20,
                 "relationships": [
@@ -918,7 +918,7 @@
                 ]
             },
             {
-                "text": "r_c soon realizes that the pawprints smell of c_n. Someone must have wandered through this section of the border recently, but it's not a threat.",
+                "text": "r_c скоро понимает(ят), что следы пахнут c_n. Кто-то, должно быть, недавно бродил в этом участке границы, но это не угроза.",
                 "exp": 10,
                 "weight": 5,
                 "relationships": [
@@ -939,7 +939,7 @@
                 ]
             },
             {
-                "text": "The pawprints lead to a trespassing rogue. s_c throws {PRONOUN\/s_c\/self} at the rogue, hissing furiously, and drives them off c_n territory.",
+                "text": "Следы ведут к вторгшемуся одиночке. s_c бросается(ятся) на одиночку, яростно шипя, и прогоняет(ят) их с территории c_n.",
                 "exp": 10,
                 "weight": 20,
                 "stat_skill": [
@@ -963,7 +963,7 @@
                 ]
             },
             {
-                "text": "Boldly, s_c follows the pawprints to a trespassing rogue and confronts them. Fur puffed up and scowling, {PRONOUN\/s_c\/subject} {VERB\/s_c\/demand\/demands} the rogue leave c_n territory. Intimidated by {PRONOUN\/s_c\/poss} confidence, the rogue gives in and leaves without a fight.",
+                "text": "Смело следуя следам, s_c находит(идёт) вторгшегося одиночку и противостоит(ят) им. С взъерошенной шерстью и хмурый(ая), {PRONOUN\/s_c\/subject} {VERB\/s_c\/требует\/требуют}, чтобы одиночка покинул(а) территорию c_n. Напуганный(ая) {PRONOUN\/s_c\/poss} уверенностью, одиночка уступает и уходит без боя.",
                 "exp": 10,
                 "weight": 20,
                 "stat_trait": [
@@ -1004,7 +1004,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "It turns out they were r_c's own pawprints... r_c huffs with embarrassment, suddenly grateful {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} alone.",
+                "text": "Оказывается, это были собственные следы r_c... r_c фыркает(ат) от смущения, внезапно радуясь, что {PRONOUN\/r_c\/subject} один(на).",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -1025,7 +1025,7 @@
                 ]
             },
             {
-                "text": "The pawprints lead to a trespassing rogue. s_c tries to set up a trap by using the tides to cut off the rogue's escape path, but {PRONOUN\/s_c\/subject} {VERB\/s_c\/are\/is}n't as smart as {PRONOUN\/s_c\/subject} {VERB\/s_c\/think\/thinks} {PRONOUN\/s_c\/subject} {VERB\/s_c\/are\/is}. The trap fails, and the rogue wanders on.",
+                "text": "Следы ведут к вторгшемуся одиночке. s_c пытается(ятся) устроить ловушку, используя приливы, чтобы отрезать путь к отступлению одиночки, но {PRONOUN\/s_c\/subject} не так умен(на), как {PRONOUN\/s_c\/subject} думает(ят). Ловушка проваливается, и одиночка уходит дальше.",
                 "exp": 0,
                 "weight": 20,
                 "stat_skill": [
@@ -1049,16 +1049,16 @@
                 ]
             },
             {
-                "text": "Following the trail with {PRONOUN\/r_c\/poss} nose to the ground, r_c doesn't see the blow that kills {PRONOUN\/r_c\/object}.",
+                "text": "Следуя по следу с {PRONOUN\/r_c\/poss} носом у земли, r_c не видит(ят) удара, который убивает {PRONOUN\/r_c\/object}.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": [
                     "r_c"
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by an invading rogue.",
-                    "reg_death": "m_c was killed by an invading rogue.",
-                    "lead_death": "{VERB\/m_c\/were\/was} killed by an invading rogue"
+                    "scar": "m_c был(а) изувечен(а) вторгшимся одиночкой.",
+                    "reg_death": "m_c был(а) убит(а) вторгшимся одиночкой.",
+                    "lead_death": "{VERB\/m_c\/были\/был} убит(а) вторгшимся одиночкой"
                 },
                 "relationships": [
                     {
@@ -1078,7 +1078,7 @@
                 ]
             },
             {
-                "text": "Following the trail with {PRONOUN\/r_c\/poss} nose to the ground, r_c doesn't see the blow coming. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/haul\/hauls} {PRONOUN\/r_c\/self} to {PRONOUN\/r_c\/poss} feet, spitting with outrage, but the rogue that did it has already turned and run.",
+                "text": "Следуя по следу с {PRONOUN\/r_c\/poss} носом у земли, r_c не видит(ят) приближающегося удара. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/поднимается\/поднимаются} на лапы, яростно плюясь, но одиночка, нанёсший(ая) удар, уже развернулся(ась) и бежал(а).",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -1095,9 +1095,9 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by an invading rogue.",
-                    "reg_death": "m_c died of an injury inflicted by an invading rogue.",
-                    "lead_death": "died of an injury inflicted by an invading rogue"
+                    "scar": "m_c был(а) изувечен(а) вторгшимся одиночкой.",
+                    "reg_death": "m_c умер(ла) от раны, нанесённой вторгшимся одиночкой.",
+                    "lead_death": "умер(ла) от раны, нанесённой вторгшимся одиночкой"
                 },
                 "relationships": [
                     {
@@ -1135,12 +1135,12 @@
         "max_cats": 1,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "While on patrol, r_c notices some suspicious pawprints in the wet sand on the beach.",
-        "decline_text": "{PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/decide\/decides} not to investigate.",
+        "intro_text": "Во время патруля r_c замечает(ят) подозрительные следы лап на влажном песке пляжа.",
+        "decline_text": "{PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/решает\/решают} не расследовать.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "The pawprints lead to a trespassing rogue. r_c quickly hides {PRONOUN\/r_c\/self} in the grass on the sand dunes and sets up an ambush that sends the rogue fleeing off c_n territory.",
+                "text": "Следы ведут к вторгшемуся одиночке. r_c быстро прячется(ятся) в траве на песчаных дюнах и устраивает(ат) засаду, которая заставляет одиночку бежать с территории c_n.",
                 "exp": 10,
                 "weight": 20,
                 "relationships": [
@@ -1161,7 +1161,7 @@
                 ]
             },
             {
-                "text": "r_c soon realizes that the pawprints smell of c_n. Someone must have wandered through this section of the border recently, but it's not a threat.",
+                "text": "r_c скоро понимает(ят), что следы пахнут c_n. Кто-то, должно быть, недавно бродил в этом участке границы, но это не угроза.",
                 "exp": 10,
                 "weight": 5,
                 "relationships": [
@@ -1182,7 +1182,7 @@
                 ]
             },
             {
-                "text": "The pawprints lead to a trespassing rogue. s_c sets up a trap by using the tides to cut off the rogue's escape path. It makes the startled intruder cower to realize they've been caught and trapped by c_n, and they're escorted to the border with the lesson firmly learned.",
+                "text": "Следы ведут к вторгшемуся одиночке. s_c устраивает(ят) ловушку, используя приливы, чтобы отрезать путь к отступлению одиночки. Испуганный(ая) нарушитель понимает, что пойман(а) c_n, и его(её) провожают к границе, усвоив урок.",
                 "exp": 10,
                 "weight": 20,
                 "stat_skill": [
@@ -1206,7 +1206,7 @@
                 ]
             },
             {
-                "text": "Boldly, s_c follows the pawprints to a trespassing rogue and confronts them. Fur puffed up and scowling, {PRONOUN\/s_c\/subject} {VERB\/s_c\/demand\/demands} the rogue leave c_n territory. Intimidated by {PRONOUN\/s_c\/poss} confidence, the rogue gives in and leaves without a fight.",
+                "text": "Смело следуя следам, s_c находит(идёт) вторгшегося одиночку и противостоит(ят) им. С взъерошенной шерстью и хмурый(ая), {PRONOUN\/s_c\/subject} {VERB\/s_c\/требует\/требуют}, чтобы одиночка покинул(а) территорию c_n. Напуганный(ая) {PRONOUN\/s_c\/poss} уверенностью, одиночка уступает и уходит без боя.",
                 "exp": 10,
                 "weight": 20,
                 "stat_trait": [
@@ -1247,7 +1247,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "It turns out they were r_c's own pawprints... r_c huffs with embarrassment, suddenly grateful {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} alone.",
+                "text": "Оказывается, это были собственные следы r_c... r_c фыркает(ат) от смущения, внезапно радуясь, что {PRONOUN\/r_c\/subject} один(на).",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -1268,7 +1268,7 @@
                 ]
             },
             {
-                "text": "The pawprints lead to a trespassing rogue. s_c throws {PRONOUN\/s_c\/self} at the rogue, hissing furiously, but this is one battle-hardened trespasser, and s_c isn't as good of a fighter as {PRONOUN\/s_c\/subject}'d like to think. The rogue escapes {PRONOUN\/s_c\/poss} grasp and runs off further into c_n territory.",
+                "text": "Следы ведут к вторгшемуся одиночке. s_c бросается(ятся) на одиночку, яростно шипя, но это закалённый(ая) в боях нарушитель, и s_c не так хорош(а) в бою, как {PRONOUN\/s_c\/subject} думает(ят). Одиночка вырывается из {PRONOUN\/s_c\/poss} хватки и бежит дальше на территорию c_n.",
                 "exp": 0,
                 "weight": 20,
                 "stat_skill": [
@@ -1292,16 +1292,16 @@
                 ]
             },
             {
-                "text": "Following the trail with {PRONOUN\/r_c\/poss} nose to the ground, r_c doesn't see the blow that kills {PRONOUN\/r_c\/object}.",
+                "text": "Следуя по следу с {PRONOUN\/r_c\/poss} носом у земли, r_c не видит(ят) удара, который убивает {PRONOUN\/r_c\/object}.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": [
                     "r_c"
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by an invading rogue.",
-                    "reg_death": "m_c was killed by an invading rogue.",
-                    "lead_death": "{VERB\/m_c\/were\/was} killed by an invading rogue"
+                    "scar": "m_c был(а) изувечен(а) вторгшимся одиночкой.",
+                    "reg_death": "m_c был(а) убит(а) вторгшимся одиночкой.",
+                    "lead_death": "{VERB\/m_c\/были\/был} убит(а) вторгшимся одиночкой"
                 },
                 "relationships": [
                     {
@@ -1321,7 +1321,7 @@
                 ]
             },
             {
-                "text": "Following the trail with {PRONOUN\/s_c\/poss} nose to the ground, s_c doesn't see the blow coming. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/haul\/hauls} {PRONOUN\/s_c\/self} to {PRONOUN\/s_c\/poss} feet, spitting with outrage, but the rogue that did it has already turned and run.",
+                "text": "Следуя по следу с {PRONOUN\/s_c\/poss} носом у земли, s_c не видит(ят) приближающегося удара. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/поднимается\/поднимаются} на лапы, яростно плюясь, но одиночка, нанёсший(ая) удар, уже развернулся(ась) и бежал(а).",
                 "exp": 0,
                 "weight": 10,
                 "stat_trait": [
@@ -1345,9 +1345,9 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by an invading rogue.",
-                    "reg_death": "m_c died of an injury inflicted by an invading rogue.",
-                    "lead_death": "died of an injury inflicted by an invading rogue"
+                    "scar": "m_c был(а) изувечен(а) вторгшимся одиночкой.",
+                    "reg_death": "m_c умер(ла) от раны, нанесённой вторгшимся одиночкой.",
+                    "lead_death": "умер(ла) от раны, нанесённой вторгшимся одиночкой"
                 },
                 "relationships": [
                     {
@@ -1390,29 +1390,29 @@
             ]
         },
         "weight": 20,
-        "intro_text": "While on patrol, app1 notices some suspicious pawprints in the wet sand on the beach.",
-        "decline_text": "{PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/decide\/decides} not to investigate.",
+        "intro_text": "Во время патруля app1 замечает(ят) подозрительные следы лап на влажном песке пляжа.",
+        "decline_text": "{PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/решает\/решают} не расследовать.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "The pawprints lead to a trespassing rogue. app1 quickly hides {PRONOUN\/app1\/self} in the grass on the sand dunes and sets up an ambush that lets {PRONOUN\/app1\/object} pretend to be a far bigger and more impressive fighter. It sends the rogue fleeing off c_n territory.",
+                "text": "Следы ведут к вторгшемуся одиночке. app1 быстро прячется(ятся) в траве на песчаных дюнах и устраивает(ат) засаду, которая позволяет {PRONOUN\/app1\/object} притвориться гораздо более крупным и впечатляющим бойцом. Это заставляет одиночку бежать с территории c_n.",
                 "exp": 10,
                 "weight": 20
             },
             {
-                "text": "app1 soon realizes that the pawprints smell of c_n. Someone must have wandered through this section of the border recently, but it's not a threat. In fact... {PRONOUN\/app1\/subject}{VERB\/app1\/'re\/'s} pretty sure this is {PRONOUN\/app1\/poss} mentor's scent. And {PRONOUN\/app1\/poss} mentor has been hinting {PRONOUN\/app1\/subject}'ll have an assessment soon.",
+                "text": "app1 скоро понимает(ят), что следы пахнут c_n. Кто-то, должно быть, недавно бродил в этом участке границы, но это не угроза. На самом деле... {PRONOUN\/app1\/subject} {VERB\/app1\/уверен\/уверены}, что это запах {PRONOUN\/app1\/poss} наставника. И {PRONOUN\/app1\/poss} наставник намекал(а), что скоро будет испытание.",
                 "exp": 10,
                 "weight": 5
             }
         ],
         "fail_outcomes": [
             {
-                "text": "It turns out they were app1's own pawprints... app1 huffs with embarrassment, suddenly grateful {PRONOUN\/app1\/subject}{VERB\/app1\/'re\/'s} alone. {PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/do\/does}n't want to look dumb in front of other cats.",
+                "text": "Оказывается, это были собственные следы app1... app1 фыркает(ат) от смущения, внезапно радуясь, что {PRONOUN\/app1\/subject} один(на). {PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/не хочет\/не хотят} выглядеть глупым(ой) перед другими котами.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "Boldly, s_c follows the pawprints to a trespassing rogue and confronts them. Fur puffed up and scowling, {PRONOUN\/s_c\/subject} {VERB\/s_c\/demand\/demands} the rogue leave c_n territory. The rogue is not impressed by this adolescent and ignores {PRONOUN\/s_c\/object} completely.",
+                "text": "Смело следуя следам, s_c находит(идёт) вторгшегося одиночку и противостоит(ят) им. С взъерошенной шерстью и хмурый(ая), {PRONOUN\/s_c\/subject} {VERB\/s_c\/требует\/требуют}, чтобы одиночка покинул(а) территорию c_n. Одиночка не впечатлён(а) этим подростком и полностью игнорирует {PRONOUN\/s_c\/object}.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -1438,20 +1438,20 @@
                 ]
             },
             {
-                "text": "Following the trail with {PRONOUN\/app1\/poss} nose to the ground, app1 doesn't see the blow that kills {PRONOUN\/app1\/object}.",
+                "text": "Следуя по следу с {PRONOUN\/app1\/poss} носом у земли, app1 не видит(ят) удара, который убивает {PRONOUN\/app1\/object}.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": [
                     "r_c"
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by an invading rogue.",
-                    "reg_death": "m_c was killed by an invading rogue.",
-                    "lead_death": "{VERB\/m_c\/were\/was} killed by an invading rogue"
+                    "scar": "m_c был(а) изувечен(а) вторгшимся одиночкой.",
+                    "reg_death": "m_c был(а) убит(а) вторгшимся одиночкой.",
+                    "lead_death": "{VERB\/m_c\/были\/был} убит(а) вторгшимся одиночкой"
                 }
             },
             {
-                "text": "Following the trail with {PRONOUN\/app1\/poss} nose to the ground, app1 doesn't see the blow coming. {PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/haul\/hauls} {PRONOUN\/app1\/self} to {PRONOUN\/app1\/poss} feet, squealing with pain, and {VERB\/app1\/run\/runs} for home.",
+                "text": "Следуя по следу с {PRONOUN\/app1\/poss} носом у земли, app1 не видит(ят) приближающегося удара. {PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/поднимается\/поднимаются} на лапы, визжа от боли, и {VERB\/app1\/бежит\/бегут} домой.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -1468,9 +1468,9 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by an invading rogue.",
-                    "reg_death": "m_c died of an injury inflicted by an invading rogue.",
-                    "lead_death": "died of an injury inflicted by an invading rogue"
+                    "scar": "m_c был(а) изувечен(а) вторгшимся одиночкой.",
+                    "reg_death": "m_c умер(ла) от раны, нанесённой вторгшимся одиночкой.",
+                    "lead_death": "умер(ла) от раны, нанесённой вторгшимся одиночкой"
                 }
             }
         ]
@@ -1492,12 +1492,12 @@
         "max_cats": 2,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "While on patrol, r_c notices some suspicious pawprints in the wet sand on the beach.",
-        "decline_text": "{PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/decide\/decides} not to investigate.",
+        "intro_text": "Во время патруля r_c замечает(ят) подозрительные следы лап на влажном песке пляжа.",
+        "decline_text": "{PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/решает\/решают} не расследовать.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "The pawprints lead to a trespassing rogue. The patrol quickly hides themselves in the grass on the sand dunes and sets up an ambush, sending the rogue fleeing off c_n territory.",
+                "text": "Следы ведут к вторгшемуся одиночке. Патруль быстро прячется(ятся) в траве на песчаных дюнах и устраивает(ат) засаду, заставляя одиночку бежать с территории c_n.",
                 "exp": 10,
                 "weight": 20,
                 "relationships": [
@@ -1518,7 +1518,7 @@
                 ]
             },
             {
-                "text": "r_c soon realizes that the pawprints smell of c_n. Someone must have wandered through this section of the border recently, but it's not a threat.",
+                "text": "r_c скоро понимает(ят), что следы пахнут c_n. Кто-то, должно быть, недавно бродил в этом участке границы, но это не угроза.",
                 "exp": 10,
                 "weight": 5,
                 "relationships": [
@@ -1539,7 +1539,7 @@
                 ]
             },
             {
-                "text": "The pawprints lead to a trespassing rogue. s_c throws {PRONOUN\/s_c\/self} at the rogue, hissing furiously, and together with r_c drives them off c_n territory.",
+                "text": "Следы ведут к вторгшемуся одиночке. s_c бросается(ятся) на одиночку, яростно шипя, и вместе с r_c прогоняет(ят) их с территории c_n.",
                 "exp": 10,
                 "weight": 20,
                 "stat_skill": [
@@ -1563,7 +1563,7 @@
                 ]
             },
             {
-                "text": "Boldly, s_c follows the pawprints to a trespassing rogue and confronts them. Fur puffed up and scowling, s_c and r_c demand the rogue leave c_n territory. Intimidated by their confidence, the rogue gives in and leaves without a fight.",
+                "text": "Смело следуя следам, s_c находит(идёт) вторгшегося одиночку и противостоит(ят) им. С взъерошенной шерстью и хмурый(ая), s_c и r_c требуют(ят), чтобы одиночка покинул(а) территорию c_n. Напуганный(ая) их уверенностью, одиночка уступает и уходит без боя.",
                 "exp": 10,
                 "weight": 20,
                 "stat_trait": [
@@ -1604,7 +1604,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "It turns out they were r_c's own pawprints... r_c huffs with embarrassment, suddenly grateful that {PRONOUN\/r_c\/poss} patrol is so small. Fewer eyes watching that embarrassing moment.",
+                "text": "Оказывается, это были собственные следы r_c... r_c фыркает(ат) от смущения, внезапно радуясь, что {PRONOUN\/r_c\/poss} патруль так мал. Меньше глаз, наблюдающих за этой неловкой сценой.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -1625,7 +1625,7 @@
                 ]
             },
             {
-                "text": "The pawprints lead to a trespassing rogue. s_c tries to set up a trap by using the tides to cut off the rogue's escape path, but {PRONOUN\/s_c\/subject} {VERB\/s_c\/are\/is}n't as smart as {PRONOUN\/s_c\/subject} {VERB\/s_c\/think\/thinks} {PRONOUN\/s_c\/subject} {VERB\/s_c\/are\/is}. The trap fails, and the rogue wanders on.",
+                "text": "Следы ведут к вторгшемуся одиночке. s_c пытается(ятся) устроить ловушку, используя приливы, чтобы отрезать путь к отступлению одиночки, но {PRONOUN\/s_c\/subject} не так умен(на), как {PRONOUN\/s_c\/subject} думает(ят). Ловушка проваливается, и одиночка уходит дальше.",
                 "exp": 0,
                 "weight": 20,
                 "stat_skill": [
@@ -1649,7 +1649,7 @@
                 ]
             },
             {
-                "text": "Following the trail with {PRONOUN\/r_c\/poss} nose to the ground, r_c doesn't see the blow coming. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/haul\/hauls} {PRONOUN\/r_c\/self} to {PRONOUN\/r_c\/poss} feet, spitting with outrage, but the rogue that did it has already turned and run from the patrol.",
+                "text": "Следуя по следу с {PRONOUN\/r_c\/poss} носом у земли, r_c не видит(ят) приближающегося удара. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/поднимается\/поднимаются} на лапы, яростно плюясь, но одиночка, нанёсший(ая) удар, уже развернулся(ась) и бежал(а) от патруля.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -1666,9 +1666,9 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by an invading rogue.",
-                    "reg_death": "m_c died of an injury inflicted by an invading rogue.",
-                    "lead_death": "died of an injury inflicted by an invading rogue"
+                    "scar": "m_c был(а) изувечен(а) вторгшимся одиночкой.",
+                    "reg_death": "m_c умер(ла) от раны, нанесённой вторгшимся одиночкой.",
+                    "lead_death": "умер(ла) от раны, нанесённой вторгшимся одиночкой"
                 },
                 "relationships": [
                     {
@@ -1706,12 +1706,12 @@
         "max_cats": 2,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "While on patrol, r_c notices some suspicious pawprints in the wet sand on the beach.",
-        "decline_text": "{PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/decide\/decides} not to investigate.",
+        "intro_text": "Во время патруля r_c замечает(ят) подозрительные следы лап на влажном песке пляжа.",
+        "decline_text": "{PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/решает\/решают} не расследовать.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "The pawprints lead to a trespassing rogue. The patrol quickly hides themselves in the grass on the sand dunes and sets up an ambush, sending the rogue fleeing off c_n territory.",
+                "text": "Следы ведут к вторгшемуся одиночке. Патруль быстро прячется(ятся) в траве на песчаных дюнах и устраивает(ат) засаду, заставляя одиночку бежать с территории c_n.",
                 "exp": 10,
                 "weight": 20,
                 "relationships": [
@@ -1732,7 +1732,7 @@
                 ]
             },
             {
-                "text": "r_c soon realizes that the pawprints smell of c_n. Someone must have wandered through this section of the border recently, but it's not a threat.",
+                "text": "r_c скоро понимает(ят), что следы пахнут c_n. Кто-то, должно быть, недавно бродил в этом участке границы, но это не угроза.",
                 "exp": 10,
                 "weight": 5,
                 "relationships": [
@@ -1753,7 +1753,7 @@
                 ]
             },
             {
-                "text": "The pawprints lead to a trespassing rogue. s_c sets up a trap by using the tides to cut off the rogue's escape path. It makes the startled intruder cower to realize they've been caught and trapped by c_n, and they're escorted to the border with the lesson firmly learned.",
+                "text": "Следы ведут к вторгшемуся одиночке. s_c устраивает(ят) ловушку, используя приливы, чтобы отрезать путь к отступлению одиночки. Испуганный(ая) нарушитель понимает, что пойман(а) c_n, и его(её) провожают к границе, усвоив урок.",
                 "exp": 10,
                 "weight": 20,
                 "stat_skill": [
@@ -1777,7 +1777,7 @@
                 ]
             },
             {
-                "text": "Boldly, s_c follows the pawprints to a trespassing rogue and confronts them. Fur puffed up and scowling, s_c and r_c demand the rogue leave c_n territory. The rogue is intimidated by their confidence and leaves without a fight.",
+                "text": "Смело следуя следам, s_c находит(идёт) вторгшегося одиночку и противостоит(ят) им. С взъерошенной шерстью и хмурый(ая), s_c и r_c требуют(ят), чтобы одиночка покинул(а) территорию c_n. Одиночка напуган(а) их уверенностью и уходит без боя.",
                 "exp": 10,
                 "weight": 20,
                 "stat_trait": [
@@ -1818,7 +1818,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "It turns out they were r_c's own pawprints... r_c huffs with embarrassment, suddenly grateful {PRONOUN\/r_c\/poss} patrol is so small. Fewer eyes watching that embarrassing moment.",
+                "text": "Оказывается, это были собственные следы r_c... r_c фыркает(ат) от смущения, внезапно радуясь, что {PRONOUN\/r_c\/poss} патруль так мал. Меньше глаз, наблюдающих за этой неловкой сценой.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -1839,7 +1839,7 @@
                 ]
             },
             {
-                "text": "The pawprints lead to a trespassing rogue. s_c throws {PRONOUN\/s_c\/self} at the rogue, hissing furiously, but this is one battle-hardened trespasser, and s_c isn't as good of a fighter as {PRONOUN\/s_c\/subject}'d like to think. The rogue escapes {PRONOUN\/s_c\/poss} grasp and runs off further into c_n territory.",
+                "text": "Следы ведут к вторгшемуся одиночке. s_c бросается(ятся) на одиночку, яростно шипя, но это закалённый(ая) в боях нарушитель, и s_c не так хорош(а) в бою, как {PRONOUN\/s_c\/subject} думает(ят). Одиночка вырывается из {PRONOUN\/s_c\/poss} хватки и бежит дальше на территорию c_n.",
                 "exp": 0,
                 "weight": 20,
                 "stat_skill": [
@@ -1863,7 +1863,7 @@
                 ]
             },
             {
-                "text": "Following the trail with {PRONOUN\/r_c\/poss} nose to the ground, r_c doesn't see the blow coming. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/haul\/hauls} {PRONOUN\/r_c\/self} to {PRONOUN\/r_c\/poss} feet, spitting with outrage, but the rogue that did it has already turned and run.",
+                "text": "Следуя по следу с {PRONOUN\/r_c\/poss} носом у земли, r_c не видит(ят) приближающегося удара. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/поднимается\/поднимаются} на лапы, яростно плюясь, но одиночка, нанёсший(ая) удар, уже развернулся(ась) и бежал(а).",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -1880,9 +1880,9 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by an invading rogue.",
-                    "reg_death": "m_c died of an injury inflicted by an invading rogue.",
-                    "lead_death": "died of an injury inflicted by an invading rogue"
+                    "scar": "m_c был(а) изувечен(а) вторгшимся одиночкой.",
+                    "reg_death": "m_c умер(ла) от раны, нанесённой вторгшимся одиночкой.",
+                    "lead_death": "умер(ла) от раны, нанесённой вторгшимся одиночкой"
                 },
                 "relationships": [
                     {
@@ -1925,29 +1925,29 @@
             ]
         },
         "weight": 20,
-        "intro_text": "While on patrol, app1 notices some suspicious pawprints in the wet sand on the beach.",
-        "decline_text": "{PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/decide\/decides} not to investigate.",
+        "intro_text": "Во время патруля app1 замечает(ят) подозрительные следы лап на влажном песке пляжа.",
+        "decline_text": "{PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/решает\/решают} не расследовать.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "The pawprints lead to a trespassing rogue. The patrol quickly hides themselves in the grass on the sand dunes and sets up an ambush, sending the rogue fleeing off c_n territory.",
+                "text": "Следы ведут к вторгшемуся одиночке. Патруль быстро прячется(ятся) в траве на песчаных дюнах и устраивает(ат) засаду, заставляя одиночку бежать с территории c_n.",
                 "exp": 10,
                 "weight": 20
             },
             {
-                "text": "app1 soon realizes that the pawprints smell of c_n. Someone must have wandered through this section of the border recently, but it's not a threat. In fact... {PRONOUN\/app1\/subject}{VERB\/app1\/'re\/'s} pretty sure this is {PRONOUN\/app1\/poss} mentor's scent. And {PRONOUN\/app1\/poss} mentor has been hinting {PRONOUN\/app1\/subject}'ll have an assessment soon.",
+                "text": "app1 скоро понимает(ят), что следы пахнут c_n. Кто-то, должно быть, недавно бродил в этом участке границы, но это не угроза. На самом деле... {PRONOUN\/app1\/subject} {VERB\/app1\/уверен\/уверены}, что это запах {PRONOUN\/app1\/poss} наставника. И {PRONOUN\/app1\/poss} наставник намекал(а), что скоро будет испытание.",
                 "exp": 10,
                 "weight": 5
             }
         ],
         "fail_outcomes": [
             {
-                "text": "It turns out they were app1's own pawprints... app1 huffs with embarrassment, suddenly grateful that {PRONOUN\/app1\/poss} patrol is so small. Fewer eyes watching that embarrassing moment. {PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/do\/does}n't want to look dumb in front of other cats.",
+                "text": "Оказывается, это были собственные следы app1... app1 фыркает(ат) от смущения, внезапно радуясь, что {PRONOUN\/app1\/poss} патруль так мал. Меньше глаз, наблюдающих за этой неловкой сценой. {PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/не хочет\/не хотят} выглядеть глупым(ой) перед другими котами.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "Boldly, s_c follows the pawprints to a trespassing rogue and confronts them. Fur puffed up and scowling, {PRONOUN\/s_c\/subject} {VERB\/s_c\/demand\/demands} the rogue leave c_n territory. The rogue is not impressed by the adolescent but reluctantly leaves c_n territory.",
+                "text": "Смело следуя следам, s_c находит(идёт) вторгшегося одиночку и противостоит(ят) им. С взъерошенной шерстью и хмурый(ая), {PRONOUN\/s_c\/subject} {VERB\/s_c\/требует\/требуют}, чтобы одиночка покинул(а) территорию c_n. Одиночка не впечатлён(а) подростком, но нехотя покидает(ят) территорию c_n.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -1973,7 +1973,7 @@
                 ]
             },
             {
-                "text": "Following the trail with {PRONOUN\/app1\/poss} nose to the ground, app1 doesn't see the blow coming. {PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/haul\/hauls} {PRONOUN\/app1\/self} to {PRONOUN\/app1\/poss} feet, squealing with pain, and {VERB\/app1\/run\/runs} for home.",
+                "text": "Следуя по следу с {PRONOUN\/app1\/poss} носом у земли, app1 не видит(ят) приближающегося удара. {PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/поднимается\/поднимаются} на лапы, визжа от боли, и {VERB\/app1\/бежит\/бегут} домой.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -1990,9 +1990,9 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by an invading rogue.",
-                    "reg_death": "m_c died of an injury inflicted by an invading rogue.",
-                    "lead_death": "died of an injury inflicted by an invading rogue"
+                    "scar": "m_c был(а) изувечен(а) вторгшимся одиночкой.",
+                    "reg_death": "m_c умер(ла) от раны, нанесённой вторгшимся одиночкой.",
+                    "lead_death": "умер(ла) от раны, нанесённой вторгшимся одиночкой"
                 }
             }
         ]
@@ -2014,12 +2014,12 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "While on patrol, r_c notices some suspicious pawprints in the wet sand on the beach.",
-        "decline_text": "{PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/decide\/decides} not to investigate.",
+        "intro_text": "Во время патруля r_c замечает(ят) подозрительные следы лап на влажном песке пляжа.",
+        "decline_text": "{PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/решает\/решают} не расследовать.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "The pawprints lead to a trespassing rogue. The patrol quickly hides themselves in the grass on the sand dunes and sets up an ambush, sending the rogue fleeing off c_n territory.",
+                "text": "Следы ведут к вторгшемуся одиночке. Патруль быстро прячется(ятся) в траве на песчаных дюнах и устраивает(ат) засаду, заставляя одиночку бежать с территории c_n.",
                 "exp": 10,
                 "weight": 20,
                 "relationships": [
@@ -2040,7 +2040,7 @@
                 ]
             },
             {
-                "text": "r_c soon realizes that the pawprints smell of c_n. Someone must have wandered through this section of the border recently, but it's not a threat.",
+                "text": "r_c скоро понимает(ят), что следы пахнут c_n. Кто-то, должно быть, недавно бродил в этом участке границы, но это не угроза.",
                 "exp": 10,
                 "weight": 5,
                 "relationships": [
@@ -2061,7 +2061,7 @@
                 ]
             },
             {
-                "text": "The pawprints lead to a trespassing rogue. With a furious hiss, s_c throws {PRONOUN\/s_c\/self} at the rogue and, together with r_c, drives them off c_n territory.",
+                "text": "Следы ведут к вторгшемуся одиночке. С яростным шипением s_c бросается(ятся) на одиночку и вместе с r_c прогоняет(ят) их с территории c_n.",
                 "exp": 10,
                 "weight": 20,
                 "stat_skill": [
@@ -2085,7 +2085,7 @@
                 ]
             },
             {
-                "text": "Boldly, s_c follows the pawprints to a trespassing rogue and confronts them. Fur puffed up and scowling, the patrol demands the rogue leave c_n territory. Intimidated by s_c's confidence and the number of cats, the rogue gives in and leaves without a fight.",
+                "text": "Смело следуя следам, s_c находит(идёт) вторгшегося одиночку и противостоит(ят) им. С взъерошенной шерстью и хмурый(ая), патруль требует(ят), чтобы одиночка покинул(а) территорию c_n. Напуганный(ая) уверенностью s_c и количеством котов, одиночка уступает и уходит без боя.",
                 "exp": 10,
                 "weight": 20,
                 "stat_trait": [
@@ -2126,7 +2126,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "It turns out they were r_c's own pawprints... r_c huffs with embarrassment and can't meet the eyes of the rest of the patrol.",
+                "text": "Оказывается, это были собственные следы r_c... r_c фыркает(ат) от смущения и не может(гут) смотреть в глаза остальным членам патруля.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -2147,7 +2147,7 @@
                 ]
             },
             {
-                "text": "The pawprints lead to a trespassing rogue. s_c tries to set up a trap by using the tides to cut off the rogue's escape path, but {PRONOUN\/s_c\/subject} {VERB\/s_c\/are\/is}n't as smart as {PRONOUN\/s_c\/subject} {VERB\/s_c\/think\/thinks} {PRONOUN\/s_c\/subject} {VERB\/s_c\/are\/is}. The trap fails, and the rogue wanders on.",
+                "text": "Следы ведут к вторгшемуся одиночке. s_c пытается(ятся) устроить ловушку, используя приливы, чтобы отрезать путь к отступлению одиночки, но {PRONOUN\/s_c\/subject} не так умен(на), как {PRONOUN\/s_c\/subject} думает(ят). Ловушка проваливается, и одиночка уходит дальше.",
                 "exp": 0,
                 "weight": 20,
                 "stat_skill": [
@@ -2189,12 +2189,12 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "While on patrol, r_c notices some suspicious pawprints in the wet sand on the beach.",
-        "decline_text": "{PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/decide\/decides} not to investigate.",
+        "intro_text": "Во время патруля r_c замечает(ят) подозрительные следы лап на влажном песке пляжа.",
+        "decline_text": "{PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/решает\/решают} не расследовать.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "The pawprints lead to a trespassing rogue. The patrol quickly hides themselves in the grass on the sand dunes and sets up an ambush, sending the rogue fleeing off c_n territory.",
+                "text": "Следы ведут к вторгшемуся одиночке. Патруль быстро прячется(ятся) в траве на песчаных дюнах и устраивает(ат) засаду, заставляя одиночку бежать с территории c_n.",
                 "exp": 10,
                 "weight": 20,
                 "relationships": [
@@ -2215,7 +2215,7 @@
                 ]
             },
             {
-                "text": "r_c soon realizes that the pawprints smell of c_n. Someone must have wandered through this section of the border recently, but it's not a threat.",
+                "text": "r_c скоро понимает(ят), что следы пахнут c_n. Кто-то, должно быть, недавно бродил в этом участке границы, но это не угроза.",
                 "exp": 10,
                 "weight": 5,
                 "relationships": [
@@ -2236,7 +2236,7 @@
                 ]
             },
             {
-                "text": "The pawprints lead to a trespassing rogue. s_c sets up a trap by using the tides to cut off the rogue's escape path. It makes the startled intruder cower to realize they've been caught and trapped by c_n, and they're escorted to the border with the lesson firmly learned.",
+                "text": "Следы ведут к вторгшемуся одиночке. s_c устраивает(ят) ловушку, используя приливы, чтобы отрезать путь к отступлению одиночки. Испуганный(ая) нарушитель понимает, что пойман(а) c_n, и его(её) провожают к границе, усвоив урок.",
                 "exp": 10,
                 "weight": 20,
                 "stat_skill": [
@@ -2260,7 +2260,7 @@
                 ]
             },
             {
-                "text": "Boldly, s_c follows the pawprints to a trespassing rogue and confronts them. Fur puffed up and scowling, the patrol demands the rogue leave c_n territory. Intimidated by {PRONOUN\/s_c\/poss} confidence and the number of cats, the rogue gives in and leaves without a fight.",
+                "text": "Смело следуя следам, s_c находит(идёт) вторгшегося одиночку и противостоит(ят) им. С взъерошенной шерстью и хмурый(ая), патруль требует(ят), чтобы одиночка покинул(а) территорию c_n. Напуганный(ая) {PRONOUN\/s_c\/poss} уверенностью и количеством котов, одиночка уступает и уходит без боя.",
                 "exp": 10,
                 "weight": 20,
                 "stat_trait": [
@@ -2301,7 +2301,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "It turns out they were r_c's own pawprints... r_c huffs with embarrassment and can't meet the eyes of the rest of the patrol.",
+                "text": "Оказывается, это были собственные следы r_c... r_c фыркает(ат) от смущения и не может(гут) смотреть в глаза остальным членам патруля.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -2322,7 +2322,7 @@
                 ]
             },
             {
-                "text": "The pawprints lead to a trespassing rogue. s_c throws {PRONOUN\/s_c\/self} at the rogue, hissing furiously, but this is one battle-hardened trespasser, and s_c isn't as good of a fighter as {PRONOUN\/s_c\/subject}'d like to think. The rogue manages to escape {PRONOUN\/s_c\/poss} grasp and run off further into c_n territory.",
+                "text": "Следы ведут к вторгшемуся одиночке. s_c бросается(ятся) на одиночку, яростно шипя, но это закалённый(ая) в боях нарушитель, и s_c не так хорош(а) в бою, как {PRONOUN\/s_c\/subject} думает(ят). Одиночке удаётся вырваться из {PRONOUN\/s_c\/poss} хватки и убежать дальше на территорию c_n.",
                 "exp": 0,
                 "weight": 20,
                 "stat_skill": [
@@ -2369,29 +2369,29 @@
             ]
         },
         "weight": 20,
-        "intro_text": "While on patrol, app1 notices some suspicious pawprints in the wet sand on the beach.",
-        "decline_text": "{PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/decide\/decides} not to investigate.",
+        "intro_text": "Во время патруля app1 замечает(ят) подозрительные следы лап на влажном песке пляжа.",
+        "decline_text": "{PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/решает\/решают} не расследовать.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "The pawprints lead to a trespassing rogue. The patrol quickly hides themselves in the grass on the sand dunes and sets up an ambush, sending the rogue fleeing off c_n territory.",
+                "text": "Следы ведут к вторгшемуся одиночке. Патруль быстро прячется(ятся) в траве на песчаных дюнах и устраивает(ат) засаду, заставляя одиночку бежать с территории c_n.",
                 "exp": 10,
                 "weight": 20
             },
             {
-                "text": "app1 soon realizes that the pawprints smell of c_n. Someone must have wandered through this section of the border recently, but it's not a threat. In fact... {PRONOUN\/app1\/subject}{VERB\/app1\/'re\/'s} pretty sure this is {PRONOUN\/app1\/poss} mentor's scent. And {PRONOUN\/app1\/poss} mentor has been hinting {PRONOUN\/app1\/subject}'ll have an assessment soon.",
+                "text": "app1 скоро понимает(ят), что следы пахнут c_n. Кто-то, должно быть, недавно бродил в этом участке границы, но это не угроза. На самом деле... {PRONOUN\/app1\/subject} {VERB\/app1\/уверен\/уверены}, что это запах {PRONOUN\/app1\/poss} наставника. И {PRONOUN\/app1\/poss} наставник намекал(а), что скоро будет испытание.",
                 "exp": 10,
                 "weight": 5
             }
         ],
         "fail_outcomes": [
             {
-                "text": "It turns out they were app1's own pawprints... app1 huffs with embarrassment and can't meet the eyes of the rest of the patrol. {PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/do\/does}n't want to look dumb in front of other cats.",
+                "text": "Оказывается, это были собственные следы app1... app1 фыркает(ат) от смущения и не может(гут) смотреть в глаза остальным членам патруля. {PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/не хочет\/не хотят} выглядеть глупым(ой) перед другими котами.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "Boldly, s_c follows the pawprints to a trespassing rogue and confronts them. Fur puffed up and scowling, {PRONOUN\/s_c\/subject} {VERB\/s_c\/demand\/demands} the rogue leave c_n territory. The rogue is not impressed by the adolescent, but with a full patrol backing {PRONOUN\/s_c\/object} up, the rogue opts to leave c_n territory instead of fight.",
+                "text": "Смело следуя следам, s_c находит(идёт) вторгшегося одиночку и противостоит(ят) им. С взъерошенной шерстью и хмурый(ая), {PRONOUN\/s_c\/subject} {VERB\/s_c\/требует\/требуют}, чтобы одиночка покинул(а) территорию c_n. Одиночка не впечатлён(а) подростком, но с полным патрулем, поддерживающим {PRONOUN\/s_c\/object}, одиночка предпочитает покинуть(ят) территорию c_n вместо драки.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -2437,12 +2437,12 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 15,
-        "intro_text": "As the cats move along the shoreline, they spot something massive moving beneath the water.",
-        "decline_text": "The cats are feeling remarkably incurious today.",
+        "intro_text": "Пока коты движутся вдоль береговой линии, они замечают(ат) что-то массивное, движущееся под водой.",
+        "decline_text": "Коты сегодня удивительно безучастны.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "It's Nessie! The patrol trots up, exchanging a nice mouse for a nice deep-water fish, both creatures trading the respective delicacies that are hard for the other to obtain.",
+                "text": "Это Несси! Патруль подходит(одит) и обменивает(ют) хорошую мышь на хорошую глубоководную рыбу - оба существа обмениваются(ятся) деликатесами, которые трудно добыть другому.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -2452,7 +2452,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The patrol is so wrapped up trying to work out what the creature is that r_c topples into the water. It solves the mystery though, as Nessie propels r_c back onto the shoreline with one gentle, immense flipper.",
+                "text": "Патруль так увлечён(ы) попытками разгадать, что это за существо, что r_c падает(ят) в воду. Загадка всё же разгадана, когда Несси выталкивает(ат) r_c обратно на берег одним нежным, огромным плавником.",
                 "exp": 0,
                 "weight": 20
             }
@@ -2480,18 +2480,18 @@
         "chance_of_success": 50,
         "relationship_constraint": [],
         "pl_skill_constraint": [],
-        "intro_text": "p_l waves r_c over with {PRONOUN\/p_l\/poss} tail. What's <i>that<\/i>?!",
-        "decline_text": "r_c isn't interested, and the patrol continues on their way.",
+        "intro_text": "p_l машет(ают) r_c хвостом. Что это <i>такое<\/i>?!",
+        "decline_text": "r_c не заинтересован(ы), и патруль продолжает(ят) свой путь.",
         "success_outcomes": [
             {
-                "text": "The massive frog-Twoleg creeps up the rocks, slow and unnatural. The patrol watches, breathless, until it's out of sight. Well, p_l huffs. Maybe toads grow bigger than {PRONOUN\/p_l\/subject} thought. Terrifying.",
+                "text": "Огромная лягушка-Двуногий медленно и неестественно выползает(езет) на скалы. Патруль наблюдает(ют), затаив дыхание, пока она не скрывается из виду. Что ж, p_l фыркает(ат). Может, жабы вырастают больше, чем {PRONOUN\/p_l\/subject} думал(а). Жутко.",
                 "exp": 0,
                 "weight": 20
             }
         ],
         "fail_outcomes": [
             {
-                "text": "Frozen, the cats watch the massive lumbering frog, the size of a Twoleg and just as bipedal. It halts and, like the rumble of thunder, issues a massive croak that creaks like cracking wood. All r_c can do is shiver.",
+                "text": "Замёрзшие, коты наблюдают(ют) за массивной неуклюжей лягушкой размером с Двуногого и так же двуногой. Она останавливается и, подобно раскату грома, издаёт(ят) оглушительное кваканье, скрипящее, как треск дерева. Всё, что может r_c, - это дрожать.",
                 "exp": 0,
                 "weight": 20,
                 "injury": [

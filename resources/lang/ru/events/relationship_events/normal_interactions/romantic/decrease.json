@@ -3,20 +3,20 @@
         "id": "rom_dec_high1",
         "intensity": "high",
         "interactions": [
-            "m_c gave a gift to r_c, but {PRONOUN\/r_c\/subject} turned up {PRONOUN\/r_c\/poss} nose at the offering.",
-            "m_c heard r_c express an ideal {PRONOUN\/m_c\/subject} cannot agree with.",
-            "m_c heard r_c talking badly about {PRONOUN\/m_c\/object}.",
-            "m_c catches r_c staring at another cat."
+            "m_c подарил(и) r_c подарок, но {PRONOUN\/r_c\/subject} отвернул(а,и) нос.",
+            "m_c услышал(и), как r_c выразил(а,и) идею, с которой {PRONOUN\/m_c\/subject} не может согласиться.",
+            "m_c услышал(и), как r_c плохо отзывается(ятся) о {PRONOUN\/m_c\/object}.",
+            "m_c замечает(ят), как r_c смотрит(ят) на другого кота."
         ]
     },
     {
         "id": "rom_dec_medium1",
         "intensity": "medium",
         "interactions": [
-            "m_c feels like r_c hasn't been paying much attention to {PRONOUN\/m_c\/object} lately.",
-            "m_c is upset that r_c tried to give {PRONOUN\/m_c\/object} {PRONOUN\/m_c\/poss} least favorite prey - surely {PRONOUN\/r_c\/subject} {VERB\/r_c\/know\/knows} what {PRONOUN\/m_c\/subject} {VERB\/m_c\/like\/likes}!",
-            "m_c wishes r_c would stop giving {PRONOUN\/m_c\/object} gifts, as {PRONOUN\/m_c\/poss} nest is getting too full.",
-            "m_c hates the gift r_c gave {PRONOUN\/m_c\/object}."
+            "m_c чувствует(ют), что r_c уделяет(ят) {PRONOUN\/m_c\/object} мало внимания.",
+            "m_c расстроен(ы), что r_c пытается(ются) угостить {PRONOUN\/m_c\/object} {PRONOUN\/m_c\/poss} нелюбимой добычей - ведь {PRONOUN\/r_c\/subject} {VERB\/r_c\/know\/знает}, что {PRONOUN\/m_c\/subject} {VERB\/m_c\/like\/любит}!",
+            "m_c хочет(ят), чтобы r_c перестал(а,и) дарить подарки - гнездо переполнено.",
+            "m_c ненавидит(ят) подарок от r_c."
         ],
         "relationship_constraint": [
             "romantic_40"
@@ -26,10 +26,10 @@
         "id": "rom_dec_medium2",
         "intensity": "medium",
         "interactions": [
-            "m_c told r_c to stop padding after {PRONOUN\/m_c\/object} like a lost kit.",
-            "m_c worries that r_c isn't being honest with their relationship.",
-            "m_c can't stand listening to r_c's snoring in {PRONOUN\/r_c\/poss} nest.",
-            "m_c tried flirting with r_c but {PRONOUN\/r_c\/subject} didn't have time for it and brushed m_c aside."
+            "m_c сказал(и) r_c перестать ходить за {PRONOUN\/m_c\/object} как потерянный котёнок.",
+            "m_c волнуется(ятся), что r_c нечестен(ны) в отношениях.",
+            "m_c не выносит(ят) храпа r_c в гнезде.",
+            "m_c пытался(ись) флиртовать с r_c, но {PRONOUN\/r_c\/subject} отмахнулся(ась,ись)."
         ],
         "relationship_constraint": [
             "romantic_40",
@@ -40,32 +40,32 @@
         "id": "rom_dec_medium3",
         "intensity": "medium",
         "interactions": [
-            "m_c is starting to have doubts about {PRONOUN\/m_c\/poss} feelings for r_c.",
-            "m_c heard a rumor that r_c likes someone else.",
-            "m_c worries that r_c will never feel the same way {PRONOUN\/m_c\/subject} {VERB\/m_c\/do\/does}.",
-            "m_c noticed r_c flirting with someone else.",
-            "m_c heard r_c discussing potential mates but {PRONOUN\/m_c\/poss} name never came up.",
-            "m_c thinks {PRONOUN\/m_c\/poss} dreams might not come true with r_c.",
-            "r_c was seen tossing out a gift m_c gave {PRONOUN\/r_c\/object}."
+            "m_c начинает(ат) сомневаться в чувствах к r_c.",
+            "m_c услышал(и) слух, что r_c влюблен(ы) в другого.",
+            "m_c боится(ятся), что r_c никогда не ответит взаимностью.",
+            "m_c заметил(и), как r_c флиртует с кем-то другим.",
+            "m_c слышал(и), как r_c обсуждает(ят) возможных партнёров, но не упоминает(ят) {PRONOUN\/m_c\/poss} имени.",
+            "m_c думает(ют), что {PRONOUN\/m_c\/poss} мечты о r_c не сбудутся.",
+            "r_c выбросил(а,и) подарок от m_c."
         ]
     },
     {
         "id": "rom_dec_low3",
         "intensity": "low",
         "interactions": [
-            "m_c feels ignored by r_c.",
-            "m_c didn't get the joke r_c was telling.",
-            "m_c and r_c had a conversation where they realized they didn't have much in common.",
-            "m_c didn't realize r_c was flirting with {PRONOUN\/m_c\/object}."
+            "m_c чувствует(ют) себя игнорируемым(ой,ыми) r_c.",
+            "m_c не понял(и) шутку r_c.",
+            "m_c и r_c поняли(и), что у них мало общего.",
+            "m_c не понял(и), что r_c флиртовал(а,и) с {PRONOUN\/m_c\/object}."
         ]
     },
     {
         "id": "rom_dec_medium4",
         "intensity": "medium",
         "interactions": [
-            "m_c had a disagreement with r_c over kits.",
-            "m_c and r_c had a disagreement on how to raise kits.",
-            "m_c and r_c had a fight over if they would take a new mate if one of them died or went missing."
+            "m_c и r_c поссорились(ись) из-за котят.",
+            "m_c и r_c разошлись(ись) во мнениях о воспитании котят.",
+            "m_c и r_c поспорили(ись), заведут ли нового партнёра, если один умрёт или исчезнет."
         ],
         "relationship_constraint": [
             "mates"

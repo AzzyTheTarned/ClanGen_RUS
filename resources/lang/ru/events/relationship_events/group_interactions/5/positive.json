@@ -10,7 +10,7 @@
         "intensity": "high",
         "cat_amount": 5,
         "interactions": [
-            "m_c, r_c1, and r_c2 decide they're going to get r_c3 and r_c4 together. They talk about how much r_c3 loves r_c4 in front of r_c4, and, to their pleasure, find the two talking later."
+            "m_c, r_c1 и r_c2 решают свести r_c3 и r_c4. Они говорят о том, как сильно r_c3 любит r_c4, прямо перед r_c4 и, к своему удовольствию, позже застают двоих разговаривающими."
         ],
         "status_constraint": {
             "m_c": [

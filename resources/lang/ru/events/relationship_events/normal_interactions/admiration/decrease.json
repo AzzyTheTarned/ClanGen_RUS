@@ -3,35 +3,35 @@
         "id": "admire_de_low1",
         "intensity": "low",
         "interactions": [
-            "m_c saw r_c being rude.",
-            "m_c heard r_c say something mean.",
-            "m_c is annoyed by r_c's negative comments.",
-            "m_c notices r_c failed to complete a simple task.",
-            "m_c hopes {PRONOUN\/m_c\/subject} just misheard r_c's rude remark.",
-            "r_c keeps asking m_c silly questions.",
-            "m_c wonders why r_c is so pouty today.",
-            "r_c sneezed on m_c.",
-            "m_c was woken up early by r_c.",
-            "m_c notices that r_c overslept.",
-            "r_c tells m_c to smile more.",
-            "m_c had a funny dream about r_c and can't take {PRONOUN\/r_c\/object} seriously now.",
-            "r_c is talking to m_c, but {PRONOUN\/m_c\/subject} can't stop noticing the mud on r_c's pelt."
+            "m_c видел(а), как r_c грубил(а).",
+            "m_c услышал(а), как r_c сказал(а) что-то обидное.",
+            "r_c своими колкостями выводит m_c из себя.",
+            "m_c заметил(а), что r_c не справился(ась) с простым заданием.",
+            "m_c надеется, что {PRONOUN/m_c/subject} просто не расслышал(а) грубое замечание r_c.",
+            "r_c донимает m_c глупыми вопросами.",
+            "m_c недоумевает, почему r_c сегодня такой(ая) ворчливый(ая).",
+            "r_c чихнул(а) прямо на m_c.",
+            "r_c разбудил(а) m_c раньше времени.",
+            "m_c видит, что r_c проспал(а)",
+            "r_c советует m_c «чаще улыбаться».",
+            "m_c увидел(а) смешной сон о r_c и теперь не может воспринимать {PRONOUN/r_c/object} всерьёз.",
+            "r_c говорит с m_c, но {PRONOUN/m_c/subject} не может отвлечься от грязи на шкуре r_c."
         ]
     },
     {
         "id": "admire_de_low2",
         "intensity": "low",
         "interactions": [
-            "m_c complains about something r_c did.",
-            "m_c notices that r_c doesn't want to help out.",
-            "m_c doesn't understand why r_c is being so rude.",
-            "r_c makes a snide remark about one of m_c's friends.",
-            "r_c confuses m_c in a conversation.",
-            "m_c saw r_c cough up a hairball.",
-            "r_c snickered when m_c tripped.",
-            "m_c is taken aback by one of r_c's comments.",
-            "r_c tries to convince m_c that an obvious lie is real.",
-            "r_c did an embarrassing prank on m_c's friend."
+            "m_c жалуется на поступок r_c.",
+            "m_c замечает, что r_c не хочет помогать.",  
+            "m_c не понимает, почему r_c так грубит.",  
+            "r_c отпускает едкое замечание о друге m_c.",  
+            "r_c запутывает m_c в разговоре.",  
+            "m_c увидел(а), как r_c отрыгнул(а) комок шерсти.", 
+            "r_c усмехнулся(ась), когда m_c споткнулся(ась).",  
+            "m_c ошеломлён(а) комментарием r_c.",  
+            "r_c пытается убедить m_c, что явная ложь — правда.",  
+            "r_c разыграл(а) друга m_c постыдным образом." 
         ],
         "reaction_random_cat": {
             "admiration": "decrease"
@@ -40,8 +40,8 @@
     {
         "id": "admire_de_low3",
         "interactions": [
-            "m_c and r_c disagree on something that should have an obvious answer.",
-            "r_c tells m_c to be happier. m_c explains it's not that simple."
+            "m_c и r_c спорят из-за очевидного вопроса.",
+            "r_c советует m_c «быть счастливее». m_c объясняет, что не всё так просто."
         ],
         "main_trait_constraint": [
             "gloomy",
@@ -57,34 +57,34 @@
     {
         "id": "admire_de_medium1",
         "interactions": [
-            "m_c saw r_c take the last piece of prey from the fresh-kill pile.",
-            "m_c thinks r_c has a strange sense of humor.",
-            "m_c is frustrated that r_c won't take {PRONOUN\/r_c\/poss} actions more seriously.",
-            "m_c feels like r_c isn't taking {PRONOUN\/r_c\/poss} own personal health seriously.",
-            "m_c has started to see flaws in r_c's philosophies.",
-            "m_c worries about how capable r_c is.",
-            "m_c feels like r_c lied about something trivial.",
-            "r_c told m_c a joke that {PRONOUN\/m_c\/subject} didn't find funny.",
-            "m_c saw r_c ignore someone.",
-            "m_c wishes r_c would act more maturely.",
-            "r_c said something about a Clanmate that concerned m_c.",
-            "r_c kept getting distracted while helping m_c and nearly got {PRONOUN\/m_c\/object} hurt."
+            "m_c увидел(а), как r_c забрал(а) последний кусок добычи из кучи свежатины",
+            "m_c считает, что у r_c странное чувство юмора.",
+            "m_c раздражён(а), что r_c не относится серьёзнее к {PRONOUN/r_c/poss} действиям.",
+            "m_c кажется, что r_c не воспринимает всерьёз {PRONOUN/r_c/poss} собственное здоровье.",
+            "m_c начал(а) видеть недостатки в мировозрении r_c.",
+            "m_c беспокоится, насколько r_c вообще способен(на) к чему-либо.",
+            "m_c кажется, что r_c соврал(а) из-за какой-то ерунды.",
+            "r_c рассказал(а) m_c шутку, которую {PRONOUN/m_c/subject} не оценил(а).",
+            "m_c видел(а), как r_c проигнорировал(а) кого-то.",
+            "m_c хочет, чтобы r_c вёл(а) себя взрослее.",
+            "r_c сказал(а) что-то о сородиче, что вызвало у m_c беспокойство.",
+            "r_c постоянно отвлекался(лась), помогая m_c, и чуть не подверг(ла) {PRONOUN/m_c/object} опасности."
         ]
     },
     {
         "id": "admire_de_medium2",
         "interactions": [
-            "m_c tried to bring r_c's behavior up to them, but it turned into a fight that someone else had to break up.",
-            "m_c confronted r_c about {PRONOUN\/r_c\/poss} bad attitude but that only makes r_c act out more.",
-            "m_c is disappointed when r_c doesn't uphold a promise.",
-            "m_c doesn't tell r_c that {PRONOUN\/r_c\/subject} forgot to groom a part of {PRONOUN\/r_c\/poss} fur.",
-            "r_c ignored m_c's question.",
-            "In the middle of a conversation, m_c and r_c realize they have less perspectives in common than they thought.",
-            "m_c and r_c talk about a Clanmate and realize they have very different opinions on them.",
-            "r_c tripped m_c. m_c doubts it was an accident.",
-            "m_c scolds r_c for something trivial.",
-            "m_c and r_c argue over a piece of fresh-kill.",
-            "r_c panics over something that m_c finds trivial."
+            "m_c попытался(лась) обсудить с r_c его/её поведение, но это переросло в драку, которую пришлось разнимать другим.",
+            "m_c призвал(а) r_c к ответу за {PRONOUN/r_c/poss} скверный настрой, но это только заставило r_c хулиганить ещё больше.",
+            "m_c разочарован(а), когда r_c не сдерживает обещаний.",
+            "m_c не говорит r_c, что {PRONOUN/r_c/subject} забыл(а) поухаживать за частью {PRONOUN/r_c/poss} шерсти.",
+            "r_c проигнорировал(а) вопрос m_c.",
+            "В разговоре m_c и r_c понимают, что у них меньше общих взглядов, чем они думали.",
+            "m_c и r_c обсуждают сородича и понимают, что их мнения о нём сильно расходятся.",
+            "r_c споткнул(а) m_c. m_c сомневается, что это было случайно.",
+            "m_c отчитал(а) r_c из-за ерунды.",
+            "m_c и r_c поссорились из-за куска свежатины",
+            "r_c паникует из-за того, что m_c считает ерундой."
         ],
         "reaction_random_cat": {
             "admiration": "decrease"
@@ -93,9 +93,9 @@
     {
         "id": "admire_de_medium3",
         "interactions": [
-            "m_c and r_c had to fix something around camp and argued about how to fix it. It ended up being fixed by some other cat in the end.",
-            "m_c notices that r_c has been avoiding {PRONOUN\/r_c\/poss} responsibilities lately.",
-            "m_c and r_c were supposed to be working together today, but they can never agree long enough to accomplish anything."
+            "m_c и r_c пытались починить что-то в лагере, но поспорили о методах. В итоге починил кто-то другой.",
+            "m_c заметил(а), что r_c в последнее время избегает {PRONOUN/r_c/poss} обязанностей.",
+            "m_c и r_c должны были сегодня работать вместе, но они так и не смогли договориться — в итоге всё провалилось."
         ],
         "reaction_random_cat": {
             "admiration": "decrease"
@@ -126,25 +126,25 @@
     {
         "id": "admire_adult_de_med1",
         "interactions": [
-            "m_c saw r_c miss an easy catch today.",
-            "m_c is disappointed in r_c's subpar work lately.",
-            "m_c is let down by r_c's sloppy performance during a sparring session.",
-            "r_c was supposed to be showing m_c a cool battle move but messed up so badly it made m_c cringe.",
-            "m_c noticed that r_c ignored an easy hunting opportunity on a recent patrol.",
-            "r_c froze up during a hunting patrol with m_c.",
-            "r_c is visibly upset to be on a patrol with m_c.",
-            "When m_c's border patrol encountered another Clan, r_c acted like a fool.",
-            "m_c is frustrated after finishing a task that r_c was supposed to do.",
-            "m_c pranked r_c during a patrol.",
-            "m_c doubts r_c would be able to protect {PRONOUN\/m_c\/object} if something went wrong.",
-            "m_c calls out r_c for sleeping through a meeting.",
-            "m_c is upset that r_c slept through patrol assignments.",
-            "m_c thinks that r_c acted disrespectfully during a patrol.",
-            "m_c notices that r_c seems to disappear whenever difficult tasks are being discussed.",
-            "r_c was meant to take a piece of prey to a Clanmate, but m_c saw {PRONOUN\/r_c\/object} eat it.",
-            "r_c didn't finish a chore that m_c assigned {PRONOUN\/m_c\/object}.",
-            "The Clan notices that m_c and r_c won't talk to each other after coming back from a patrol.",
-            "m_c and r_c have very different approaches to hunting and argue about which is better."
+            "m_c видел(а), как r_c промахнулся(лась) при лёгкой охоте сегодня.",
+            "m_c разочарован(а) неудачной работой r_c в последнее время.",
+            "m_c расстроен(а) небрежными действиями r_c во время тренировки.",
+            "r_c должен(на) был(а) показать m_c крутой боевой приём, но так облажался(лась), что m_c стало неловко.",
+            "m_c заметил(а), что r_c проигнорировал(а) лёгкую добычу на охотничем патруле.",
+            "r_c застыл(а) в ступоре во время охотничьего патруля с m_c.",
+            "r_c явно недоволен(на) тем, что патрулирует с m_c.",
+            "Когда патруль m_c столкнулся с другим Племенем, r_c повёл(ла) себя как глупец.",
+            "m_c раздражён(а) тем, что пришлось выполнять задание за r_c.",
+            "m_c подшутил(а) над r_c во времени патруля.",
+            "m_c сомневается, что r_c сможет защитить {PRONOUN/m_c/object} в случае опасности.",
+            "m_c упрекает r_c за то, что {PRONOUN/r_c/subject} проспал(а) собрание.",
+            "m_c возмущён(а), что r_c проспал(а) распределение патрулей.",
+            "m_c считает, что r_c вёл(ла) себя неуважительно во время патруля.",
+            "m_c заметил(а), что r_c удаляеться, когда обсуждают сложные задачи.",
+            "r_c должен(на) был(а) отнести добычу сородичу, но m_c видел(а), как {PRONOUN/r_c/object} её съел(ела).",
+            "r_c не выполнил(а) поручение, которое m_c дал(а) {PRONOUN/m_c/object}.",
+            "Племя заметило, что m_c и r_c не разговаривают друг с другом после патруля.",
+            "m_c и r_c спорят о методах охоты, так как их подходы совершенно разные."
         ],
         "main_status_constraint": [
             "apprentice",
@@ -162,8 +162,8 @@
     {
         "id": "admire_adult_de_med2",
         "interactions": [
-            "m_c has noticed r_c isn't doing a lot of work lately.",
-            "m_c is disappointed in r_c's lack of initiative."
+            "m_c заметил(а), что r_c в последнее время не проявляет усердия в работе.",
+            "m_c разочарован(а) отсутствием инициативы у r_c."
         ],
         "main_status_constraint": [
             "elder",
@@ -189,36 +189,36 @@
         "id": "admire_de_high1",
         "intensity": "high",
         "interactions": [
-            "m_c heard an ugly rumor about r_c.",
-            "m_c overheard r_c spreading a hurtful rumor.",
-            "r_c won't stop complaining to m_c!",
-            "m_c thinks r_c did something incompetent.",
-            "r_c greatly embarrassed {PRONOUN\/r_c\/self} in front of m_c.",
-            "m_c learns about a terrible mistake r_c did.",
-            "m_c swears that r_c stole something from {PRONOUN\/m_c\/poss} nest.",
-            "m_c overhears r_c say something awful about a dead Clanmate.",
-            "m_c thinks r_c keeps getting in the way instead of helping others.",
-            "m_c knows that r_c fake-laughed at {PRONOUN\/m_c\/poss} joke."
+            "m_c услышал(а) грязный слух о r_c.",
+            "m_c подслушал(а), как r_c распространяет обидный слух.",
+            "r_c не перестаёт жаловаться m_c!",
+            "m_c считает, что r_c совершил(а) неумелый поступок.",
+            "r_c сильно опозорил(а) {PRONOUN/r_c/self} перед m_c.",
+            "m_c узнаёт, что r_c совершил(а) ужасную ошибку.",
+            "m_c клянётся, что r_c украл(а) что-то из {PRONOUN/m_c/poss} гнезда.",
+            "m_c подслушал(а), как r_c говорит что-то ужасное о погибшем сородиче.",
+            "m_c считает, что r_c постоянно мешает, вместо того чтобы помогать другим.",
+            "m_c знает, что r_c притворно смеялся(лась) над {PRONOUN/m_c/poss} шуткой."
         ]
     },
     {
         "id": "admire_de_high2",
         "intensity": "high",
         "interactions": [
-            "m_c had a difficult conversation with r_c, and they both ended up resentful of one another.",
-            "m_c was noticeably distracted while r_c was trying to tell a story.",
-            "m_c and r_c have a long discussion about goals and aspirations, and find that they don't agree on many things.",
-            "m_c asks r_c about something complicated and regrets it almost immediately when r_c misses the point.",
-            "m_c spent a long time talking with r_c, and was disappointed by r_c's lack of interest.",
-            "m_c scolds r_c about something {PRONOUN\/r_c\/object} did, but r_c doesn't take {PRONOUN\/m_c\/object} seriously.",
-            "r_c laughs at m_c's embarrassing mistake.",
-            "r_c told m_c something awful and m_c may never look at {PRONOUN\/r_c\/object} quite the same.",
-            "m_c got lost and r_c didn't look for {PRONOUN\/m_c\/object}.",
-            "m_c and r_c argue about religion in the middle of camp.",
-            "m_c realizes how hard it is to hold a conversation with r_c.",
-            "m_c lied to r_c's face.",
-            "m_c called r_c lazy, and r_c has retaliated by nitpicking everything that m_c does.",
-            "m_c had a bad day and lashed out at r_c."
+            "m_c и r_c провели тяжёлый разговор и затаили обиду друг на друга.",
+            "m_c явно отвлекался(лась), пока r_c пытался(лась) рассказать историю.",
+            "m_c и r_c долго обсуждают цели и устремления, но понимают, что во многом не сходятся.",
+            "m_c спрашивает r_c о чём-то сложном и почти сразу жалеет об этом, потому что r_c не понял(а) сути.",
+            "m_c долго разговаривал(а) с r_c и разочаровался(лась) из-за равнодушия в свою сторону.",
+            "m_c отчитывает r_c за то, что {PRONOUN/r_c/object} сделал(а), но r_c не воспринимает {PRONOUN/m_c/object} всерьёз.",
+            "r_c высмеял(а) неловкую ошибку m_c.",
+            "r_c сказал(а) m_c что-то ужасное, и теперь m_c, возможно, никогда не взглянет на {PRONOUN/r_c/object} прежним взглядом.",
+            "m_c потерялся(лась), а r_c даже не искал(а) {PRONOUN/m_c/object}.",
+            "m_c и r_c поссорились из-за поверий прямо посреди лагеря.",
+            "m_c осознаёт, как тяжело вести беседу с r_c.",
+            "m_c солгал(а) в лицо r_c.",
+            "m_c назвал(а) r_c лентяем, и r_c в отместку придирается ко всему, что делает m_c.",
+            "m_c сорвал(а) злость на r_c из-за неудачного дня."
         ],
         "reaction_random_cat": {
             "admiration": "decrease"

@@ -3,38 +3,38 @@
         "id": "jel_de_low1",
         "intensity": "low",
         "interactions": [
-            "m_c thinks r_c is very helpful!",
-            "m_c notices r_c doing something generous.",
-            "r_c gives m_c a big piece of fresh-kill.",
-            "r_c says {PRONOUN\/r_c\/subject} {VERB\/r_c\/hope\/hopes} m_c has a nice day.",
-            "m_c sees r_c be kind to one of m_c's friends.",
-            "m_c thinks r_c is very polite.",
-            "m_c hears r_c laugh at a Clanmate's joke even though it was lame.",
-            "r_c gets a bug off of m_c's pelt and takes it out of camp.",
-            "m_c thinks r_c is a very good listener."
+            "m_c считает(ют), что r_c очень отзывчив(а,и)!",
+            "m_c замечает(ют), что r_c совершает(ют) щедрый поступок.",
+            "r_c дарит(ят) m_c большой кусок свежей добычи.",
+            "r_c говорит(ят), что {PRONOUN\/r_c\/subject} надеется(ются), что у m_c будет хороший день.",
+            "m_c видит(ят), как r_c добр(а,ы) к одному из друзей {PRONOUN\/m_c\/subject}.",
+            "m_c считает(ют), что r_c очень вежлив(а,ы).",
+            "m_c слышит(ат), как r_c смеется(ются) над шуткой соплеменника, хотя она была глупой.",
+            "r_c снимает(ют) жука с шерсти m_c и уносит(ят) его из лагеря.",
+            "m_c считает(ют), что r_c очень внимательный(ая,ые) слушатель(ница)."
         ]
     },
     {
         "id": "jel_de_med1",
         "interactions": [
-            "r_c surprises m_c with something nice.",
-            "r_c goes out of {PRONOUN\/r_c\/poss} way to help m_c with something without being asked.",
-            "r_c brings m_c herbs from the medicine den for a headache.",
-            "r_c tells a Clanmate that m_c did a great job today.",
-            "m_c is grateful for something r_c did."
+            "r_c делает(ят) m_c приятный сюрприз.",
+            "r_c идет(дут) навстречу, чтобы помочь m_c без просьбы.",
+            "r_c приносит(ят) m_c травы из целительской палатки от головной боли.",
+            "r_c говорит(ят) соплеменнику, что m_c отлично справился(ась) сегодня.",
+            "m_c благодарен(на,ны) за то, что сделал(а) r_c."
         ]
     },
     {
         "id": "jel_de_med2",
         "interactions": [
-            "m_c swaps favorite prey with r_c.",
-            "m_c and r_c bring each other prey.",
-            "m_c shares nest material with r_c.",
-            "m_c and r_c take turns in a small patch of sunlight.",
-            "m_c shares a bit of shelter from the rain with r_c.",
-            "m_c helps r_c figure out how to word something.",
-            "m_c can't remember a word for the life of {PRONOUN\/m_c\/object}, but r_c helps {PRONOUN\/m_c\/object} remember it.",
-            "m_c tells a story to r_c and r_c suggests how to make it even better."
+            "m_c обменивается(ются) любимой добычей с r_c.",
+            "m_c и r_c приносят(ят) друг другу добычу.",
+            "m_c делится(лятся) материалом для гнезда с r_c.",
+            "m_c и r_c по очереди греются на солнечном пятне.",
+            "m_c делится(лятся) укрытием от дождя с r_c.",
+            "m_c помогает(ют) r_c подобрать слова.",
+            "m_c никак не может(гут) вспомнить слово, но r_c помогает(ют) {PRONOUN\/m_c\/object} вспомнить его.",
+            "m_c рассказывает(ют) историю r_c, и {PRONOUN\/r_c\/subject} предлагает(ют) способы её улучшить."
         ],
         "reaction_random_cat": {
             "jealousy": "decrease"
@@ -43,12 +43,12 @@
     {
         "id": "jel_de_med3",
         "interactions": [
-            "m_c always thought r_c had it all figured out, so {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} surprised when r_c asks for help.",
-            "r_c is embarrassed about something that m_c finds really cool!",
-            "m_c is flattered when r_c asks for {PRONOUN\/m_c\/object} advice.",
-            "r_c tells m_c that {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} talented for {PRONOUN\/m_c\/poss} age.",
-            "r_c tells m_c that {PRONOUN\/m_c\/subject} {VERB\/m_c\/remind\/reminds} {PRONOUN\/r_c\/object} of when {PRONOUN\/r_c\/subject} {VERB\/r_c\/were\/was} young.",
-            "r_c compliments m_c on something {PRONOUN\/m_c\/subject} had worked very hard on."
+            "m_c всегда считал(а,и), что r_c во всём разбирается, поэтому {PRONOUN\/m_c\/subject} удивлен(на,ны) когда r_c просит(ят) о помощи.",
+            "r_c смущен(а,ы) из-за чего-то, что m_c считает(ют) очень крутым!",
+            "m_c польщен(а,ы), когда r_c спрашивает(ят) {PRONOUN\/m_c\/object} совета.",
+            "r_c говорит(ят) m_c, что {PRONOUN\/m_c\/subject} талантлив(ва,вы) для {PRONOUN\/m_c\/poss} возраста.",
+            "r_c говорит(ят) m_c, что {PRONOUN\/m_c\/subject} напоминает(ют) о временах, когда {PRONOUN\/r_c\/subject} был(ла,ли) молод(а,ы).",
+            "r_c хвалит(ят) m_c за то, над чем {PRONOUN\/m_c\/subject} упорно трудился(ась,ись)."
         ],
         "main_status_constraint": [
             "kitten",
@@ -68,12 +68,12 @@
     {
         "id": "jealousy_app_de_med1",
         "interactions": [
-            "m_c has been listening to r_c talk about how hard training has been.",
-            "m_c comforts r_c after a hard day's training.",
-            "m_c and r_c exchange stories about their mentors.",
-            "After going on a patrol together, m_c and r_c excitedly gush about how cool it is to be an apprentice.",
-            "r_c messes something up during training, so m_c reassures {PRONOUN\/r_c\/object} that it's okay to make mistakes.",
-            "m_c and r_c have a long conversation about what they want their warrior names to be."
+            "m_c внимательно слушает(ют) r_c, который(ая) рассказывает(ют) о трудностях тренировок.",
+            "m_c утешает(ют) r_c после тяжелого тренировочного дня.",
+            "m_c и r_c обмениваются(ятся) историями о своих наставниках.",
+            "После совместного патруля m_c и r_c восторженно болтают(ют) о том, как здорово быть оруженосцем.",
+            "r_c допустил(а,и) ошибку на тренировке, поэтому m_c успокаивает(ют) {PRONOUN\/r_c\/object}, говоря, что ошибаться - это нормально.",
+            "m_c и r_c ведут(дут) долгий разговор о том, какие воинские имена они хотели бы получить."
         ],
         "main_status_constraint": [
             "apprentice",
@@ -96,12 +96,12 @@
     {
         "id": "jealousy_app_de_med2",
         "interactions": [
-            "m_c has been listening to r_c talk about how difficult herb memorization is.",
-            "m_c helps r_c wash mouse bile off of {PRONOUN\/r_c\/poss} paws.",
-            "m_c carries bad-tasting herbs for r_c.",
-            "m_c comforts r_c's anxieties about being a good healer.",
-            "m_c lets r_c practice healing techniques on {PRONOUN\/m_c\/subject}.",
-            "m_c quizzes r_c on herb knowledge in preparation for a test."
+            "m_c внимательно слушает(ют) r_c, который(ая) рассказывает(ют) о сложностях запоминания трав.",
+            "m_c помогает(ют) r_c смыть мышиную желчь с {PRONOUN\/r_c\/poss} лап.",
+            "m_c носит(ят) для r_c горькие травы.",
+            "m_c успокаивает(ют) тревоги r_c о том, чтобы стать хорошим целителем.",
+            "m_c позволяет(ют) r_c практиковать целительские техники на {PRONOUN\/m_c\/subject}.",
+            "m_c проверяет(ют) знания r_c о травах при подготовке к испытанию."
         ],
         "main_status_constraint": [
             "apprentice",
@@ -122,27 +122,27 @@
         "id": "jel_de_high1",
         "intensity": "high",
         "interactions": [
-            "m_c is really surprised that r_c's life isn't as easy as {PRONOUN\/m_c\/subject} thought it was.",
-            "m_c realizes that {PRONOUN\/m_c\/subject} and r_c have had a lot of the same hardships.",
-            "m_c learns about r_c's struggles and is surprised how well {PRONOUN\/r_c\/subject} {VERB\/r_c\/carry\/carries} {PRONOUN\/r_c\/self}.",
-            "m_c notices that r_c is never congratulated for {PRONOUN\/r_c\/poss} accomplishments as much as everyone else.",
-            "m_c hears r_c crying over something everyone downplayed the severity of.",
-            "m_c realizes that r_c would put {PRONOUN\/r_c\/poss} life on the line for a Clanmate.",
-            "m_c learns how much effort r_c put into learning something.",
-            "m_c can hear the truth in r_c's words when {PRONOUN\/r_c\/subject} {VERB\/r_c\/talk\/talks} about protecting others."
+            "m_c очень удивлен(а,ы), что жизнь r_c не так легка, как {PRONOUN\/m_c\/subject} думал(а,и).",
+            "m_c понимает(ют), что у {PRONOUN\/m_c\/subject} и r_c было много общих трудностей.",
+            "m_c узнает(ют) о борьбе r_c и поражен(а,ы), как стойко {PRONOUN\/r_c\/subject} {VERB\/r_c\/держится\/держатся}.",
+            "m_c замечает(ют), что r_c никогда не хвалят(ят) за {PRONOUN\/r_c\/poss} достижения так же, как других.",
+            "m_c слышит(ат), как r_c плачет из-за того, что все считали несерьёзным.",
+            "m_c понимает(ют), что r_c готов(а,ы) отдать {PRONOUN\/r_c\/poss} жизнь за соплеменника.",
+            "m_c узнает(ют), сколько усилий r_c вложил(а) в изучение чего-то.",
+            "m_c слышит(ат) правду в словах r_c, когда {PRONOUN\/r_c\/subject} говорит(ят) о защите других."
         ]
     },
     {
         "id": "jel_de_high2",
         "intensity": "high",
         "interactions": [
-            "m_c sees that r_c's piece of prey looks tastier and asks if {PRONOUN\/r_c\/subject}'d like to swap. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/agree\/agrees} happily, saying {PRONOUN\/r_c\/subject} {VERB\/r_c\/like\/likes} that one better.",
-            "m_c and r_c find out they're both bringing flowers to the same Clanmate's grave.",
-            "m_c and r_c share stories of a Clanmate they didn't realize they both miss.",
-            "Both m_c and r_c enthusiastically congratulate another Clanmate on something.",
-            "When m_c and r_c realize they've been grooming their pelts the same way, they laugh about it.",
-            "m_c and r_c learn a skill from each other that they've been envious about.",
-            "m_c learns some pelt-grooming techniques from r_c, and tells r_c some of {PRONOUN\/m_c\/poss} own."
+            "m_c видит(ят), что добыча r_c выглядит вкуснее, и спрашивает(ют), не хочет(ят) ли {PRONOUN\/r_c\/subject} поменяться. r_c с радостью соглашается(ются), говоря, что {PRONOUN\/r_c\/subject} предпочитает(ют) именно эта еда.",
+            "m_c и r_c обнаруживают(ют), что несут цветы на могилу одного и того же соплеменника.",
+            "m_c и r_c делятся историями о соплеменнике, которого они оба скучают(ют), не подозревая об этом.",
+            "И m_c, и r_c восторженно поздравляют(ят) другого соплеменника с достижением.",
+            "Когда m_c и r_c понимают, что ухаживают(ят) за шерстью одинаково, они смеются над этим.",
+            "m_c и r_c учатся друг у друга навыкам, которым прежде завидовали.",
+            "m_c перенимает(ют) у r_c техники ухода за шерстью и делится(ятся) с r_c своими собственными."
         ],
         "reaction_random_cat": {
             "jealousy": "decrease"

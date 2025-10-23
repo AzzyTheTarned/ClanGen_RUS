@@ -3,26 +3,26 @@
         "id": "trust_inc_low1",
         "intensity": "low",
         "interactions": [
-            "m_c appreciates r_c telling {PRONOUN\/m_c\/object} that {PRONOUN\/m_c\/subject} had a feather stuck to {PRONOUN\/m_c\/poss} face.",
-            "r_c follows through on a small promise made with m_c.",
-            "r_c says something vulnerable to m_c.",
-            "m_c feels a little safer when r_c joins {PRONOUN\/m_c\/object} in the clearing.",
-            "m_c gets some good advice from r_c about something trivial.",
-            "r_c respects m_c's opinion despite disagreeing with it.",
-            "r_c vents about something trivial to m_c.",
-            "r_c sends a Clanmate to help m_c with something {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} struggling with.",
-            "r_c respects m_c's opinion despite disagreeing with it."
+            "m_c благодарен(ны) r_c за то, что {PRONOUN\/r_c\/subject} сказал(а) {PRONOUN\/m_c\/object}, что у {PRONOUN\/m_c\/subject} перо прилипло к морде.",
+            "r_c выполняет(ют) небольшое обещание, данное m_c.",
+            "r_c говорит m_c что-то сокровенное.",
+            "m_c чувствует(ют) себя чуть безопаснее, когда r_c присоединяется(ются) к {PRONOUN\/m_c\/object} на поляне.",
+            "m_c получает(ют) хороший совет от r_c по пустякам.",
+            "r_c уважает(ют) мнение m_c, несмотря на разногласия.",
+            "r_c жалуется(ются) m_c на что-то незначительное.",
+            "r_c посылает(ат) сородича помочь m_c с тем, с чем {PRONOUN\/m_c\/subject} не справляется(ются).",
+            "r_c уважает(ют) мнение m_c, несмотря на разногласия."
         ]
     },
     {
         "id": "trust_inc_low2",
         "intensity": "low",
         "interactions": [
-            "m_c includes r_c in a conversation that r_c struggled to join.",
-            "r_c helps m_c hide from a Clanmate.",
-            "r_c makes a small sacrifice that benefits m_c.",
-            "r_c lets m_c know that a Clanmate was talking badly about {PRONOUN\/m_c\/object}.",
-            "r_c tells m_c that {PRONOUN\/r_c\/subject} was worried for {PRONOUN\/m_c\/object}."
+            "m_c включает(ют) r_c в разговор, к которому {PRONOUN\/r_c\/subject} не мог(ла,ли) присоединиться.",
+            "r_c помогает(ют) m_c спрятаться от сородича.",
+            "r_c делает(ат) небольшую жертву ради m_c.",
+            "r_c сообщает(ят) m_c, что сородич плохо говорил о {PRONOUN\/m_c\/object}.",
+            "r_c говорит(ят) m_c, что {PRONOUN\/r_c\/subject} беспокоился(ась,ись) о {PRONOUN\/m_c\/object}."
         ],
         "reaction_random_cat": {
             "trust": "increase"
@@ -32,7 +32,7 @@
         "id": "trust_inc_low3",
         "intensity": "low",
         "interactions": [
-            "m_c bestows wisdom onto r_c."
+            "m_c делится(ятся) мудростью с r_c."
         ],
         "reaction_random_cat": {
             "trust": "increase",
@@ -46,9 +46,9 @@
         "id": "trust_inc_low4",
         "intensity": "low",
         "interactions": [
-            "r_c tells m_c to get {PRONOUN\/m_c\/poss} ailment treated as soon as possible.",
-            "r_c is chiding m_c for being so reckless.",
-            "r_c apologized to m_c for possibly hurting {PRONOUN\/m_c\/poss} feelings."
+            "r_c советует(ют) m_c лечить {PRONOUN\/m_c\/poss} недуг как можно скорее.",
+            "r_c ругает(ят) m_c за безрассудство.",
+            "r_c извиняется(ятся) перед m_c за то, что мог(ла,ли) обидеть {PRONOUN\/m_c\/object}."
         ],
         "random_trait_constraint": [
             "careful"
@@ -57,26 +57,26 @@
     {
         "id": "trust_inc_med1",
         "interactions": [
-            "m_c thinks about how r_c is always reliable.",
-            "m_c notices how r_c is being helpful around camp.",
-            "m_c has faith in r_c.",
-            "m_c is grateful that r_c has kept a secret of {PRONOUN\/m_c\/poss}s.",
-            "r_c seems respectful of m_c's boundaries as of late.",
-            "r_c explained something in detail to m_c that others wouldn't explain to {PRONOUN\/m_c\/object}.",
-            "m_c overhears r_c dispelling a false rumor about a Clanmate.",
-            "r_c helps m_c fix a matted piece of fur on {PRONOUN\/m_c\/poss} back.",
-            "m_c notices how r_c is being helpful around camp."
+            "m_c думает(ют) о том, как r_c всегда надежен(ны).",
+            "m_c замечает(ят), как r_c помогает(ют) в лагере.",
+            "m_c верит(ят) в r_c.",
+            "m_c благодарен(ны) r_c за то, что {PRONOUN\/r_c\/subject} хранит(ят) {PRONOUN\/m_c\/poss} секрет.",
+            "r_c уважает(ют) личные границы m_c в последнее время.",
+            "r_c подробно объясняет(ят) m_c то, что другие не стали бы объяснять {PRONOUN\/m_c\/object}.",
+            "m_c подслушивает(ат), как r_c развеивает(ят) ложный слух о сородиче.",
+            "r_c помогает(ют) m_c распутать свалявшийся клок шерсти на спине.",
+            "m_c замечает(ят), как r_c помогает(ют) в лагере."
         ]
     },
     {
         "id": "trust_inc_med2",
         "interactions": [
-            "m_c comes up with a plan to sneak out of camp with r_c.",
-            "r_c doesn't entertain a rumor that is being spread about m_c.",
-            "r_c takes m_c's side while m_c is in a debate.",
-            "m_c nearly tripped, but was caught by r_c.",
-            "m_c asks r_c to watch {PRONOUN\/m_c\/poss} fresh-kill so {PRONOUN\/m_c\/subject} can go to the dirtplace.",
-            "Only m_c and r_c know the details about a specific piece of Clan drama."
+            "m_c придумывает(ат) план, как сбежать из лагеря с r_c.",
+            "r_c не поддерживает(ат) слух о m_c.",
+            "r_c принимает(ят) сторону m_c в споре.",
+            "m_c чуть не упал(а,и), но r_c подхватил(а,и) {PRONOUN\/m_c\/object}.",
+            "m_c просит(ят) r_c присмотреть за {PRONOUN\/m_c\/poss} добычей, пока {PRONOUN\/m_c\/subject} не сходит(ят) в кусты.",
+            "Только m_c и r_c знают(ют) детали о скандале в племени."
         ],
         "reaction_random_cat": {
             "trust": "increase"
@@ -85,12 +85,12 @@
     {
         "id": "trust_inc_medpat",
         "interactions": [
-            "Something embarrassing happens to m_c on a patrol, but r_c promises not to tell anyone.",
-            "m_c lets r_c bring back fresh-kill {PRONOUN\/m_c\/subject} caught on a patrol.",
-            "m_c offers to take r_c's place on a patrol when {PRONOUN\/r_c\/subject} {VERB\/r_c\/aren't\/isn't} feeling well.",
-            "r_c stands up for m_c during a patrol.",
-            "m_c and r_c find a hidden part of the territory and keep it a secret together.",
-            "m_c and r_c work well on a patrol together."
+            "С m_c происходит что-то неловкое на патруле, но r_c обещает(ят) никому не рассказывать.",
+            "m_c позволяет(ят) r_c принести добычу, пойманную на патруле.",
+            "m_c предлагает(ят) заменить r_c на патруле, когда {PRONOUN\/r_c\/subject} плохо себя чувствует(ют).",
+            "r_c заступается(ятся) за m_c во время патруля.",
+            "m_c и r_c находят(ат) потайное место и хранят(ят) это в тайне.",
+            "m_c и r_c отлично работают(ат) вместе на патруле."
         ],
         "main_status_constraint": [
             "apprentice",
@@ -111,9 +111,9 @@
     {
         "id": "trust_inc_med3",
         "interactions": [
-            "r_c is telling m_c in great detail how {PRONOUN\/r_c\/subject} would protect {PRONOUN\/m_c\/object} from any danger.",
-            "r_c gets riled up on m_c's behalf during a debate.",
-            "r_c snaps at a Clanmate for disagreeing with m_c."
+            "r_c рассказывает(ят) m_c в деталях, как {PRONOUN\/r_c\/subject} будет(ут) защищать {PRONOUN\/m_c\/object} от любой угрозы.",
+            "r_c горячится(ятся) в споре, защищая m_c.",
+            "r_c огрызается(ятся) на сородича, который не согласен с m_c."
         ],
         "random_trait_constraint": [
             "fierce"
@@ -122,8 +122,8 @@
     {
         "id": "trust_inc_med4",
         "interactions": [
-            "r_c is building up m_c's confidence.",
-            "r_c promises m_c that everything will be okay."
+            "r_c поднимает(ят) самооценку m_c.",
+            "r_c обещает(ят) m_c, что всё будет хорошо."
         ],
         "random_trait_constraint": [
             "confident"
@@ -132,10 +132,10 @@
     {
         "id": "trust_inc_med5",
         "interactions": [
-            "r_c let m_c lean on {PRONOUN\/r_c\/poss} shoulder after a recent injury.",
-            "r_c skips eating a meal so m_c can have food.",
-            "r_c offers to take the blame for something that m_c did.",
-            "r_c is poised to help train m_c."
+            "r_c позволяетет(ят) m_c опереться на плечо после травмы.",
+            "r_c отказывается(ятся) от еды, чтобы m_c мог(ла,ли) поесть.",
+            "r_c предлагает(ят) взять вину за поступок m_c на себя.",
+            "r_c готовит(ят) помочь в обучении m_c."
         ],
         "random_trait_constraint": [
             "loving",
@@ -146,10 +146,10 @@
     {
         "id": "trust_de_med3",
         "interactions": [
-            "r_c is teaching m_c how to walk without making a sound.",
-            "r_c is showing m_c how to sneak up on {PRONOUN\/m_c\/poss} enemies.",
-            "r_c convinces m_c to help {PRONOUN\/r_c\/object} pull a prank on a Clanmate.",
-            "m_c is whispering quietly with r_c."
+            "r_c учит(ат) m_c ходить бесшумно.",
+            "r_c показывает(ат) m_c, как подкрасться к врагу.",
+            "r_c уговаривает(ят) m_c помочь подшутить над сородичем.",
+            "m_c шепчется(ятся) с r_c."
         ],
         "random_trait_constraint": [
             "sneaky"
@@ -158,8 +158,8 @@
     {
         "id": "trust_de_med3",
         "interactions": [
-            "r_c is giving m_c advice.",
-            "r_c is teaching m_c something important."
+            "r_c дает(ют) совет m_c.",
+            "r_c учит(ат) m_c чему-то важному."
         ],
         "random_trait_constraint": [
             "wise"
@@ -168,11 +168,11 @@
     {
         "id": "trust_adult_inc_med1",
         "interactions": [
-            "m_c is giving advice to r_c.",
-            "m_c asks r_c to show off {PRONOUN\/r_c\/poss} skills.",
-            "m_c compliments r_c on a skill {PRONOUN\/r_c\/subject} trained hard on.",
-            "m_c talks with r_c about {PRONOUN\/r_c\/poss} potential warrior name.",
-            "m_c is looking out for r_c's well-being."
+            "m_c дает(ют) совет r_c.",
+            "m_c просит(ят) r_c продемонстрировать {PRONOUN\/r_c\/poss} навыки.",
+            "m_c хвалит(ят) r_c за упорно тренированный навык.",
+            "m_c обсуждает(ат) с r_c {PRONOUN\/r_c\/poss} будущее воинское имя.",
+            "m_c заботится(ятся) о благополучии r_c."
         ],
         "main_status_constraint": [
             "elder",
@@ -195,10 +195,10 @@
     {
         "id": "trust_adult_inc_med2",
         "interactions": [
-            "m_c goes to r_c to ask for {PRONOUN\/r_c\/poss} wisdom.",
-            "m_c is faced with a tough decision and wonders what r_c would do.",
-            "m_c turns to r_c in a time of need.",
-            "m_c is feeling lost and asks r_c for advice on what to do."
+            "m_c идет(дут) к r_c за мудростью.",
+            "m_c перед трудным выбором думает(ат), как поступил бы r_c.",
+            "m_c обращается(ятся) к r_c в трудную минуту.",
+            "m_c в растерянности просит(ят) совета у r_c."
         ],
         "main_status_constraint": [
             "kitten",
@@ -225,29 +225,29 @@
         "id": "trust_inc_high1",
         "intensity": "high",
         "interactions": [
-            "m_c thinks {PRONOUN\/m_c\/subject} can tell r_c something important.",
-            "m_c feels safe with r_c around.",
-            "r_c won't back down when defending m_c on something.",
-            "r_c calls out the Clan for targeting m_c.",
-            "m_c feels comfortable challenging r_c on something {PRONOUN\/r_c\/subject} said.",
-            "m_c isn't afraid to ask r_c a difficult question.",
-            "m_c doesn't shy away from r_c's presence.",
-            "m_c knows that the advice r_c gave {PRONOUN\/m_c\/object} will be helpful."
+            "m_c думает(ют), что {PRONOUN\/m_c\/subject} может рассказать r_c что-то важное.",
+            "m_c чувствует(ют) себя в безопасности с r_c.",
+            "r_c не отступает(ят), защищая m_c.",
+            "r_c призывает(ат) племя прекратить нападки на m_c.",
+            "m_c спокойно оспаривает(ят) слова r_c.",
+            "m_c не боится(ат) задать r_c трудный вопрос.",
+            "m_c не избегает(ят) общества r_c.",
+            "m_c уверен(ны), что совет r_c пригодится."
         ]
     },
     {
         "id": "trust_inc_high2",
         "intensity": "high",
         "interactions": [
-            "m_c is letting r_c share {PRONOUN\/r_c\/poss} troubles with {PRONOUN\/m_c\/object}, hoping {PRONOUN\/r_c\/subject}'ll feel better afterwards.",
-            "m_c promises to always look out for r_c.",
-            "m_c trusts r_c with a very important task.",
-            "m_c often goes to r_c for guidance.",
-            "r_c admits a mistake to m_c and asks for forgiveness.",
-            "r_c believes in m_c's version of events when something happens and the Clan doubts {PRONOUN\/m_c\/object}.",
-            "m_c backs up one of r_c's claims during one of r_c's arguments.",
-            "m_c and r_c agree on something the rest of the Clan finds contentious.",
-            "m_c tells r_c to count on {PRONOUN\/m_c\/object} in a difficult situation."
+            "m_c позволяетет(ят) r_c излить душу, надеясь облегчить {PRONOUN\/r_c\/poss} состояние.",
+            "m_c обещает(ят) всегда защищать r_c.",
+            "m_c доверяет(ят) r_c важное задание.",
+            "m_c часто обращается(ятся) к r_c за советом.",
+            "r_c признает(ят) ошибку перед m_c и просит(ят) прощения.",
+            "r_c верит(ят) версии m_c, когда племя сомневается.",
+            "m_c поддерживает(ят) заявление r_c во время спора.",
+            "m_c и r_c согласны(ны) в том, с чем не согласны другие.",
+            "m_c говорит(ат) r_c рассчитывать на {PRONOUN\/m_c\/object} в трудной ситуации."
         ],
         "reaction_random_cat": {
             "trust": "increase"
@@ -256,14 +256,14 @@
     {
         "id": "trust_inc_highpat",
         "interactions": [
-            "m_c and r_c watch one another's back on a patrol.",
-            "m_c protects r_c from something on a patrol.",
-            "m_c and r_c chase off a predator on a patrol together.",
-            "m_c and r_c make an elaborate plan to evict a predator from the Clan's territory.",
-            "m_c and r_c volunteer to go on an extra border patrol together.",
-            "m_c notices that r_c has finished all {PRONOUN\/r_c\/poss} tasks without issues lately.",
-            "During a patrol, m_c and r_c have a long conversation about their beliefs and agree on many things.",
-            "During the last gathering, m_c and r_c defended their Clan against another Clan's heckling."
+            "m_c и r_c прикрывают(ат) друг друга на патруле.",
+            "m_c защищает(ят) r_c от угрозы на патруле.",
+            "m_c и r_c прогоняют(ят) хищника во время совместного патруля.",
+            "m_c и r_c разрабатывают(ат) план изгнания хищника с территории.",
+            "m_c и r_c добровольно идут(дут) на дополнительный пограничный патруль.",
+            "m_c замечает(ят), что r_c отлично справляется(ятся) с обязанностями.",
+            "На патруле m_c и r_c обсуждают(ат) свои взгляды и находят(ат) много общего.",
+            "На последнем Сборище m_c и r_c вместе защищали(ят) честь племени."
         ],
         "main_status_constraint": [
             "apprentice",
@@ -291,10 +291,10 @@
         "id": "trust_inc_high3",
         "intensity": "high",
         "interactions": [
-            "m_c tells r_c a deep, dark secret.",
-            "m_c confesses something to r_c.",
-            "m_c depends on r_c to back {PRONOUN\/m_c\/object} up during a debate.",
-            "m_c and r_c swap secrets with each other."
+            "m_c рассказывает(ят) r_c страшную тайну.",
+            "m_c признается(ятся) r_c в чём-то.",
+            "m_c полагается(ятся), что r_c поддержит(ат) {PRONOUN\/m_c\/object} в споре.",
+            "m_c и r_c обмениваются(ятся) секретами."
         ],
         "relationship_constraint": [
             "trust_30"
@@ -307,9 +307,9 @@
         "id": "trust_inc_high4",
         "intensity": "high",
         "interactions": [
-            "m_c goes to r_c for advice about some recent troubles.",
-            "m_c asks r_c to help {PRONOUN\/m_c\/object} find the right words to say to a Clanmate.",
-            "m_c asks r_c for help resolving an argument with a friend."
+            "m_c идёт(дут) к r_c за советом о недавних проблемах.",
+            "m_c просит(ят) r_c помочь подобрать слова для разговора с сородичем.",
+            "m_c просит(ят) r_c помочь помириться с другом."
         ],
         "relationship_constraint": [
             "trust_30"
@@ -324,9 +324,9 @@
         "id": "trust_star_inc_high1",
         "intensity": "high",
         "interactions": [
-            "m_c tells r_c about {PRONOUN\/m_c\/poss} last encounter with StarClan.",
-            "m_c debates the meaning of a prophetic dream with r_c.",
-            "r_c has a lot of faith in m_c's skill."
+            "m_c рассказывает(ят) r_c о {PRONOUN\/m_c\/poss} встрече с Звёздным племенем.",
+            "m_c обсуждает(ат) с r_c значение вещего сна.",
+            "r_c уверен(ны) в навыках m_c."
         ],
         "main_status_constraint": [
             "medicine cat apprentice",
@@ -352,7 +352,7 @@
     {
         "id": "trust_led_inc_high1",
         "interactions": [
-            "m_c talks with r_c about difficult decisions."
+            "m_c обсуждает(ат) с r_c трудные решения."
         ],
         "relationship_constraint": [
             "trust_50"
@@ -372,10 +372,10 @@
     {
         "id": "trust_led_inc_high2",
         "interactions": [
-            "m_c makes battle plans with r_c.",
-            "m_c discusses future plans for the Clan with r_c.",
-            "m_c catches up on current Clan relationships with r_c.",
-            "m_c discusses plans to expand the territory with r_c."
+            "m_c разрабатывает(ат) с r_c боевую стратегию.",
+            "m_c обсуждает(ат) с r_c будущее племени.",
+            "m_c обсуждает(ат) с r_c отношения в племени.",
+            "m_c обсуждает(ат) с r_c планы расширения территории."
         ],
         "relationship_constraint": [
             "trust_50"
@@ -394,13 +394,13 @@
     {
         "id": "trust_med_inc_high1",
         "interactions": [
-            "m_c tells r_c a trick about a certain herb.",
-            "m_c shows r_c how to make an herb taste better.",
-            "m_c and r_c invent a new treatment method together.",
-            "m_c knows that r_c will always bring back the right herbs from a patrol.",
-            "m_c trusts r_c with a patient {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} treating.",
-            "m_c goes to r_c to ask for {PRONOUN\/r_c\/poss} wisdom.",
-            "m_c asks r_c about a specific treatment method."
+            "m_c открывает(ат) r_c секрет о целебной траве.",
+            "m_c показывает(ат) r_c, как улучшить вкус травы.",
+            "m_c и r_c разрабатывают(ат) новый метод лечения.",
+            "m_c уверен(ны), что r_c всегда принесёт(ут) нужные травы.",
+            "m_c доверяет(ят) r_c пациента.",
+            "m_c идёт(дут) к r_c за мудрым советом.",
+            "m_c спрашивает(ает) r_c о методе лечения."
         ],
         "main_status_constraint": [
             "medicine cat apprentice",
@@ -417,8 +417,8 @@
     {
         "id": "trust_med_inc_high2",
         "interactions": [
-            "m_c observes r_c carefully attending to any cat that needs help.",
-            "m_c feels like {PRONOUN\/m_c\/subject} can count on r_c to give {PRONOUN\/m_c\/object} the best treatment possible."
+            "m_c наблюдает(ат), как r_c заботливо ухаживает(ят) за больными.",
+            "m_c уверен(ны), что r_c окажет(ут) {PRONOUN\/m_c\/object} лучшую помощь."
         ],
         "random_status_constraint": [
             "medicine cat apprentice",

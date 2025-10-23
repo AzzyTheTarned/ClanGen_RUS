@@ -8,7 +8,7 @@
             "any"
         ],
         "weight": 5,
-        "event_text": "m_c returned to camp carrying a litter of kittens, explaining that {PRONOUN\/m_c\/subject} found them mewling in a patch of grass, near the cooling body of a loner.",
+        "event_text": "m_c вернулся(ась) в лагерь, неся выводок котят, и объяснил(а), что {PRONOUN/m_c/subject} нашёл(ла) их мяукающими в участке травы, рядом с остывающим телом одиночки.",
         "m_c": {
             "age": [
                 "young adult",
@@ -66,7 +66,7 @@
             "any"
         ],
         "weight": 5,
-        "event_text": "m_c rescued a kittypet hopelessly lost in some tunnels, who is so impressed, {PRONOUN\/n_c:0\/subject} {VERB\/n_c:0\/ask\/asks} to join the Clan!",
+        "event_text": "m_c спас(ла) домашнего кота, безнадёжно заблудившегося в каких-то туннелях, который настолько впечатлён, что {PRONOUN/n_c:0/subject} {VERB/n_c:0/ask/asks} присоединиться к Племени!",
         "m_c": {
             "age": [
                 "young adult",

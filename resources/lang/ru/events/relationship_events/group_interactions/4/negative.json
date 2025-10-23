@@ -4,7 +4,7 @@
         "cat_amount": 4,
         "intensity": "low",
         "interactions": [
-            "m_c is gossiping with r_c1 about r_c2 and r_c3"
+            "m_c сплетничает с r_c1 о r_c2 и r_c3"
         ],
         "relationship_constraint": {
             "m_c_to_r_c2": [

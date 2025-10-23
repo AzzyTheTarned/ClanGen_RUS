@@ -16,12 +16,12 @@
         "max_cats": 4,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "The patrol comes across a turtle.",
-        "decline_text": "The patrol decides to look for other prey.",
+        "intro_text": "Патруль находит черепаху.",
+        "decline_text": "Патруль решает поискать другую добычу.",
         "chance_of_success": 50,
         "success_outcomes": [
             {
-                "text": "The patrol catches the turtle!",
+                "text": "Патруль ловит черепаху!",
                 "exp": 10,
                 "weight": 20,
                 "prey": [
@@ -31,7 +31,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The patrol narrowly misses the turtle.",
+                "text": "Патруль упустил черепаху.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -57,12 +57,12 @@
         "max_cats": 3,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "The patrol approaches a Twoleg nest perched on the beachfront while hunting.",
-        "decline_text": "The patrol decides to hunt elsewhere.",
+        "intro_text": "Патруль на берегу приближается к гнезду Двуногих во время охоты.",
+        "decline_text": "Патруль решает поохотиться в другом месте.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "The patrol has a successful hunt, avoiding any Twolegs.",
+                "text": "Патруль успешно поохотился, избежав встречи с Двуногими.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -70,7 +70,7 @@
                 ]
             },
             {
-                "text": "The patrol finds some astonishingly fat chickens running around the Twoleg nest and help themselves to one.",
+                "text": "Патруль находит невероятно упитанных кур, бегающих вокруг гнезда Двуногих, и забирает одну.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -80,7 +80,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Twoleg kits scare the patrol away.",
+                "text": "Детёныши Двуногих спугнули патруль.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -106,12 +106,12 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "The patrol approaches a Twoleg nest perched on the beachfront while hunting.",
-        "decline_text": "The patrol decides to hunt elsewhere.",
+        "intro_text": "Патруль приближается к гнезду Двуногих на берегу во время охоты.",
+        "decline_text": "Патруль решает поохотиться в другом месте.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "The patrol cats split up, using sentries to ensure that the Twolegs don't disturb their hunts.",
+                "text": "Коты патруля разделились, используя дозорных, чтобы Двуногие не потревожили их охоту.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -119,7 +119,7 @@
                 ]
             },
             {
-                "text": "The patrol finds some astonishingly fat chickens running around the Twoleg nest and help themselves to as many as they can carry.",
+                "text": "Патруль находит невероятно упитанных кур, бегающих вокруг гнезда Двуногих, и забирает столько, сколько может унести.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -129,7 +129,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Twoleg kits stomp through the sand dunes, scaring away prey and ruining the hunt.",
+                "text": "Детёныши Двуногих протопали через дюны, спугнув добычу и испортив охоту.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -155,12 +155,12 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "The patrol looks around for something to disguise their scent while hunting.",
-        "decline_text": "On second thought, maybe not.",
+        "intro_text": "Патруль ищет что-нибудь, чтобы замаскировать свой запах во время охоты.",
+        "decline_text": "Пожалуй, не стоит.",
         "chance_of_success": 50,
         "success_outcomes": [
             {
-                "text": "The patrol can't think of anything that would work, but their hunt goes well regardless.",
+                "text": "Патруль не может придумать ничего подходящего, но их охота всё равно проходит удачно.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -184,7 +184,7 @@
                 ]
             },
             {
-                "text": "A quick dip in seawater will do! The plan works, and their hunt goes well.",
+                "text": "Быстрое окунание в морскую воду поможет! План срабатывает, и охота проходит удачно.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -208,7 +208,7 @@
                 ]
             },
             {
-                "text": "s_c leads them to some seaweed on the beach - it's not clean, but it's extremely effective, and the patrol hunts well.",
+                "text": "s_c приводит их к водорослям на пляже — они не самые чистые, но очень эффективные, и патруль хорошо охотится.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -235,7 +235,7 @@
                 ]
             },
             {
-                "text": "s_c tells the patrol to roll in a patch of garlic to disguise their scent, which works perfectly. It's a funny taste to wash off their pelts, though.",
+                "text": "s_c говорит патрулю поваляться в зарослях чеснока, чтобы замаскировать запах, что срабатывает идеально. Правда, смыть этот вкус со шкуры — забавное занятие.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -266,7 +266,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The patrol finds nothing to disguise their scent and no prey either.",
+                "text": "Патруль не находит ничего, чтобы замаскировать свой запах, и никакой добычи тоже.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -287,7 +287,7 @@
                 ]
             },
             {
-                "text": "The patrol finds no prey; it seems like all the prey was scared off because of their stench!",
+                "text": "Патруль не находит добычи; похоже, вся добыча была спугнута из-за их запаха!",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -331,12 +331,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "app1's mentor assesses {PRONOUN\/app1\/object} by sending {PRONOUN\/app1\/object} on a solo hunt.",
-        "decline_text": "app1 asks {PRONOUN\/app1\/poss} mentor to do the assessment some other time.",
+        "intro_text": "Наставник app1 проверяет {PRONOUN/app1/object}, отправив на одиночную охоту.",
+        "decline_text": "app1 просит {PRONOUN/app1/poss} наставника проверить {PRONOUN/app1/object} в другой раз.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "app1 manages a skillful catch and brings it back to the camp to show everyone!",
+                "text": "app1 удаётся совершить умелый улов и принести добычу в лагерь, чтобы показать всем!",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -359,7 +359,7 @@
                 ]
             },
             {
-                "text": "app1 focuses completely on {PRONOUN\/app1\/poss} test, slipping into a clear-eyed, focused routine of catch and stash, catch and stash. Eventually {PRONOUN\/app1\/subject}{VERB\/app1\/'ve\/'s} caught enough to need {PRONOUN\/app1\/poss} mentor's help carrying it back to camp, and the feeling seeing {PRONOUN\/app1\/poss} prey stock the fresh-kill pile - {PRONOUN\/app1\/subject} {VERB\/app1\/are\/is} ready to burst with happiness!",
+                "text": "app1 полностью сосредотачивается на своём испытании, впадая в ясный, сфокусированный ритм: поймал — припрятал, поймал — припрятал. В конце концов {PRONOUN/app1/subject} поймал столько, что {PRONOUN/app1/poss} наставнику пришлось помочь нести добычу в лагерь, и ощущение, когда {PRONOUN/app1/poss} добыча пополняет груду свежей добычи, заставляет {PRONOUN/app1/object} распирать от счастья!",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -382,7 +382,7 @@
                 ]
             },
             {
-                "text": "It's a terrible day for hunting; the prey is running sparse and alert. But s_c takes {PRONOUN\/s_c\/poss} time and doesn't let the conditions discourage {PRONOUN\/s_c\/object}, until eventually the right opportunity presents itself, and {PRONOUN\/s_c\/subject} {VERB\/s_c\/pull\/pulls} off a perfect catch!",
+                "text": "Сегодня ужасный день для охоты; добычи мало, и она настороже. Но s_c не торопится и не позволяет условиям обескуражить {PRONOUN/s_c/object}, пока наконец не представляется подходящая возможность, и {PRONOUN/s_c/subject} совершает идеальный поим!",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -422,7 +422,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Hunting is poor, and while app1's mentor is disappointed, they don't expect {PRONOUN\/app1\/object} to catch what isn't there.",
+                "text": "Охота плохая, и хотя наставник app1 разочарован, он не ждёт, что {PRONOUN/app1/object} поймает то, чего нет.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -442,7 +442,7 @@
                 ]
             },
             {
-                "text": "s_c is too hasty, bouncing after first one prey animal, then another, and it ends with {PRONOUN\/s_c\/object} empty-pawed and exhausted. {PRONOUN\/s_c\/poss\/CAP} mentor is disappointed - {PRONOUN\/s_c\/subject} clearly {VERB\/s_c\/need\/needs} more training.",
+                "text": "s_c слишком торопится, бросаясь то за одной добычей, то за другой, и в итоге {PRONOUN/s_c/subject} остаётся с пустыми лапами и выбивается из сил. {PRONOUN/s_c/poss/CAP} наставник разочарован — {PRONOUN/s_c/subject} явно {VERB/s_c/need/needs} больше тренировок.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -478,7 +478,7 @@
                 ]
             },
             {
-                "text": "While on the hunt, app1 tumbles right down into a rock pool while {PRONOUN\/app1\/poss} attention is elsewhere. Bruised and sore, app1 has to report to the medicine cat den when {PRONOUN\/app1\/subject} {VERB\/app1\/return\/returns} to camp.",
+                "text": "Во время охоты app1 сваливается прямо в каменную ванну, пока {PRONOUN/app1/poss} внимание было отвлечено. В синяках и ссадинах, app1 приходится отправляться к целителю, когда {PRONOUN/app1/subject} {VERB/app1/return/returns} в лагерь.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -495,7 +495,7 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c got injured as an apprentice while exploring alone."
+                    "scar": "m_c получил травму в ученичестве, исследуя территорию в одиночку."
                 },
                 "relationships": [
                     {

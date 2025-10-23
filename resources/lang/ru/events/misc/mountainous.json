@@ -14,7 +14,7 @@
             "clan:apprentice"
         ],
         "weight": 30,
-        "event_text": "The apprentices of the Clan are taking special strength training to learn how to weaponize stones and boulders in the mountainous landscape.",
+        "event_text": "Ученики Племени проходят специальную силовую подготовку, чтобы научиться использовать камни и валуны в качестве оружия в горной местности.",
         "m_c": {
             "age": [
                 "any"
@@ -33,7 +33,7 @@
             "any"
         ],
         "weight": 20,
-        "event_text": "As a storm rages across the mountain outside, m_c is tucked up in the medicine cat den, {PRONOUN\/m_c\/poss} sleep anything but restful. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/keep\/keeps} seeing flashes of prophecy_list_sight\/m_c. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/wake\/wakes} with a shiver, wondering what {PRONOUN\/m_c\/poss} dreams mean for the Clan.",
+        "event_text": "Пока снаружи бушует буря в горах, m_c укрыт(а) в логове целителя, и {PRONOUN/m_c/poss} сон совсем не спокоен. {PRONOUN/m_c/subject/CAP} видит вспышки prophecy_list_sight/m_c. {PRONOUN/m_c/subject/CAP} проснулся(лась,лись) с содроганием, гадая, что {PRONOUN/m_c/poss} сны означают для Племени.",
         "m_c": {
             "age": [
                 "any"
@@ -56,7 +56,7 @@
             "any"
         ],
         "weight": 20,
-        "event_text": "The things {PRONOUN\/m_c\/subject} saw today, omen_list_sight\/m_c... m_c sits on an isolated mountain ledge, considering what the omens foretell.",
+        "event_text": "Вещи, которые m_c видел(а) сегодня, omen_list_sight/m_c... m_c сидит на уединённом горном уступе, размышляя о том, что предвещают знамения.",
         "m_c": {
             "age": [
                 "any"
@@ -82,7 +82,7 @@
             "clan:kitten"
         ],
         "weight": 30,
-        "event_text": "Through the long, cold night, m_c brings the young cats of the Clan with {PRONOUN\/m_c\/object} down the tunnels. {PRONOUN\/m_c\/poss\/CAP} words paint an enchanting picture of the ancestors of c_n as {PRONOUN\/m_c\/subject} {VERB\/m_c\/point\/points} out the red pawprints of long dead heroes and villains, telling the Clan's triumphs and failures.",
+        "event_text": "Всю долгую холодную ночь m_c водит молодых котов Племени по тоннелям. {PRONOUN/m_c/poss/CAP} слова рисуют зачарованную картину предков c_n, пока {PRONOUN/m_c/subject} point на красные отпечатки лап давно умерших героев и злодеев, повествуя о триумфах и поражениях Племени.",
         "m_c": {
             "age": [
                 "any"
@@ -108,7 +108,7 @@
             "accessory"
         ],
         "weight": 5,
-        "event_text": "r_c found a little patch of acc_plural and decided to gift them to m_c.",
+        "event_text":"r_c нашёл(ла) немного acc_plural и решил(а) подарить их m_c.",
         "new_accessory": [
             "POPPY",
             "ORANGE POPPY",

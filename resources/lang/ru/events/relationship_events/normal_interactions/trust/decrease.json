@@ -3,34 +3,34 @@
         "id": "trust_de_low1",
         "intensity": "low",
         "interactions": [
-            "m_c doesn't think that r_c has been completely honest lately.",
-            "m_c thinks r_c has been acting strangely.",
-            "r_c won't tell m_c what's got {PRONOUN\/r_c\/object} acting weird.",
-            "m_c sees r_c whispering suspiciously to a Clanmate.",
-            "m_c smells something strange on r_c.",
-            "m_c feels like r_c has been quieter than usual.",
-            "m_c noticed that r_c wasn't in {PRONOUN\/r_c\/poss} nest last night.",
-            "Though m_c asks around, {PRONOUN\/m_c\/subject} can't find r_c anywhere.",
-            "m_c asks r_c a simple question, but r_c reacts strangely to it.",
-            "r_c forgot something that m_c asked {PRONOUN\/r_c\/object} to remember.",
-            "r_c won't stop looking at a specific Clanmate while talking to m_c.",
-            "m_c has a weird feeling about something r_c said the other day."
+            "m_c подозревает(ют), что r_c не совсем честен(а) в последнее время.",
+            "m_c замечает(ют) странное поведение r_c.",
+            "r_c отказывается(ятся) объяснить m_c причины своего поведения.",
+            "m_c видит(ят), как r_c подозрительно шепчется(ятся) с соплеменником.",
+            "m_c чувствует(ют) странный запах от r_c.",
+            "m_c замечает(ют), что r_c ведёт(дут) себя тише обычного.",
+            "m_c заметил(а) отсутствие r_c в гнезде прошлой ночью.",
+            "m_c не может(гут) найти r_c, хотя расспрашивает(ют) всех.",
+            "r_c странно реагирует(ят) на простой вопрос m_c.",
+            "r_c забыл(а) то, о чём просил(а) m_c.",
+            "r_c постоянно смотрит(ят) на другого кота во время разговора с m_c.",
+            "m_c испытывает(ют) странное чувство из-за слов r_c."
         ]
     },
     {
         "id": "trust_de_low2",
         "intensity": "low",
         "interactions": [
-            "m_c shared a embarrassing story about r_c {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} asked not to share...",
-            "m_c's friend doesn't trust r_c.",
-            "m_c learns that r_c told a Clanmate one of {PRONOUN\/m_c\/poss} secrets.",
-            "r_c snitches on m_c for something minor.",
-            "m_c saw r_c hide something before talking to {PRONOUN\/m_c\/object}.",
-            "r_c won't tell m_c what {PRONOUN\/r_c\/subject} ate this morning.",
-            "r_c got a weird look on {PRONOUN\/r_c\/poss} face when m_c approached {PRONOUN\/r_c\/object}.",
-            "m_c has to snap r_c out of a daze to ask a question.",
-            "r_c keeps asking m_c if {PRONOUN\/m_c\/subject} {VERB\/m_c\/trust\/trusts} {PRONOUN\/r_c\/object}.",
-            "m_c finds out something small about r_c that r_c had lied about before."
+            "m_c рассказал(а) постыдную историю о r_c, которую обещал(а) хранить...",
+            "Друг m_c не доверяет r_c.",
+            "m_c узнаёт(ют), что r_c рассказал(а) один из секретов m_c.",
+            "r_c ябедничает(ют) на m_c из-за пустяка.",
+            "m_c видел(а), как r_c что-то прятал(а) перед разговором.",
+            "r_c отказывается(ятся) говорить m_c, что ел(а) утром.",
+            "r_c сделал(а) странное лицо при приближении m_c.",
+            "m_c пришлось(лось) выводить r_c из ступора, чтобы задать вопрос.",
+            "r_c постоянно спрашивает(уют), доверяет ли m_c ему(ей).",
+            "m_c раскрыл(а) небольшую ложь r_c."
         ],
         "reaction_random_cat": {
             "trust": "decrease"
@@ -39,34 +39,34 @@
     {
         "id": "trust_de_med1",
         "interactions": [
-            "m_c knows that r_c just lied!",
-            "r_c gave m_c a gift that doesn't make sense.",
-            "r_c forgot something important about m_c.",
-            "r_c keeps calling m_c by the wrong name.",
-            "r_c sides with a Clanmate instead of m_c on something.",
-            "m_c thinks that r_c spread a rumor about {PRONOUN\/m_c\/object}.",
-            "m_c doesn't think that r_c's intentions are all pure.",
-            "m_c swears {PRONOUN\/m_c\/subject} {VERB\/m_c\/see\/sees} r_c sneaking around the camp at night.",
-            "r_c keeps making excuses about something m_c wants to know.",
-            "m_c can't seem to get a straight answer from r_c lately.",
-            "r_c let m_c down when m_c was counting on {PRONOUN\/r_c\/object}."
+            "m_c знает(ют), что r_c только что солгал(а)!",
+            "r_c подарил(а) m_c бессмысленный подарок.",
+            "r_c забыл(а) что-то важное о m_c.",
+            "r_c постоянно называет m_c неправильным именем.",
+            "r_c поддержал(а) другого соплеменника вместо m_c.",
+            "m_c думает(ат), что r_c распространяет(ят) слухи о нём(ней).",
+            "m_c сомневается(ятся) в чистоте намерений r_c.",
+            "m_c клянётся(ятся), что видел(а) r_c ночью крадущимся(ейся) по лагерю.",
+            "r_c постоянно оправдывается(ятся) вместо ответов.",
+            "m_c не может(гут) получить прямой ответ от r_c.",
+            "r_c подвёл(ла) m_c в ответственный момент."
         ]
     },
     {
         "id": "trust_de_med2",
         "interactions": [
-            "m_c said {PRONOUN\/m_c\/subject}'d cover for r_c, but when it came time, {PRONOUN\/m_c\/subject} got r_c in trouble.",
-            "r_c doesn't want to apologize to m_c for something.",
-            "r_c asks m_c to stop following {PRONOUN\/r_c\/object} around.",
-            "r_c keeps avoiding eye contact with m_c.",
-            "m_c learns that r_c has been misleading {PRONOUN\/m_c\/object} about something trivial.",
-            "r_c does something that badly affects m_c.",
-            "r_c volunteers m_c for something that {PRONOUN\/m_c\/object} didn't want to do...",
-            "m_c and r_c can't seem to agree on the truth about something.",
-            "m_c asks r_c about a lie r_c told, but {PRONOUN\/r_c\/subject} {VERB\/r_c\/dodge\/dodges} the question.",
-            "m_c realizes that r_c's been avoiding {PRONOUN\/m_c\/object}.",
-            "m_c knows that r_c is hiding something.",
-            "m_c was convinced that r_c was lying about something, but r_c wasn't."
+           "m_c обещал(а) прикрыть r_c, но подставил(а) его(её).",
+            "r_c отказывается(ятся) извиняться перед m_c.",
+            "r_c просит(ят) m_c перестать ходить за ним(ней).",
+            "r_c избегает(ят) зрительного контакта с m_c.",
+            "m_c узнаёт(ют), что r_c вводил(а) в заблуждение по пустякам.",
+            "r_c совершил(а) поступок, вредящий m_c.",
+            "r_c вызвался(ась) за m_c без согласия...",
+            "m_c и r_c не могут(гут) договориться об истине.",
+            "r_c уходит(одят) от ответа о своей лжи.",
+            "m_c понимает(ют), что r_c избегает(ит) его(её).",
+            "m_c уверен(а), что r_c что-то скрывает(ат).",
+            "m_c ошибся(ась), обвиняя r_c во лжи."
         ],
         "reaction_random_cat": {
             "trust": "decrease"
@@ -75,11 +75,11 @@
     {
         "id": "trust_de_med3",
         "interactions": [
-            "r_c is gossiping about m_c.",
-            "r_c tries to dig into one of m_c's secrets.",
-            "m_c finds r_c trying to eavesdrop into one of {PRONOUN\/m_c\/poss} conversations.",
-            "m_c wakes up to r_c trying to steal a piece of {PRONOUN\/m_c\/poss} nest.",
-            "m_c is spreading a rumor about r_c."
+            "r_c сплетничает(ют) о m_c.",
+            "r_c пытается(ятся) выведать секреты m_c.",
+            "m_c ловит(ат) r_c за подслушиванием.",
+            "m_c застал(а) r_c за кражей материала из гнезда.",
+            "m_c распространяет(ят) слухи о r_c."
         ],
         "random_trait_constraint": [
             "sneaky",
@@ -90,11 +90,11 @@
     {
         "id": "trust_kit_de_med1",
         "interactions": [
-            "m_c constantly pulling pranks on r_c.",
-            "m_c always shifts the blame to r_c!",
-            "m_c won't stop crying whenever r_c starts winning in a game.",
-            "m_c grins while r_c is being scolded by an older Clanmate.",
-            "m_c is relentlessly pestering r_c."
+            "m_c постоянно подшучивает(ют) над r_c.",
+            "m_c всегда сваливает(ят) вину на r_c!",
+            "m_c плачет(ут), когда r_c начинает(ют) выигрывать.",
+            "m_c ухмыляется(ются), пока r_c ругают старшие.",
+            "m_c неотступно пристаёт(ят) к r_c."
         ],
         "relationship_constraint": [
             "dislike_40"
@@ -111,32 +111,32 @@
         "id": "trust_de_high1",
         "intensity": "high",
         "interactions": [
-            "m_c goes to tell a secret to r_c only for r_c to tell someone else's secret to {PRONOUN\/m_c\/object}.",
-            "r_c doesn't believe m_c when {PRONOUN\/m_c\/subject} {VERB\/m_c\/explain\/explains} that a rumor about {PRONOUN\/m_c\/object} is false.",
-            "m_c learns that r_c has been using {PRONOUN\/m_c\/object} for something.",
-            "m_c doubts whether r_c even likes {PRONOUN\/m_c\/object} at all...",
-            "r_c uses one of m_c's fears against {PRONOUN\/m_c\/object}.",
-            "r_c accidentally hurts m_c during an argument between them.",
-            "m_c thinks r_c is trying to steal one of {PRONOUN\/m_c\/poss} friends!",
-            "m_c turned to r_c in a time of need, only for r_c to abandon {PRONOUN\/m_c\/object}."
+            "m_c доверяет(ят) секрет r_c, а тот(а) взамен выдаёт(ят) чужой.",
+            "r_c не верит(ят) опровержению слухов о m_c.",
+            "m_c узнаёт(ют), что r_c использовал(а) его(её).",
+            "m_c сомневается(ятся), нравится ли r_c ему(ей)...",
+            "r_c использует(ют) страх m_c против него(неё).",
+            "r_c случайно ранит(ят) m_c во время спора.",
+            "m_c думает(ат), что r_c пытается(ятся) переманить его(её) друга!",
+            "r_c бросил(а) m_c в трудную минуту."                                              
         ]
     },
     {
         "id": "trust_de_high2",
         "intensity": "high",
         "interactions": [
-            "m_c tries to scare r_c.",
-            "m_c accuses r_c of being in cahoots with a cat from another Clan.",
-            "m_c publicly accuses r_c of breaking the Warrior Code.",
-            "m_c is blindsided by r_c completely betraying {PRONOUN\/m_c\/object}.",
-            "m_c threatens to blackmail r_c.",
-            "m_c and r_c refuse to trust one another, which nearly leads to one of them getting hurt.",
-            "r_c's prank on m_c almost turned deadly.",
-            "r_c has been pitting a Clanmate against m_c.",
-            "m_c claims to have had a prophetic dream about r_c betraying the Clan.",
-            "m_c and r_c tell everyone embarrassing secrets about each other.",
-            "r_c destroys something dear to m_c.",
-            "r_c blackmails m_c with one of {PRONOUN\/m_c\/poss} secrets."
+            "m_c пытается(ятся) напугать r_c.",
+            "m_c обвиняет(ют) r_c в сговоре с чужим племенем.",
+            "m_c публично обвиняет(ют) r_c в нарушении Кодекса Воителей.",
+            "r_c полностью предаёт(дает) m_c, заставая врасплох.",
+            "m_c угрожает(ят) шантажом r_c.",
+            "Взаимное недоверие едва не приводит к трагедии.",
+            "Шутка r_c над m_c едва не стала смертельной.",
+            "r_c стравливает(ят) соплеменника с m_c.",
+            "m_c заявляет(ят) о вещем сне о предательстве r_c.",
+            "m_c и r_c раскрывают(ят) постыдные тайны друг друга.",
+            "r_c уничтожает(ят) дорогую m_c вещь.",
+            "r_c шантажирует(ют) m_c его(её) секретом."
         ],
         "relationship_constraint": [
             "dislike_40"
@@ -149,13 +149,13 @@
         "id": "trust_for_medcat_de_high1",
         "intensity": "high",
         "interactions": [
-            "m_c can never seem to explain {PRONOUN\/r_c\/poss} health in a way that makes r_c listen...",
-            "m_c feels like r_c is downplaying the severity of m_c's health concerns.",
-            "m_c accuses r_c of not taking care of cats properly.",
-            "m_c doesn't bother to ask r_c for help with a minor injury, worried that {PRONOUN\/r_c\/subject} might make it worse.",
-            "m_c complains that r_c doesn't seem to understand signs from StarClan very well.",
-            "m_c feels worse after r_c gave {PRONOUN\/m_c\/object} the wrong treatment for something minor.",
-            "m_c thinks that r_c gave {PRONOUN\/m_c\/object} the wrong herbs."
+            "m_c не может(гут) объяснить r_c проблемы со здоровьем понятно...",
+            "m_c чувствует(ют), что r_c недооценивает(ют) серьёзность болезни.",
+            "m_c обвиняет(ют) r_c в некачественном лечении.",
+            "m_c не обращается(ятся) к r_c с лёгкой травмой, боясь ухудшения.",
+            "m_c жалуется(ятся), что r_c плохо понимает(ат) знаки Звёздного племени.",
+            "m_c чувствует(ют) себя хуже после лечения у r_c.",
+            "m_c подозревает(ят), что r_c дал(а) не те травы."
         ],
         "random_status_constraint": [
             "medicine cat"
@@ -165,9 +165,9 @@
         "id": "trust_for_medcat_de_high2",
         "intensity": "high",
         "interactions": [
-            "m_c is dissatisfied that r_c can't seem to get rid of {PRONOUN\/m_c\/poss} chronic pain.",
-            "m_c is upset that r_c seems to ignore {PRONOUN\/r_c\/object} more than the other cats.",
-            "m_c thinks that r_c prioritizes other cat's issues instead of m_c's chronic ones."
+            "m_c недоволен(льна) что r_c не может(гут) облегчить хроническую боль.",
+            "m_c обижен(а) что r_c игнорирует(ит) его(её) больше других.",
+            "m_c считает(ют), что r_c уделяет(ят) больше внимания другим."
         ],
         "main_status_constraint": [
             "elder"
@@ -180,11 +180,11 @@
         "id": "trust_for_medcat_de_high3",
         "intensity": "high",
         "interactions": [
-            "m_c accuses r_c of treating cats incorrectly on purpose!",
-            "m_c saw r_c bringing deathberries into the medicine den.",
-            "r_c was rough with m_c during a recent treatment.",
-            "m_c isn't sure why r_c became a medicine cat at all since {PRONOUN\/r_c\/subject} {VERB\/r_c\/seem\/seems} to not like helping any cats.",
-            "m_c wouldn't be surprised if r_c faked signs from StarClan..."
+            "m_c обвиняет(ют) r_c в намеренном неправильном лечении!",
+            "m_c видел(а) как r_c приносит(ят) ягод смерти в целительское место.",
+            "r_c был(а) груб(а) при последнем осмотре m_c.",
+            "m_c не понимает(ют), как r_c стал(а) целителем при таком равнодушии.",
+            "m_c не удивится(ятся), если r_c подделал(а) знак Звёздного племени..."
         ],
         "random_status_constraint": [
             "medicine cat"
@@ -199,11 +199,11 @@
         "id": "trust_for_medcat_de_high4",
         "intensity": "high",
         "interactions": [
-            "m_c is shocked when r_c casually admits forgetting a basic treatment.",
-            "m_c growls frustratingly at r_c when {PRONOUN\/r_c\/subject} {VERB\/r_c\/don't\/doesn't} pay attention to m_c's health concerns... again.",
-            "m_c looks for r_c for treatment on a minor wound, only to find {PRONOUN\/r_c\/object} playing with catmint!",
-            "m_c hopes to never have a serious illness with r_c in charge of treatments...",
-            "m_c complains that r_c never takes {PRONOUN\/r_c\/poss} role of medicine cat seriously."
+            "m_c шокирован(а) признанием r_c в забывчивости лечения.",
+            "m_c рычит(ат) на r_c за игнорирование жалоб... снова.",
+            "m_c ищет(ит) r_c для лечения, а тот(а) играет(ют) с кошачьей мятой!",
+            "m_c боится(ятся) серьёзно заболеть при r_c.",
+            "m_c жалуется(ятся) что r_c несерьёзно относится(ятся) к обязанностям."
         ],
         "random_status_constraint": [
             "medicine cat"
@@ -217,11 +217,11 @@
         "id": "trust_for_leader_de_high1",
         "intensity": "high",
         "interactions": [
-            "m_c cowers away from r_c after r_c barks an order at {PRONOUN\/m_c\/object}.",
-            "After hearing r_c's most recent demands, m_c is concerned about the future of the Clan.",
-            "m_c doesn't believe that r_c has the Clan's best interests in mind.",
-            "m_c doesn't understand how StarClan could grant a cat as cold and uncaring as r_c nine lives.",
-            "When it comes down to it, m_c doesn't think {PRONOUN\/m_c\/subject} could follow r_c's every order."
+            "m_c съёживается(ятся) после резкого приказа r_c.",
+            "m_c беспокоится(ятся) о будущем Племени после приказов r_c.",
+            "m_c не верит(ят) что r_c действует в интересах Племени.",
+            "m_c не понимает(ют) как Звёздное племя дало r_c девять жизней.",
+            "m_c сомневается(ятся) что сможет(гут) выполнять все приказы r_c."
         ],
         "random_status_constraint": [
             "leader"

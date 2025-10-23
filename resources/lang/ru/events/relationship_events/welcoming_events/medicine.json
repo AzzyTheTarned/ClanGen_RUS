@@ -2,8 +2,8 @@
     {
         "id": "med1",
         "interactions": [
-            "m_c offers r_c herbs lessons, to prevent {PRONOUN\/r_c\/object} from eating deathberries inadvertently",
-            "m_c introduces {PRONOUN\/m_c\/self} as c_n's medicine cat and asks r_c to warn {PRONOUN\/m_c\/object} at any sign of sickness."
+            "m_c предлагает(ят) r_c уроки о травах, чтобы {PRONOUN\/r_c\/subject} не съел(а) по ошибке ягоды смерти.",
+            "m_c представляется(ятся) целителем племени c_n и просит(ят) r_c предупреждать {PRONOUN\/m_c\/object} при любых признаках болезни."
         ]
     }
 ]

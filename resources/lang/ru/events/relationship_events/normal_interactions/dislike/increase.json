@@ -3,34 +3,34 @@
         "id": "dislike_inc_low1",
         "intensity": "low",
         "interactions": [
-            "r_c bumped into m_c and didn't even apologize!",
-            "r_c stepped on m_c's paw and pretended not to notice.",
-            "m_c is grossed out by something r_c did.",
-            "m_c doesn't like the way r_c interacts with a Clanmate.",
-            "r_c says something in passing that m_c keeps getting worked up about.",
-            "m_c tried to explain something to r_c, but {PRONOUN\/r_c\/subject} just didn't understand.",
-            "r_c hit m_c on the face with {PRONOUN\/r_c\/poss} tail while passing by.",
-            "m_c doesn't think the object that r_c asked {PRONOUN\/m_c\/object} to find is real.",
-            "m_c got tricked into doing one of r_c's chores.",
-            "When m_c approached r_c, {PRONOUN\/r_c\/subject} made a weird face.",
-            "Something good happens to m_c and most Clanmates congratulate {PRONOUN\/m_c\/object}, but r_c doesn't say anything at all."
+            "r_c столкнулся(лась) с m_c и даже не извинился(лась)!",  
+            "r_c наступил(а) на лапу m_c и сделал(а) вид, что не заметил(а).",  
+            "m_c испытывает отвращение к поступку r_c.",  
+            "m_c не нравится, как r_c обращается с соплеменником.",  
+            "r_c бросает мимоходом фразу, которая продолжает задевать m_c.",  
+            "m_c пытался(лась) объяснить что-то r_c, но {PRONOUN/r_c/subject} просто не понял(а).",  
+            "r_c ударил(а) m_c по морде своим хвостом, проходя мимо.",  
+            "m_c сомневается, что предмет, который r_c просил(а) {PRONOUN/m_c/object} найти, вообще существует.",  
+            "m_c обманом заставили выполнить работу r_c.",  
+            "Когда m_c подошёл(шла) к r_c, {PRONOUN/r_c/subject} скорчил(а) странную гримасу.",  
+            "С m_c происходит что-то хорошее, большинство соплеменников поздравляют {PRONOUN/m_c/object}, но r_c вообще ничего не говорит."  
         ]
     },
     {
         "id": "dislike_inc_low2",
         "intensity": "low",
         "interactions": [
-            "m_c had a disagreement with r_c about something or other.",
-            "m_c and r_c argued about something trivial and neither of them apologized.",
-            "m_c said something really rude to r_c.",
-            "m_c and r_c are arguing about who should take the blame for something trivial.",
-            "m_c didn't tell r_c about the feather stuck to {PRONOUN\/r_c\/poss} face, so r_c spent the whole day looking silly.",
-            "When m_c tells r_c about a goal {PRONOUN\/m_c\/subject} {VERB\/m_c\/have\/has}, r_c snickers at it.",
-            "r_c and m_c have a misunderstanding that makes them grumpy for the rest of the day.",
-            "r_c takes the sunny spot that m_c was about to lay in.",
-            "m_c and r_c splash each other in a puddle, but it doesn't look playful...",
-            "m_c's feelings are hurt by something r_c said, but r_c's apology is half-hearted.",
-            "m_c loses in a race against r_c and acts bitterly about it."
+            "m_c поссорился(лась) с r_c из-за какой-то мелочи.",  
+            "m_c и r_c поспорили о ерунде, и никто не извинился.",  
+            "m_c сказал(а) r_c нечто крайне грубое.",  
+            "m_c и r_c спорят, кто должен взять вину за пустяк.",  
+            "m_c не сказал(а) r_c о перышке, прилипшем к {PRONOUN/r_c/poss} морде, и r_c весь день выглядел(а) глупо.",  
+            "Когда m_c рассказывает r_c о цели, которую {PRONOUN/m_c/subject} есть, r_c усмехается.",  
+            "Между r_c и m_c возникает недопонимание, портящее им день.",  
+            "r_c занимает солнечное место, куда собирался(лась) лечь m_c.",  
+            "m_c и r_c брызгают водой друг на друга из лужи, но это выглядит не как игра...",  
+            "Слова r_c задели m_c, но извинение {PRONOUN/r_c/poss} звучит неискренне.",  
+            "m_c проигрывает гонку r_c и ведёт себя озлобленно."
         ],
         "reaction_random_cat": {
             "dislike": "increase"
@@ -39,32 +39,32 @@
     {
         "id": "dislike_inc_med1",
         "intensity": [
-            "m_c wishes r_c would take things more seriously.",
-            "m_c thinks r_c is acting childish lately.",
-            "m_c keeps complaining about something r_c did.",
-            "m_c considers spreading a rumor about r_c.",
-            "m_c doesn't like r_c's sense of humor.",
-            "m_c stiffens up a little whenever someone mentions r_c.",
-            "m_c is tired of interacting with r_c lately.",
-            "After sharing tongues, m_c washed off r_c's scent from {PRONOUN\/m_c\/poss} pelt.",
-            "A Clanmate notices m_c mocking r_c behind {PRONOUN\/r_c\/poss} back.",
-            "When m_c needs someone to do {PRONOUN\/m_c\/object} a favor, {PRONOUN\/m_c\/subject} never {VERB\/m_c\/ask\/asks} r_c first."
+            "m_c желает, чтобы r_c относился(лась) к вещам серьёзнее.",  
+            "m_c считает, что r_c в последнее время ведёт себя по-детски.",  
+            "m_c постоянно жалуется на поступок r_c.",  
+            "m_c раздумывает, что бы распустить слух о r_c.",  
+            "m_c не нравится чувство юмора r_c.",  
+            "m_c напрягается, когда кто-то упоминает r_c.",  
+            "m_c устал(а) от общения с r_c в последнее время.",  
+            "После взаимного ухода m_c смыл(а) запах r_c со своей шерсти.",  
+            "Соплеменник замечает, как m_c передразнивает r_c за {PRONOUN/r_c/poss} спиной.",  
+            "Когда m_c нужна помощь, {PRONOUN/m_c/subject} никогда не просит(ят) r_c в первую очередь."  
         ]
     },
     {
         "id": "dislike_inc_med2",
         "interactions": [
-            "m_c ignores r_c.",
-            "m_c had a huge argument with r_c.",
-            "m_c had a spat with r_c over a piece of prey on the fresh-kill pile.",
-            "m_c and r_c make fun of one another, but it sounds more like insults than playful banter.",
-            "The Clan notices that m_c and r_c always sit far away from one another.",
-            "m_c didn't warn r_c about a rock on the ground, which caused r_c to trip.",
-            "m_c claimed to give r_c a piece of crowfood on accident.",
-            "m_c spent the day arguing with r_c about whether {PRONOUN\/r_c\/subject} stole something from m_c.",
-            "m_c scoffed loudly at one of r_c's suggestions.",
-            "r_c keeps yawning during m_c's story.",
-            "r_c flicked some sand over m_c's fresh-kill while {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} eating."
+            "m_c игнорирует r_c.",  
+            "m_c устроил(а) грандиозный спор с r_c.",  
+            "m_c поссорился(лась) с r_c из-за добычи из кучи свежатины.",  
+            "m_c и r_c высмеивают друг друга, но это звучит скорее как оскорбления, чем игривые подколы.",  
+            "Племя замечает, что m_c и r_c всегда сидят далеко друг от друга.",  
+            "m_c не предупредил(а) r_c о камне на земле, из-за чего r_c споткнулся(лась).",  
+            "m_c утверждал(а), что случайно дал(а) r_c тухлую добычу.",  
+            "m_c провёл(а) день в спорах с r_c о том, украл(а) ли {PRONOUN/r_c/subject} что-то у m_c.",  
+            "m_c громко фыркнул(а) на предложение r_c.",  
+            "r_c постоянно зевает во время рассказа m_c.",  
+            "r_c испортил(а) песком свежую добычу m_c, пока {PRONOUN/m_c/subject} ел(ла,ли)."  
         ],
         "reaction_random_cat": {
             "dislike": "increase"
@@ -73,15 +73,15 @@
     {
         "id": "dislike_inc_med3",
         "interactions": [
-            "m_c had a disagreement with r_c while on patrol earlier.",
-            "m_c stole r_c's catch right out from under {PRONOUN\/r_c\/poss} claws.",
-            "m_c prays that {PRONOUN\/m_c\/subject} {VERB\/m_c\/aren't\/isn't} on patrol with r_c tomorrow.",
-            "m_c sighs loudly every time r_c does anything on patrol.",
-            "While on a patrol, m_c secretly pulled back a branch and made it whop r_c in the face.",
-            "m_c laughed at r_c for making a mistake on a patrol.",
-            "m_c ignored r_c's advice on a patrol and nearly got hurt because of it.",
-            "m_c and r_c couldn't agree which way to go on a patrol and got home late.",
-            "m_c claimed to catch the prey that r_c caught on their patrol."
+            "Ранее на патруле у m_c вышел спор с r_c.",
+            "m_c выхватил добычу r_c прямо из-под когтей {PRONOUN\/r_c\/poss}.",
+            "m_c молится, чтобы {PRONOUN\/m_c\/subject} был(ла,ли) завтра на патруле вместе с r_c.",
+            "m_c громко вздыхает каждый раз, когда r_c что-то делает на патруле.",
+            "Во время патруля m_c незаметно оттянул(ла,ли) ветку и отпустил(ла,ли) её так, что она шлёпнула r_c по морде.",
+            "m_c рассмеялся над r_c из-за ошибки на патруле.",
+            "m_c проигнорировал совет r_c на патруле и почти пострадал из-за этого.",
+            "m_c и r_c не смогли договориться о маршруте патруля и вернулись в лагерь поздно.",
+            "m_c присвоил(ла,ли) добычу, которую r_c поймал(ла,ли) во время их патруля."
         ],
         "main_status_constraint": [
             "apprentice",
@@ -102,13 +102,13 @@
     {
         "id": "dislike_inc_med4",
         "interactions": [
-            "m_c is thinking about how r_c wronged {PRONOUN\/m_c\/object}.",
-            "m_c is watching r_c scornfully.",
-            "m_c daydreams about getting back at r_c for wronging {PRONOUN\/m_c\/object}.",
-            "m_c smiles when r_c gets hurt.",
-            "m_c likes it when r_c is scolded for something.",
-            "The Clan notices that m_c's claws unsheath when r_c is nearby.",
-            "m_c is glaring daggers at r_c."
+            "m_c думает о том, как r_c обидел {PRONOUN\/m_c\/object}.",
+            "m_c смотрит на r_c с презрением.",
+            "m_c мечтает отомстить r_c за причинённую обиду.",
+            "m_c улыбается, когда r_c получает травму.",
+            "m_c радуется, когда r_c получает выговор.",
+            "Соплеменники замечают, что у m_c выпускаются когти, когда рядом r_c.",
+            "m_c смотрит на r_c со смертельной ненавистью."
         ],
         "main_trait_constraint": [
             "vengeful",
@@ -118,12 +118,12 @@
     {
         "id": "dislike_inc_med5",
         "interactions": [
-            "r_c is asking m_c to tell {PRONOUN\/r_c\/object} about how good {PRONOUN\/r_c\/subject} {VERB\/m_c\/look\/looks}.",
-            "r_c offends m_c with {PRONOUN\/r_c\/poss} brutal honesty.",
-            "m_c is irritated by r_c's constant bragging.",
-            "r_c gets really close to m_c's face while talking and grosses m_c out with {PRONOUN\/r_c\/poss} bad breath.",
-            "m_c tells r_c to quiet down, but r_c doesn't listen.",
-            "r_c is boasting about {PRONOUN\/r_c\/poss} accomplishments to m_c, but m_c isn't impressed."
+            "r_c просит m_c рассказать о том, как прекрасно {PRONOUN\/r_c\/subject} выглядит(ят).",
+            "r_c оскорбляет m_c {PRONOUN\/r_c\/poss} жестокой честностью.",
+            "m_c раздражён(на,ны) постоянным хвастовством r_c.",
+            "r_c слишком близко подходит к морде m_c при разговоре, и отвратительный запах изо {PRONOUN\/r_c\/poss} рта вызывает у m_c отторжение.",
+            "m_c просит r_c успокоиться, но {PRONOUN\/r_c\/subject} не слушает.",
+            "r_c хвастается своими достижениями перед m_c, но {PRONOUN\/m_c\/poss} это не впечатляет."
         ],
         "random_trait_constraint": [
             "shameless",
@@ -133,13 +133,13 @@
     {
         "id": "dislike_inc_med6",
         "interactions": [
-            "r_c pulled a prank on m_c.",
-            "r_c blamed m_c for {PRONOUN\/r_c\/poss} own mistake.",
-            "m_c is tired of all the pranks r_c pulls on {PRONOUN\/m_c\/object}.",
-            "m_c notices that things always go wrong when r_c is around.",
-            "m_c starts to always blame r_c if something bad happens.",
-            "m_c thinks r_c is bad luck.",
-            "r_c won't stop bothering m_c."
+            "r_c разыграл m_c.",
+            "r_c обвинил m_c в своей собственной ошибке.",
+            "m_c устал от всех шуток, которые r_c разыгрывает над {PRONOUN\/m_c\/object}.",
+            "m_c замечает, что всё идёт наперекосяк, когда рядом r_c.",
+            "m_c начинает всегда винить r_c, если происходит что-то плохое.",
+            "m_c считает, что r_c приносит неудачу.",
+            "r_c не перестаёт донимать m_c."
         ],
         "random_trait_constraint": [
             "troublesome"
@@ -151,27 +151,27 @@
             "dislike_40"
         ],
         "interactions": [
-            "r_c is spreading a rumor about m_c.",
-            "r_c is mocking m_c.",
-            "r_c is bragging about being better than m_c.",
-            "r_c is belittling m_c's accomplishments.",
-            "r_c is always talking about how much {PRONOUN\/r_c\/subject} {VERB\/r_c\/dislike\/dislikes} m_c.",
-            "r_c's friends are tired of hearing about all of the things {PRONOUN\/r_c\/subject} {VERB\/r_c\/hate\/hates} about m_c.",
-            "The Clan is starting to get nervous about how much m_c and r_c dislike one another.",
-            "m_c and r_c argue and fight like it's in their blood to do so.",
-            "The Clan worries about whether r_c would help m_c if something went wrong.",
-            "r_c is telling others about how terrible m_c can really be.",
-            "r_c leaves as soon as m_c arrives and refuses to be nearby."
+            "r_c распространяет слухи о m_c.",
+            "r_c насмехается над m_c.",
+            "r_c хвастается, что {PRONOUN\/r_c\/subject} лучше, чем m_c.",
+            "r_c принижает достижения m_c.",
+            "r_c постоянно говорит о том, как сильно {PRONOUN\/r_c\/subject} не любит(ят) m_c.",
+            "Друзья r_c устали слушать о том, что {PRONOUN\/r_c\/subject} {VERB\/r_c\/ненавижу\/ненавидит} в m_c.",
+            "Племя начинает беспокоиться о том, насколько сильно m_c и r_c ненавидят друг друга.",
+            "m_c и r_c ссорятся и дерутся, будто это у них в крови.",
+            "Племя волнуется, поможет ли r_c m_c, если что-то пойдёт не так.",
+            "r_c рассказывает другим, насколько ужасным может быть m_c на самом деле.",
+            "r_c уходит, как только появляется m_c, и отказывается находиться рядом."
         ]
     },
     {
         "id": "dislike_kit_inc_med1",
         "interactions": [
-            "m_c trips over r_c.",
-            "m_c had to nip r_c on the rump because {PRONOUN\/r_c\/subject} {VERB\/r_c\/were\/was} being naughty.",
-            "m_c growls at r_c to get out from under {PRONOUN\/m_c\/poss} paws.",
-            "m_c snaps at r_c's annoying antics.",
-            "m_c tells someone to get r_c away from {PRONOUN\/m_c\/object}."
+            "m_c спотыкается о r_c.",  
+            "m_c пришлось укусить r_c за зад, потому что {PRONOUN/r_c/subject} шалил(ла,ли).",  
+            "m_c рычит на r_c, чтобы {PRONOUN/r_c/subject} убрался(лась,лись) с {PRONOUN/m_c/poss} пути.",  
+            "m_c огрызается на надоедливые проделки r_c.",  
+            "m_c требует увести r_c от {PRONOUN/m_c/object}."  
         ],
         "main_status_constraint": [
             "elder",
@@ -194,12 +194,12 @@
     {
         "id": "dislike_dep_leader_inc_med1",
         "interactions": [
-            "m_c punishes r_c with extra work.",
-            "m_c divides r_c into extra patrols.",
-            "m_c gives r_c a particularly hard task, expecting {PRONOUN\/r_c\/object} to fail.",
-            "m_c always tries to avoid making r_c the leader of a patrol.",
-            "m_c scolds r_c like a kit for something trivial.",
-            "m_c says r_c sets a bad example of a warrior."
+            "m_c наказывает r_c дополнительной работой.",  
+            "m_c назначает r_c на дополнительные патрули.",  
+            "m_c даёт r_c особенно сложное задание, ожидая, что {PRONOUN/r_c/object} провалится(ляться).",  
+            "m_c всегда избегает(ют) назначение r_c лидером патруля.",  
+            "m_c отчитывает(ют) r_c как котёнка из-за пустяка.",  
+            "m_c заявляет(ют), что r_c подаёт(ют) плохой пример воина." 
         ],
         "main_status_constraint": [
             "deputy",
@@ -215,13 +215,13 @@
     {
         "id": "dislike_dep_leader_inc_med2",
         "interactions": [
-            "m_c punishes r_c with extra work.",
-            "m_c divides r_c into extra patrols.",
-            "m_c gives r_c a particularly hard task, expecting {PRONOUN\/r_c\/object} to fail.",
-            "m_c threatens r_c with never passing {PRONOUN\/r_c\/poss} assessment!",
-            "m_c tells other cats that r_c is not doing well in {PRONOUN\/r_c\/poss} training.",
-            "m_c scolds r_c like a kit for something trivial.",
-            "m_c says r_c sets a bad example of a warrior."
+            "m_c наказывает r_c дополнительной работой.",  
+            "m_c назначает r_c на дополнительные патрули.",  
+            "m_c даёт r_c особенно сложное задание, ожидая, что {PRONOUN/r_c/object} провалится.",  
+            "m_c угрожает r_c, что {PRONOUN/r_c/subject} никогда не пройдёт испытания!",  
+            "m_c рассказывает другим котам, что у r_c плохие успехи в обучении.",  
+            "m_c отчитывает r_c как котёнка из-за пустяка.",  
+            "m_c заявляет, что r_c подаёт плохой пример воина."  
         ],
         "main_status_constraint": [
             "deputy",
@@ -237,13 +237,13 @@
     {
         "id": "dislike_med_inc_med1",
         "interactions": [
-            "m_c gives r_c bitter herbs on purpose.",
-            "m_c snaps at r_c for seeking treatment for something trivial and wasting {PRONOUN\/m_c\/poss} time.",
-            "m_c always tends to r_c last.",
-            "m_c doesn't warn r_c before applying a stinging poultice.",
-            "When r_c comes to m_c with pain, m_c tells {PRONOUN\/r_c\/object} to suck it up.",
-            "When r_c asks m_c for advice about a prophetic dream, m_c laughs {PRONOUN\/r_c\/object} away.",
-            "m_c claims to accidentally have given r_c the wrong herb."
+            "m_c намеренно даёт(ют) r_c горькие травы.",  
+            "m_c огрызается(ются) на r_c за обращение по пустякам, называя это тратой {PRONOUN/m_c/poss} времени.",  
+            "m_c всегда лечет(ют) r_c последним(ей).",  
+            "m_c не предупреждает(ют) r_c о жгучей мази перед нанесением.",  
+            "Когда r_c приходит(ют) к m_c с болью, {PRONOUN/m_c/subject} велит(ят) {PRONOUN/r_c/object} терпеть.",  
+            "Когда r_c спрашивает(ют) m_c о пророческом сне, {PRONOUN/m_c/subject} смеётся(ются) и прогоняет(ют) {PRONOUN/r_c/object}.",  
+            "m_c утверждает(ют), что случайно дал(а,и) r_c не те травы."  
         ],
         "main_status_constraint": [
             "medicine cat apprentice",
@@ -257,33 +257,33 @@
         "id": "dislike_inc_high1",
         "intensity": "high",
         "interactions": [
-            "m_c thinks r_c is annoying.",
-            "m_c can't stand being around r_c.",
-            "m_c daydreams about r_c being exiled.",
-            "m_c thinks about telling others that r_c broke the code.",
-            "m_c finds fault in everything r_c does.",
-            "m_c always assumes the worst of r_c.",
-            "A Clanmate claims that m_c wants r_c dead.",
-            "The Clan is very uncomfortable whenever m_c talks about r_c.",
-            "m_c makes all kinds of faces whenever r_c is brought up in conversation.",
-            "m_c sighs at the mere mention of r_c."
+            "m_c считает(ют), что r_c надоедлив(ый,ая).", 
+            "m_c не выносит(ят) общества r_c.",
+            "m_c мечтает(ют) о том, чтобы r_c изгнали.",
+            "m_c размышляет(ют), не рассказать ли другим, что r_c нарушил(а,и) Кодекс.",  
+            "m_c видит(ят) только недостатки во всем, что делает r_c.",
+            "m_c всегда ожидает(ют) от r_c самого худшего.",
+            "Один из соплеменников утверждает, что m_c хочет смерти r_c.", 
+            "Соплеменникам становится очень неловко, когда m_c говорит о r_c.",
+            "m_c строит(ят) самые разные рожи, когда речь заходит о r_c.",
+            "m_c вздыхает(ют) при одном упоминании r_c."
         ]
     },
     {
         "id": "dislike_inc_high2",
         "intensity": "high",
         "interactions": [
-            "m_c had a fight with r_c.",
-            "m_c had a heated argument with r_c and said some very hurtful things.",
-            "m_c and r_c nearly got in a bloody fight if it weren't for the intervention of a Clanmate.",
-            "m_c and r_c are always backtalking to each other.",
-            "m_c and r_c snarl at one another over something trivial.",
-            "r_c told all of m_c's friends something embarrassing about {PRONOUN\/m_c\/object}.",
-            "m_c accuses r_c of lying about something important.",
-            "The Clan can't believe the things m_c and r_c say to one another.",
-            "m_c insults one of r_c's insecurities.",
-            "m_c made an extremely hurtful remark about one of r_c's friends just to spite r_c.",
-            "m_c argues with r_c in front of other cats and reveals something embarrassing."
+            "m_c подрался(лась,лись) с r_c.",
+            "m_c поссорился(лась,лись) с r_c и сказал(и) несколько очень обидных вещей.",
+            "m_c и r_c чуть не вступили в кровавую схватку, если бы не вмешался(ась) один из соплеменников.",
+            "m_c и r_c постоянно огрызаются друг на друга.",
+            "m_c и r_c рычат друг на друга из-за пустяка.",
+            "r_c рассказал(а,и) всем друзьям m_c что-то постыдное о {PRONOUN\/m_c\/object}.",
+            "m_c обвиняет(ют) r_c во лжи о чем-то важном.",
+            "Клан не может поверить в то, что m_c и r_c говорят друг другу.",
+            "m_c оскорбляет(ют) слабое место r_c.",
+            "m_c сделал(а,и) крайне обидное замечание об одном из друзей r_c, просто чтобы досадить {PRONOUN\/r_c\/object}.",
+            "m_c спорит(ят) с r_c на глазах у других котов и разболтал(а,и) что-то постыдное."
         ],
         "reaction_random_cat": {
             "dislike": "increase"
@@ -296,34 +296,34 @@
             "dislike_50"
         ],
         "interactions": [
-            "m_c shudders at the sound of r_c's voice.",
-            "m_c will do anything to avoid being anywhere near r_c.",
-            "m_c hopes that r_c leaves camp and doesn't come back some day.",
-            "m_c considers leaving r_c for dead if something ever happened to {PRONOUN\/r_c\/object}.",
-            "m_c doesn't believe r_c is capable of doing anything good.",
-            "m_c thinks the Clan would be better without r_c in it.",
-            "m_c remembers only bad things about r_c.",
-            "m_c tells r_c's friends awful things about r_c.",
-            "m_c dreams about r_c disappearing and wakes up disappointed that it wasn't real.",
-            "m_c dreams about employing a rogue to scar r_c... or worse.",
-            "m_c doesn't believe r_c is capable of good.",
-            "m_c refuses to do any work with r_c."
+            "m_c вздрагивает(ют) при звуке голоса r_c.",
+            "m_c сделает(ют) всё, чтобы избежать близости к r_c.",
+            "m_c надеется(ются), что r_c однажды покинет(ет) лагерь и не вернётся(утся).",
+            "m_c подумывает(ют) оставить r_c умирать, если что-то случится с {PRONOUN\/r_c\/object}.",
+            "m_c не верит(ят), что r_c способен(на) на что-то хорошее.",
+            "m_c считает(ют), что Племени было бы лучше без r_c.",
+            "m_c помнит(ят) о r_c только плохое.",
+            "m_c рассказывает(ют) друзьям r_c ужасные вещи о r_c.",
+            "m_c мечтает(ют) о том, чтобы r_c исчез(ла), и просыпается(ются) разочарованным(и), что это не сбылось.",
+            "m_c мечтает(ют) нанять кота-одиночку, чтобы изувечить r_c... или того хуже.",
+            "m_c не верит(ят), что r_c способен(на) на добро.",
+            "m_c отказывается(ются) выполнять какую-либо работу с r_c."
         ]
     },
     {
         "id": "dislike_inc_high4",
         "intensity": "high",
         "interactions": [
-            "m_c accuses r_c of being a bad leader.",
-            "m_c accuses r_c of not taking care of the Clan.",
-            "m_c thinks the Clan would be better if it wasn't under r_c's leadership.",
-            "m_c wants to start an uprising against r_c.",
-            "m_c doesn't think r_c deserves {PRONOUN\/r_c\/poss} nine lives.",
-            "m_c tells {PRONOUN\/m_c\/poss} Clanmates that r_c should be overthrown.",
-            "m_c accuses r_c of being a mouthpiece of the Dark Forest.",
-            "m_c says r_c makes a mockery of past leaders' legacies.",
-            "m_c heckles r_c during meetings.",
-            "m_c accuses r_c of not putting the Clan first."
+            "m_c обвиняет(ют) r_c в том, что {PRONOUN\/r_c\/subject} плохой(ая) предводитель.",
+            "m_c обвиняет(ют) r_c в том, что {PRONOUN\/r_c\/subject} не заботится о Племени.",
+            "m_c считает(ют), что Племени было бы лучше не под руководством r_c.",
+            "m_c хочет(ят) поднять восстание против r_c.",
+            "m_c не считает(ют), что r_c заслужил(а) своих девять жизней.",
+            "m_c говорит(ят) своим соплеменникам, что r_c следует свергнуть.",
+            "m_c обвиняет(ют) r_c в том, что {PRONOUN\/r_c\/subject} пособник(ца) Сумрочного Леса.",
+            "m_c заявляет(ят), что r_c позорит(ит) наследие прежних предводителей.",
+            "m_c освистывает(ют) r_c во время собраний.",
+            "m_c обвиняет(ют) r_c в том, что {PRONOUN\/r_c\/subject} не ставит Племя на первое место."
         ],
         "relationship_constraint": [
             "dislike_50"
@@ -336,9 +336,9 @@
         "id": "dislike_inc_high5",
         "intensity": "high",
         "interactions": [
-            "m_c accuses r_c of being a bad deputy.",
-            "m_c scoffs at r_c's instructions.",
-            "m_c says that r_c is such a bad deputy {PRONOUN\/r_c\/subject} should step down."
+            "m_c обвиняет(ют) r_c в том, что {PRONOUN\/r_c\/subject} плохой(ая) глашатай.",
+            "m_c насмехается(ются) над указаниями r_c.",
+            "m_c говорит(ят), что r_c настолько плохой(ая) глашатай, что {PRONOUN\/r_c\/subject} должен(на) уйти в отставку."
         ],
         "relationship_constraint": [
             "dislike_50"
@@ -354,14 +354,14 @@
         "id": "dislike_inc_high6",
         "intensity": "high",
         "interactions": [
-            "m_c is scolding r_c.",
-            "m_c is bossing r_c around.",
-            "m_c calls r_c a threat to the safety of the Clan.",
-            "m_c and r_c are arguing about something important and risking the Clan's safety.",
-            "m_c threatens r_c with exile.",
-            "m_c makes r_c do a tiring chore for the rest of the moon as punishment for something minor.",
-            "m_c threatens to give r_c a terrible name.",
-            "m_c claims {PRONOUN\/m_c\/subject} spoke with StarClan and heard bad things about r_c."
+            "m_c отчитывает(ют) r_c.",
+            "m_c помыкает(ют) r_c.",
+            "m_c называет(ют) r_c угрозой для безопасности Племени.",
+            "m_c и r_c спорят о чем-то важном и рискуют(ют) безопасностью Племени.",
+            "m_c угрожает(ют) r_c изгнанием.",
+            "m_c заставляет(ят) r_c выполнять утомительную работу до конца луны в наказание за пустяк.",
+            "m_c угрожает(ют) дать r_c позорное имя.",
+            "m_c утверждает(ют), что {PRONOUN\/m_c\/subject} говорил(а) с Звездным племенем и слышал(а) плохое о r_c."
         ],
         "main_status_constraint": [
             "medicine cat",
@@ -379,10 +379,10 @@
         "id": "dislike_inc_high7",
         "intensity": "high",
         "interactions": [
-            "m_c thinks {PRONOUN\/m_c\/subject} should be deputy instead of r_c.",
-            "m_c is tired from r_c putting {PRONOUN\/m_c\/object} on so many patrols.",
-            "m_c rolls {PRONOUN\/m_c\/poss} eyes whenever r_c assigns patrols.",
-            "m_c tries to convince other cats that r_c should step down from being deputy."
+            "m_c считает(ют), что {PRONOUN\/m_c\/subject} должен(на) быть глашатаем вместо r_c.",
+            "m_c устал(а,и) от того, что r_c постоянно ставит(ят) к {PRONOUN\/m_c\/object} в патрули.",
+            "m_c закатывает(ют) свои глаза каждый раз, когда r_c назначает(ют) патрули.",
+            "m_c пытается(ются) убедить других котов, что r_c должен(на) уйти с поста глашатая."
         ],
         "relationship_constraint": [
             "dislike_40"
@@ -401,10 +401,10 @@
     {
         "id": "dislike_kit_de_med1",
         "interactions": [
-            "m_c sticks {PRONOUN\/m_c\/poss} tongue out at r_c.",
-            "m_c makes stinky faces at r_c for seemingly no reason.",
-            "m_c calls r_c a stinky dirt-face.",
-            "m_c and r_c play hide and seek, but r_c supposedly forgets to look for m_c for hours."
+            "m_c показывает(ют) язык r_c.",
+            "m_c корчит(ят) рожицы r_c без видимой причины.",
+            "m_c называет(ют) r_c вонючей грязной мордой.",
+            "m_c и r_c играют(ют) в прятки, но r_c якобы забывает(ют) искать m_c часами."
         ],
         "main_status_constraint": [
             "kitten"
@@ -416,12 +416,12 @@
     {
         "id": "dislike_kit_de_med2",
         "interactions": [
-            "m_c tried to have a friendly discussion with r_c about what prey tastes best, but it turned into an argument.",
-            "m_c and r_c always end up arguing over what games to play.",
-            "m_c tells an older Clanmate that r_c did something bad.",
-            "m_c snitches on r_c to an older Clanmate.",
-            "m_c cries that r_c hurt {PRONOUN\/m_c\/object}, but is lying.",
-            "m_c is not playing fairly with r_c!"
+            "m_c попытался(ась,ись) провести дружескую беседу с r_c о том, какая добыча вкуснее, но это превратилось в спор.",
+            "m_c и r_c всегда заканчивают(ют) спором из-за выбора игр.",
+            "m_c рассказывает(ют) старшему соплеменнику, что r_c совершил(а) что-то плохое.",
+            "m_c ябедничает(ют) на r_c старшему соплеменнику.",
+            "m_c плачет(ут), что r_c обидел(а) {PRONOUN\/m_c\/object}, но это ложь.",
+            "m_c играет(ют) с r_c нечестно!"
         ],
         "main_status_constraint": [
             "kitten"
@@ -436,8 +436,8 @@
     {
         "id": "dislike_kit_inc_med3",
         "interactions": [
-            "m_c whines that r_c won't play with {PRONOUN\/m_c\/object}, even though {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} always around camp.",
-            "m_c doesn't understand why r_c won't let {PRONOUN\/m_c\/object} play in the medicine cat den."
+            "m_c ноет(ют), что r_c не хочет(ят) играть с {PRONOUN\/m_c\/object}, хотя {PRONOUN\/r_c\/subject} всегда находится(ятся) в лагере.",
+            "m_c не понимает(ют), почему r_c не позволяет(ют) {PRONOUN\/m_c\/object} играть в целительском месте."
         ],
         "main_status_constraint": [
             "kitten"

@@ -3,32 +3,32 @@
         "id": "platonic_de_low1",
         "intensity": "low",
         "interactions": [
-            "m_c thinks r_c isn't very considerate of others.",
-            "m_c gets a little irritated seeing r_c ignore a mess in camp.",
-            "r_c accidentally gave m_c a piece of fresh-kill {PRONOUN\/m_c\/subject} didn't like.",
-            "r_c doesn't seem very concerned when m_c complains about something aching.",
-            "m_c feels like r_c wasn't listening to {PRONOUN\/m_c\/object}.",
-            "r_c didn't put a lot of thought into an answer for m_c's question.",
-            "m_c doesn't see why r_c is upset about something trivial.",
-            "r_c yawns while m_c is trying to tell {PRONOUN\/r_c\/object} something.",
-            "m_c asks for the last of r_c's fresh-kill, but r_c says no.",
-            "r_c won't help m_c fix {PRONOUN\/m_c\/poss} nest."
+            "m_c считает(ют), что r_c не слишком внимателен(а,ы) к другим.",
+            "m_c раздражается(ются), видя как r_c игнорирует беспорядок в лагере.",
+            "r_c случайно дал(а) m_c кусок свежей добычи, который {PRONOUN\/m_c\/subject} не понравился(ись).",
+            "r_c не проявляет(ют) беспокойства, когда m_c жалуется(ются) на боль.",
+            "m_c чувствует(ют), что r_c не слушал(а) {PRONOUN\/m_c\/object}.",
+            "r_c не вложил(а) много мысли в ответ на вопрос m_c.",
+            "m_c не понимает(ют), почему r_c расстроен(а) из-за пустяка.",
+            "r_c зевает(ют), пока m_c пытается(ются) рассказать {PRONOUN\/r_c\/object} что-то важное.",
+            "m_c просит(ят) последний кусок свежей добычи r_c, но r_c отказывает(ят).",
+            "r_c не хочет(ят) помогать m_c чинить {PRONOUN\/m_c\/poss} гнездо."
         ]
     },
     {
         "id": "platonic_de_low2",
         "intensity": "low",
         "interactions": [
-            "m_c and r_c have an argument about who should get a pretty feather, and end up destroying it in their fight.",
-            "m_c has drawn the ire of r_c by deliberately taking the last of {PRONOUN\/r_c\/poss} favorite nesting materials for {PRONOUN\/m_c\/self}.",
-            "m_c and r_c keep talking over each other on accident.",
-            "After m_c tidies up an area, r_c accidentally messes it up again.",
-            "m_c confesses something to r_c, but realizes {PRONOUN\/r_c\/subject} can't relate at all.",
-            "When m_c gets a little hurt, r_c giggles before asking if {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} okay.",
-            "m_c tells r_c to talk a little quieter.",
-            "m_c keeps asking r_c to explain a joke, but r_c just says that m_c had to be there.",
-            "m_c stretched in front of r_c. r_c didn't get a great view.",
-            "r_c asked m_c to cover {PRONOUN\/m_c\/poss} mouth while {PRONOUN\/m_c\/subject} {VERB\/m_c\/cough\/coughs}, so m_c coughed on {PRONOUN\/r_c\/object} out of spite."
+            "m_c и r_c спорят(ят) из-за красивого пера и случайно разрушают(ят) его в драке.",
+            "m_c вызвал(а) гнев r_c, намеренно забрав(а) последний из {PRONOUN\/r_c\/poss} любимых материалов для гнезда.",
+            "m_c и r_c постоянно перебивают(ют) друг друга случайно.",
+            "После того как m_c прибрал(а) участок, r_c случайно снова его испачкал(а).",
+            "m_c признается(ятся) r_c в чём-то, но понимает(ют), что {PRONOUN\/r_c\/subject} не может(гут) понять.",
+            "Когда m_c слегка поранился(ась), r_c хихикает(ют), прежде чем спросить, в порядке ли {PRONOUN\/m_c\/subject}.",
+            "m_c просит(ят) r_c говорить потише.",
+            "m_c просит(ят) r_c объяснить шутку, но r_c лишь говорит(ят), что нужно было быть там.",
+            "m_c потянулся(ась) перед r_c. r_c увидел(а) не самое приятное зрелище.",
+            "r_c попросил(а) m_c прикрывать(ть) рот при кашле, но m_c назло кашлянул(а) на {PRONOUN\/r_c\/object}."
         ],
         "reaction_random_cat": {
             "platonic": "decrease"
@@ -38,27 +38,27 @@
         "id": "platonic_de_med1",
         "intensity": "medium",
         "interactions": [
-            "m_c caught r_c complaining about {PRONOUN\/m_c\/object} behind {PRONOUN\/m_c\/poss} back.",
-            "r_c insulted m_c's looks behind {PRONOUN\/m_c\/poss} back and thought m_c didn't hear it.",
-            "m_c notices how rude r_c is being to a Clanmate.",
-            "m_c is surprised by the hurtful things r_c can say in an argument.",
-            "r_c accuses m_c of lying about something m_c has no reason to lie about.",
-            "m_c is hurt by one of r_c's pranks, but r_c doesn't seem to believe {PRONOUN\/m_c\/object}.",
-            "m_c thinks that r_c is acting overly dramatic lately.",
-            "r_c won't give up a warm, sunny spot for m_c, not even for a minute.",
-            "m_c keeps telling r_c to stop saying a joke, but r_c doesn't take {PRONOUN\/m_c\/poss} request seriously.",
-            "m_c is baffled by something r_c says about religion.",
-            "r_c makes a crude remark about the Clan to m_c."
+            "m_c поймал(а) r_c на жалобах о {PRONOUN\/m_c\/object} за спиной.",
+            "r_c оскорбил(а) внешность m_c за спиной, думая что m_c не слышит(ат).",
+            "m_c замечает(ют), как грубо r_c ведёт(дут) себя с соплеменником.",
+            "m_c шокирован(а,ы) обидными словами r_c в споре.",
+            "r_c обвиняет(ют) m_c во лжи без оснований.",
+            "m_c обижен(а,ы) шуткой r_c, но r_c не верит(ят) {PRONOUN\/m_c\/object}.",
+            "m_c считает(ют), что r_c ведёт(дут) себя слишком драматично.",
+            "r_c не уступает(ят) m_c тёплое солнечное место даже на минуту.",
+            "m_c просит(ят) r_c перестать повторять шутку, но r_c игнорирует(ят) просьбу.",
+            "m_c озадачен(а,ы) высказыванием r_c о вере.",
+            "r_c делает(ят) грубое замечание о Племени в адрес m_c."
         ]
     },
     {
         "id": "platonic_de_med2",
         "interactions": [
-            "m_c is annoyed that {PRONOUN\/m_c\/subject} {VERB\/m_c\/have\/has} to pull ticks off of r_c today.",
-            "m_c doesn't like being bossed around by r_c just because {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} young.",
-            "m_c is bored by r_c's stories.",
-            "m_c wishes that r_c would talk a little faster.",
-            "m_c is sick of replacing r_c's stinky bedding."
+            "m_c раздражен(а,ы) тем, что {PRONOUN\/m_c\/subject} должен(на,ны) снимать клещей с r_c сегодня.",
+            "m_c не нравится(ятся), когда r_c помыкает(ют) им из-за молодости.",
+            "m_c скучает(ют) во время рассказов r_c.",
+            "m_c хочет(ят), чтобы r_c говорил(а) немного быстрее.",
+            "m_c устал(а,и) менять вонючую подстилку r_c."
         ],
         "main_status_constraint": [
             "apprentice"
@@ -70,9 +70,9 @@
     {
         "id": "platonic_de_med3",
         "interactions": [
-            "r_c makes sure m_c is following the Warrior Code.",
-            "r_c snaps at m_c for making a joke about the Clan.",
-            "r_c has a fight with m_c about what's right."
+            "r_c следит(ят), чтобы m_c соблюдал(а,и) Военный Кодекс.",
+            "r_c огрызается(ятся) на m_c за шутку о Племени.",
+            "r_c спорит(ят) с m_c о том, что правильно."
         ],
         "random_trait_constraint": [
             "righteous"
@@ -81,10 +81,10 @@
     {
         "id": "platonic_de_med4",
         "interactions": [
-            "r_c is not backing down in an argument with m_c.",
-            "r_c is getting too violent in an argument with m_c.",
-            "r_c is saying some harsh things to m_c during a disagreement.",
-            "m_c is taken aback by some of the cruel things r_c is saying to {PRONOUN\/m_c\/object}."
+            "r_c не отступает(ятся) в споре с m_c.",
+            "r_c становится(ятся) слишком агрессивным(ой) в споре с m_c.",
+            "r_c говорит(ят) жестокие вещи m_c во время разногласий.",
+            "m_c шокирован(а,ы) жестокими словами r_c в адрес {PRONOUN\/m_c\/object}."
         ],
         "random_trait_constraint": [
             "fierce",
@@ -97,11 +97,11 @@
         "id": "platonic_de_high1",
         "intensity": "high",
         "interactions": [
-            "m_c doesn't like how r_c has been talking about {PRONOUN\/m_c\/poss} mentor.",
-            "m_c wishes {PRONOUN\/m_c\/subject} had r_c's mentor instead.",
-            "m_c thinks that r_c complains too much about {PRONOUN\/r_c\/poss} training.",
-            "r_c won't stop taking up so much room in the apprentice den at night, and keeps kicking m_c.",
-            "m_c notices that r_c doesn't take {PRONOUN\/r_c\/poss} training as seriously as the other apprentices."
+            "m_c не нравится(ятся), как r_c отзывается(ятся) о {PRONOUN\/m_c\/poss} наставнике.",
+            "m_c желает(ят), чтобы у {PRONOUN\/m_c\/subject} был наставник r_c.",
+            "m_c считает(ют), что r_c слишком много жалуется(ятся) на {PRONOUN\/r_c\/poss} обучение.",
+            "r_c постоянно занимает(ят) много места в логове оруженосцев и пинает(ют) m_c ночью.",
+            "m_c замечает(ют), что r_c не воспринимает(ют) обучение так серьёзно, как другие оруженосцы."
         ],
         "main_status_constraint": [
             "apprentice",
@@ -118,12 +118,12 @@
         "id": "platonic_de_high2",
         "intensity": "high",
         "interactions": [
-            "m_c mocks r_c for becoming a medicine cat apprentice instead of a warrior apprentice.",
-            "m_c mocks r_c for smelling like gross herbs.",
-            "m_c mocks r_c for smelling like mouse bile.",
-            "m_c keeps trying to quiz r_c on herbs that r_c doesn't know yet.",
-            "m_c looks down on r_c, because there's no way {PRONOUN\/r_c\/subject} could ever be a useful medicine cat.",
-            "m_c doesn't trust r_c to heal {PRONOUN\/m_c\/object} wound."
+            "m_c насмехается(ются) над r_c за то, что тот(а) стал(а) учеником целителя вместо ученика воина.",
+            "m_c издевается(ются) над r_c из-за запаха трав.",
+            "m_c дразнит(ят) r_c за запах мышиной желчи.",
+            "m_c постоянно спрашивает(уют) r_c о травах, которые тот(а) ещё не знает.",
+            "m_c смотрит(ят) свысока на r_c, считая что {PRONOUN\/r_c\/subject} никогда не станет(ут) хорошим целителем.",
+            "m_c не доверяет(ят) r_c лечить {PRONOUN\/m_c\/object} рану."
         ],
         "main_status_constraint": [
             "apprentice"
@@ -139,13 +139,13 @@
         "id": "platonic_de_high3",
         "intensity": "high",
         "interactions": [
-            "m_c keeps leaving all of the boring apprentice tasks for r_c to do by {PRONOUN\/r_c\/self}.",
-            "m_c tells r_c's mentor that {PRONOUN\/r_c\/subject}{VERB\/r_c\/'ve\/'s} been sneaking out of camp without permission.",
-            "m_c has a disagreement with r_c over who is the better hunter.",
-            "m_c tells r_c to go back to the nursery if {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} gonna keep acting like a kitten!",
-            "m_c's mentor compliments r_c more than their own apprentice.",
-            "The Clan doesn't think the friendly apprentice competition between m_c and r_c is very friendly anymore.",
-            "m_c accuses r_c of cheating; there's no way {PRONOUN\/r_c\/subject} could win so many practice fights fairly."
+            "m_c постоянно оставляет(ят) скучные задания ученика  r_c.",
+            "m_c сообщает(ят) наставнику r_c, что {PRONOUN\/r_c\/subject} {VERB\/r_c\/покидает\/покидают} лагерь без разрешения.",
+            "m_c спорит(ят) с r_c о том, кто лучше охотится.",
+            "m_c говорит(ят) r_c вернуться в детскую, если {PRONOUN\/r_c\/subject} {VERB\/r_c\/продолжает\/продолжают} вести себя как котёнок!",
+            "Наставник m_c хвалит(ят) r_c чаще, чем своего ученика.",
+            "Племя больше не считает(ет) дружеское соперничество между m_c и r_c дружеским.",
+            "m_c обвиняет(ют) r_c в жульничестве: {PRONOUN\/r_c\/subject} не может(гут) побеждать(ят) в учебных боях честно."
         ],
         "main_status_constraint": [
             "apprentice"
@@ -161,9 +161,9 @@
         "id": "platonic_de_high_grumpymedcat1",
         "intensity": "high",
         "interactions": [
-            "m_c snarls at r_c for coming too close to the herbs.",
-            "m_c shoos r_c away, not having time for curious little kits.",
-            "m_c tells r_c if {PRONOUN\/r_c\/subject} {VERB\/r_c\/don't\/doesn't} stay away from the medicine den {PRONOUN\/m_c\/subject} will feed {PRONOUN\/r_c\/object} nasty tasting herbs!"
+            "m_c рычит(ат) на r_c за приближение к травам.",
+            "m_c прогоняет(ют) r_c, не имея времени на любопытных котят.",
+            "m_c говорит(ят) r_c: если {PRONOUN\/r_c\/subject} не отойдёт(ут) от целительской палатки, {PRONOUN\/m_c\/subject} накормит(ят) {PRONOUN\/r_c\/object} горькими травами!"
         ],
         "main_status_constraint": [
             "medicine cat",
@@ -185,34 +185,34 @@
         "id": "platonic_de_high4",
         "intensity": "high",
         "interactions": [
-            "m_c feels betrayed by something r_c said.",
-            "m_c won't tell the Clan what's made {PRONOUN\/m_c\/object} so upset with r_c.",
-            "After r_c says something seemingly innocent, m_c sulks for the rest of the day.",
-            "r_c's ego about something irritates m_c.",
-            "m_c is reevaluating how much {PRONOUN\/m_c\/subject} {VERB\/m_c\/value\/values} r_c as a Clanmate.",
-            "r_c says something that goes against m_c's morals.",
-            "m_c struggles to accept r_c's different opinion on something.",
-            "m_c doesn't like it when r_c is all talk and no action.",
-            "m_c takes a bout of bad weather as a bad omen about r_c.",
-            "m_c dreams about something that feels prophetic, and starts to act strange around r_c.",
-            "m_c realizes how much {PRONOUN\/m_c\/subject} {VERB\/m_c\/hate\/hates} something about r_c."
+            "m_c чувствует(ют) себя преданным(ой) словами r_c.",
+            "m_c не рассказывает(ят) Племени, что его обидело в r_c.",
+            "После невинной фразы r_c m_c весь день дуется(ются).",
+            "Эго r_c раздражает(ят) m_c.",
+            "m_c пересматривает(ят) свою оценку r_c как соплеменника.",
+            "r_c говорит(ят) что-то противное морали m_c.",
+            "m_c не может(гут) принять иную точку зрения r_c.",
+            "m_c не нравится(ятся), когда r_c только говорит, но не действует.",
+            "m_c воспринимает(ят) непогоду как дурное предзнаменование о r_c.",
+            "m_c видит(ят) вещий сон и начинает(ют) странно вести себя с r_c.",
+            "m_c осознает(ют), как сильно {PRONOUN\/m_c\/subject} ненавидит(ят) кое-что в r_c."
         ]
     },
     {
         "id": "platonic_de_high5",
         "intensity": "high",
         "interactions": [
-            "r_c says something hateful to m_c.",
-            "In the middle of a squabble, r_c says something to m_c that makes the whole Clan gasp.",
-            "m_c keeps getting on r_c for a bad habit, and it's putting a rift between them.",
-            "r_c doesn't respect m_c's personal space lately.",
-            "m_c snaps at r_c to leave {PRONOUN\/m_c\/object} alone.",
-            "m_c tries to comfort r_c, but r_c shoves {PRONOUN\/m_c\/object} away.",
-            "r_c has been getting on m_c's nerves as of late.",
-            "m_c mocks r_c for something inconsequential.",
-            "m_c tells r_c something {PRONOUN\/m_c\/subject} {VERB\/m_c\/hate\/hates} about {PRONOUN\/r_c\/object}.",
-            "The Clan watches m_c and r_c slowly lose their patience with one another.",
-            "A Clanmate has to comfort m_c when r_c says something cruel."
+            "r_c говорит(ят) m_c что-то ненавистное.",
+            "Во время ссоры r_c говорит(ят) m_c нечто, что шокирует всё Племя.",
+            "m_c постоянно критикует(ют) r_c за дурную привычку, создавая пропасть между ними.",
+            "r_c не уважает(ят) личное пространство m_c.",
+            "m_c огрызается(ятся) на r_c: «Оставь {PRONOUN\/m_c\/object} в покое!»",
+            "m_c пытается(ются) утешить r_c, но r_c отталкивает(ят) {PRONOUN\/m_c\/object}.",
+            "r_c всё чаще действует(ят) m_c на нервы.",
+            "m_c издевается(ются) над r_c из-за пустяка.",
+            "m_c говорит(ят) r_c, что {PRONOUN\/m_c\/subject} ненавидит(ят) в {PRONOUN\/r_c\/object}.",
+            "Племя наблюдает(ют), как m_c и r_c теряют(ят) терпение друг к другу.",
+            "Соплеменник утешает(ят) m_c после жестоких слов r_c."
         ],
         "reaction_random_cat": {
             "platonic": "decrease"

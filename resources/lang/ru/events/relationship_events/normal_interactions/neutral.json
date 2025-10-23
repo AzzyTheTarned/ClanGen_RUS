@@ -2,53 +2,53 @@
     {
         "id": "neutral_interaction1",
         "interactions": [
-            "m_c saw r_c the other day, but didn't get a chance to meow hello.",
-            "m_c bickered about something trivial with r_c.",
-            "m_c nods politely as r_c passes by.",
-            "m_c and r_c trip over the same twig in camp.",
-            "m_c watches r_c wind up for a sneeze, but it never happens.",
-            "m_c asks r_c if {PRONOUN\/m_c\/poss} fur looks clean.",
-            "m_c and r_c notice a cloud is shaped like a star.",
-            "m_c and r_c notice a cloud is shaped like a mouse.",
-            "m_c and r_c notice a cloud is shaped like a bird.",
-            "m_c points out a constellation to r_c.",
-            "m_c and r_c keep trying to figure out what a bad smell in camp is.",
-            "m_c poses a crazy theory to r_c, and they chat about it for a while.",
-            "m_c asks r_c if there's something in {PRONOUN\/m_c\/poss} teeth.",
-            "m_c points out a nice rock for r_c to sharpen {PRONOUN\/r_c\/poss} claws on.",
-            "m_c and r_c fill a puddle in the camp with sand together.",
-            "m_c notices some of r_c's fur on {PRONOUN\/m_c\/poss} fresh-kill.",
-            "Both m_c and r_c startle at a clap of thunder.",
-            "m_c pretends not to see r_c cough up a hairball.",
-            "m_c and r_c are assigned the same task.",
-            "m_c and r_c accidentally startle one another.",
-            "m_c runs into r_c at the medicine den. They both have a tummy ache from two halves of the same prey.",
-            "m_c and r_c get their fur stuck together with some sap.",
-            "r_c smacks a spider off of m_c.",
-            "r_c has to help m_c stop choking on a huge bone.",
-            "m_c and r_c chat idly about the latest meeting.",
-            "m_c and r_c keep making each other yawn.",
-            "A big bug keeps buzzing around m_c and r_c.",
-            "m_c apologizes to r_c, but r_c doesn't know why.",
-            "m_c and r_c try to say tongue twisters.",
-            "m_c and r_c watch drama unfold in camp.",
-            "m_c and r_c have to break up a fight between their Clanmates.",
-            "When a Clanmate passes by holding stinking herbs, both m_c and r_c gag.",
-            "m_c and r_c work together to make sense of something a Clanmate said.",
-            "m_c and r_c realize they were the only ones that saw a shooting star.",
-            "m_c acknowledges r_c with a twitch of {PRONOUN\/m_c\/poss} whiskers."
+            "m_c видел(а) r_c на днях, но не успел(а) мяукнуть приветствие.",  
+            "m_c поспорил(а) с r_c из-за ерунды.",  
+            "m_c вежливо кивает, когда r_c проходит мимо.",  
+            "m_c и r_c спотыкаются об одну и ту же ветку в лагере.",  
+            "m_c наблюдает, как r_c готовится чихнуть, но чиха так и не случается.",  
+            "m_c спрашивает r_c, выглядит ли {PRONOUN/m_c/poss} шерсть чистой.",  
+            "m_c и r_c замечают, что облако похоже на звезду.",  
+            "m_c и r_c замечают, что облако похоже на мышь.",  
+            "m_c и r_c замечают, что облако похоже на птицу.",  
+            "m_c показывает r_c созвездие.",  
+            "m_c и r_c пытаются определить источник неприятного запаха в лагере.",  
+            "m_c выдвигает безумную теорию???для рц??, и они обсуждают её какое-то время.",  
+            "m_c спрашивает r_c, не застряло ли что-то в {PRONOUN/m_c/poss} зубах.",  
+            "m_c указывает r_c на хороший камень, чтобы точить свои когти.",  
+            "m_c и r_c вместе засыпают лужу в лагере песком.",  
+            "m_c замечает шерсть r_c на {PRONOUN/m_c/poss} свежей добыче.",  
+            "m_c и r_c вздрагивают от удара грома.",  
+            "m_c делает вид, что не видит, как r_c откашливает комок шерсти.",  
+            "m_c и r_c получают одно и то же задание.",  
+            "m_c и r_c случайно пугают друг друга.",  
+            "m_c сталкивается с r_c у палатки целителя. У обоих болит живот от половинок одной добычи.",  
+            "m_c и r_c склеивают шерсть смолой.",  
+            "r_c смахивает паука с m_c.",  
+            "r_c помогает m_c избавиться от огромной кости, застрявшей в горле.",  
+            "m_c и r_c болтают о последнем собрании.",  
+            "m_c и r_c постоянно зевают друг за другом.",  
+            "Большой жук жужжит вокруг m_c и r_c.",  
+            "m_c извиняется перед r_c, но r_c не понимает, за что.",  
+            "m_c и r_c пытаются произнести скороговорки.",  
+            "m_c и r_c наблюдают, как в лагере разворачивается драма.",  
+            "m_c и r_c разнимают драку между соплеменниками.",  
+            "Когда мимо проходит соплеменник с вонючими травами, m_c и r_c морщатся.",  
+            "m_c и r_c вместе пытаются понять, что имел в виду соплеменник.",  
+            "m_c и r_c понимают, что только они видели падающую звезду.",  
+            "m_c приветствует r_c подёргиванием {PRONOUN/m_c/poss} усов." 
         ]
     },
     {
         "id": "neutral_interaction2",
         "interactions": [
-            "m_c is giving r_c a task.",
-            "m_c asks r_c to remind {PRONOUN\/m_c\/object} of who's already gone on patrol today.",
-            "m_c asks r_c about a certain rule of the Warrior Code that {PRONOUN\/m_c\/subject} forgot.",
-            "m_c watches r_c training for something and nods approvingly at {PRONOUN\/r_c\/poss} progress.",
-            "r_c asks m_c about {PRONOUN\/m_c\/poss} duties.",
-            "After completing a chore, r_c reports to m_c.",
-            "m_c is checking on r_c."
+            "m_c даёт r_c задание.",  
+            "m_c просит r_c напомнить {PRONOUN/m_c/object}, кто уже отправлялся в патруль сегодня.",  
+            "m_c спрашивает r_c о правиле из Военского Закона, которое {PRONOUN/m_c/subject} забыл(а).",  
+            "m_c наблюдает, как r_c тренируется, и одобрительно кивает на {PRONOUN/r_c/poss} прогресс.",  
+            "r_c спрашивает m_c о своих обязанностях.",  
+            "После выполнения задания r_c отчитывается m_c.",  
+            "m_c проверяет, как у r_c дела."  
         ],
         "main_status_constraint": [
             "medicine cat",
@@ -67,14 +67,14 @@
     {
         "id": "neutral_interaction3",
         "interactions": [
-            "m_c is stuttering while speaking to r_c.",
-            "r_c asks m_c to speak up while chatting together.",
-            "m_c overthinks something {PRONOUN\/m_c\/subject} said to r_c.",
-            "m_c does something embarrassing in front of r_c, but r_c doesn't seem to mind.",
-            "m_c hyped {PRONOUN\/m_c\/self} up to have a conversation with r_c, but r_c's gone somewhere else.",
-            "m_c struggles to get a word in during a conversation with r_c.",
-            "m_c hides from r_c to avoid an awkward interaction.",
-            "m_c agrees with everything that r_c says to avoid an argument."
+            "m_c заикается, разговаривая с r_c.",  
+            "r_c просит m_c говорить громче во время их беседы.",  
+            "m_c слишком обдумывает то, что {PRONOUN/m_c/subject} сказал(а) r_c.",  
+            "m_c сделал(а) что-то неловкое при r_c, но r_c, кажется, не обратил(а) внимания.",  
+            "m_c собрался(лась) поговорить с r_c, но r_c уже ушёл(ла) куда-то.",  
+            "m_c с трудом вставляет слово в разговоре с r_c.",  
+            "m_c прячется от r_c, чтобы избежать неловкого взаимодействия.",  
+            "m_c соглашается со всем, что говорит r_c, лишь бы не спорить."
         ],
         "main_trait_constraint": [
             "nervous"
@@ -83,16 +83,16 @@
     {
         "id": "neutral_interaction4",
         "interactions": [
-            "m_c stands tall when r_c walks by.",
-            "m_c tells r_c something that probably could've been kept private.",
-            "r_c watches m_c try and fail at something after claiming {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} an expert at it.",
-            "m_c puffs out {PRONOUN\/m_c\/poss} chest when r_c approaches.",
-            "r_c listens to m_c wax about how brave {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is}.",
-            "r_c is starting to doubt the truth behind m_c's epic story.",
-            "r_c doesn't bother to correct the blatantly wrong thing m_c said.",
-            "m_c does not take r_c's correction on something {PRONOUN\/m_c\/subject} said very well.",
-            "m_c falls flat on {PRONOUN\/m_c\/poss} face in front of r_c, but just gets right back up and keeps walking.",
-            "m_c lifts {PRONOUN\/m_c\/poss} chin up while passing by r_c."
+            "m_c выпрямляется, когда r_c проходит мимо.",  
+            "m_c рассказывает r_c что-то, что лучше было оставить при себе.",  
+            "r_c наблюдает, как m_c пытается что-то сделать и терпит неудачу, хотя утверждал(а), что {PRONOUN/m_c/subject} был(ла) экспертом в этом.",  
+            "m_c надувает {PRONOUN/m_c/poss} грудь, когда r_c подходит.",  
+            "r_c слушает, как m_c распинается о том, как {PRONOUN/m_c/subject} храбр(а).",  
+            "r_c начинает сомневаться в правдивости эпичной истории m_c.",  
+            "r_c не стал(а) поправлять явную ошибку m_c.",  
+            "m_c не очень хорошо воспринимает поправку r_c к тому, что {PRONOUN/m_c/subject} сказал(а).",  
+            "m_c падает лицом вниз перед r_c, но сразу встаёт и продолжает идти.",  
+            "m_c поднимает {PRONOUN/m_c/poss} подбородок, проходя мимо r_c."  
         ],
         "main_trait_constraint": [
             "confident",
@@ -102,8 +102,8 @@
     {
         "id": "neutral_interaction5",
         "interactions": [
-            "m_c challenged r_c to spar with {PRONOUN\/m_c\/object}.",
-            "m_c asks r_c a bold question."
+         "m_c вызвал(а) r_c на тренировочный бой.",  
+         "m_c задаёт r_c дерзкий вопрос." 
         ],
         "main_trait_constraint": [
             "bold"
@@ -112,14 +112,14 @@
     {
         "id": "neutral_interaction6",
         "interactions": [
-            "r_c seems to be oblivious to m_c glaring at {PRONOUN\/r_c\/object} from across camp.",
-            "m_c is sharpening {PRONOUN\/m_c\/poss} claws near r_c.",
-            "r_c notices that m_c knows a lot about the Dark Forest.",
-            "r_c wonders when m_c learned so much about cat anatomy.",
-            "r_c has to snap m_c out of staring darkly at another Clanmate.",
-            "r_c sees m_c using a small animal bone to pick food from {PRONOUN\/m_c\/poss} teeth.",
-            "r_c wonders why m_c knows so much about a Clanmate {PRONOUN\/m_c\/subject} {VERB\/m_c\/don't\/doesnt} like.",
-            "m_c asks r_c to compare the size and sharpness of their claws together."
+            "r_c, кажется, не замечает, как m_c пристально смотрит на {PRONOUN/r_c/object} через весь лагерь.",  
+            "m_c точит свои когти рядом с r_c.",  
+            "r_c замечает, что m_c много знает о Сумрачном Лесе.",  
+            "r_c удивляется, когда m_c так много узнал(а) об анатомии кошек.",  
+            "r_c приходится отвлечь m_c от мрачного взгляда на другого соплеменника.",  
+            "r_c видит, как m_c использует кость мелкого животного, чтобы достать еду из своих зубов.",  
+            "r_c задаётся вопросом, почему m_c так много знает о соплеменнике, который {PRONOUN/m_c/subject} не нравится.",  
+            "m_c просит r_c сравнить размер и остроту их когтей."  
         ],
         "main_trait_constraint": [
             "bloodthirsty",
@@ -129,15 +129,15 @@
     {
         "id": "neutral_interaction7",
         "interactions": [
-            "m_c doesn't notice r_c leaving camp.",
-            "r_c told a really funny joke, but m_c just looked confused.",
-            "m_c accidentally brings r_c fresh-kill twice.",
-            "r_c has to tell m_c to stop staring at the sun.",
-            "m_c asks r_c what the Warrior Code is again.",
-            "m_c forgets r_c's name.",
-            "m_c can't tell r_c is upset with {PRONOUN\/m_c\/object}.",
-            "m_c guesses r_c's age, but is wayyyy off.",
-            "m_c doesn't notice r_c twitching {PRONOUN\/r_c\/poss} whiskers at {PRONOUN\/m_c\/object}."
+            "m_c не замечает, как r_c покидает лагерь.",  
+            "r_c рассказал(а) очень смешную шутку, но m_c выглядел(а) смущённо.",  
+            "m_c случайно приносит r_c свежую добычу дважды.",  
+            "r_c приходится сказать m_c, чтобы {PRONOUN/m_c/subject} перестал(а) смотреть на солнце.",  
+            "m_c снова спрашивает r_c, что такое Воинский Закон.",  
+            "m_c забывает имя r_c.",  
+            "m_c не замечает, что r_c раздражён(а) {PRONOUN/m_c/object}.",  
+            "m_c пытается угадать возраст r_c, но сильно ошибается.",  
+            "m_c не замечает, как r_c дёргает своими усами в сторону {PRONOUN/m_c/object}."
         ],
         "main_trait_constraint": [
             "oblivious"
@@ -146,13 +146,13 @@
     {
         "id": "neutral_interaction8",
         "interactions": [
-            "r_c notices m_c sulking around camp again.",
-            "r_c doesn't bother to ask why m_c is crying again.",
-            "m_c is happy today, but r_c doubts it will last long.",
-            "r_c tries to comfort m_c, but has no idea what happened to make {PRONOUN\/m_c\/object} so gloomy.",
-            "r_c gives up on trying to reassure m_c.",
-            "r_c asks how m_c's day is, but m_c's reply is kind of a bummer.",
-            "r_c meows hello to m_c, but {PRONOUN\/m_c\/subject} {VERB\/m_c\/look\/looks} pretty glum still."
+            "r_c замечает, что m_c снова хандрит в лагере.",  
+            "r_c не удосуживается спросить, почему m_c опять плачет.",  
+            "m_c сегодня счастлив(а), но r_c сомневается, что это надолго.",  
+            "r_c пытается утешить m_c, но понятия не имеет, что случилось, чтобы {PRONOUN/m_c/object} так грустил(а).",  
+            "r_c сдаётся и перестаёт пытаться успокоить m_c.",  
+            "r_c спрашивает, как прошёл день у m_c, но ответ оказывается неутешительным.",  
+            "r_c мяукает приветствие m_c, но {PRONOUN/m_c/subject} выглядит всё так же угрюмо."
         ],
         "main_trait_constraint": [
             "gloomy",
@@ -162,15 +162,15 @@
     {
         "id": "neutral_interaction9",
         "interactions": [
-            "m_c always seems to avoid r_c's attempts at small talk.",
-            "r_c is amused at how m_c manages to look so grumpy all the time.",
-            "m_c avoids running into any cat, but r_c interrupts {PRONOUN\/m_c\/poss} peaceful silence.",
-            "m_c stares at r_c with an unreadable expression.",
-            "m_c tells a depressing anti-joke to r_c.",
-            "r_c learns the hard way that m_c isn't the best Clanmate to go to for advice.",
-            "m_c walks by r_c, mumbling something about a Clanmate with a sour expression.",
-            "r_c thinks it's funny how closely m_c protects {PRONOUN\/m_c\/poss} fresh-kill.",
-            "m_c tries to say something rude, but r_c just laughs at it."
+            "m_c постоянно избегает попыток r_c завязать пустую болтовню.",  
+            "r_c забавляет, как m_c умудряется всегда выглядеть таким ворчливым.",  
+            "m_c избегает встреч с другими котами, но r_c нарушает {PRONOUN/m_c/poss} мирное одиночество.",  
+            "m_c смотрит на r_c с непроницаемым выражением.",  
+            "m_c рассказывает r_c мрачную анти-шутку.",  
+            "r_c на собственном опыте убедился(лась), что m_c — не лучший(ая) соплеменник для советов.",  
+            "m_c проходит мимо r_c, бормоча что-то о соплеменнике с кислым выражением морды.",  
+            "r_c считает забавным, как ревностно m_c охраняет {PRONOUN/m_c/poss} свежую добычу.",  
+            "m_c пытается сказать что-то грубое, но r_c просто смеётся над этим." 
         ],
         "main_trait_constraint": [
             "grumpy",

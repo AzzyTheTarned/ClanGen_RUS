@@ -3,32 +3,32 @@
         "id": "dislike_de_low1",
         "intensity": "low",
         "interactions": [
-            "m_c is surprised by r_c being thoughtful.",
-            "m_c and r_c agree about something trivial.",
-            "m_c didn't expect r_c to be so amicable today.",
-            "m_c realizes that {PRONOUN\/m_c\/subject} misunderstood something r_c said.",
-            "m_c stops and thinks before assuming the worst of r_c.",
-            "When getting something to eat, m_c sees r_c allow someone else to take {PRONOUN\/r_c\/poss} favorite prey.",
-            "m_c sees r_c being gentle with an injured bug.",
-            "m_c thinks that r_c looks nice today.",
-            "m_c thinks that r_c smells nice today.",
-            "m_c is able to work together with r_c."
+            "m_c удивлён(а) внимательностью r_c.",  
+            "m_c и r_c соглашаются в чём-то незначительном.",  
+            "m_c не ожидал(а), что r_c будет сегодня таким дружелюбным.",  
+            "m_c понимает, что {PRONOUN/m_c/subject} неправильно понял(а) слова r_c.",  
+            "m_c останавливается и думает, прежде чем предположить худшее о r_c.",  
+            "Когда m_c идёт за едой, {PRONOUN/m_c/subject} видит, как r_c позволяет другому взять {PRONOUN/r_c/poss} любимую добычу.",  
+            "m_c наблюдает, как r_c бережно обращается с раненым жуком.",  
+            "m_c считает, что r_c сегодня хорошо выглядит.",  
+            "m_c считает, что r_c сегодня приятно пахнет.",  
+            "m_c может работать вместе с r_c."  
         ]
     },
     {
         "id": "dislike_de_low2",
         "intensity": "low",
-        "interactions": [
-            "m_c apologized to r_c for being rude the other day.",
-            "m_c and r_c actually get along better today.",
-            "m_c is surprised when r_c compliments {PRONOUN\/m_c\/object}.",
-            "m_c and r_c giggle over something silly.",
-            "m_c jumps in a puddle, splashing r_c. To {PRONOUN\/m_c\/poss} surprise, r_c laughs.",
-            "m_c didn't expect an apology from r_c, but accepted it regardless.",
-            "m_c has been a little kinder to r_c today.",
-            "m_c and r_c bond over something small.",
-            "m_c helps r_c with something {PRONOUN\/r_c\/poss} were struggling with.",
-            "m_c clears up a misunderstanding with r_c."
+        "interactions": [ 
+            "m_c извинился(ась) перед r_c за грубость на днях.",  
+            "m_c и r_c сегодня действительно лучше ладят.",  
+            "m_c удивлён(а), когда r_c делает {PRONOUN/m_c/object} комплимент.",  
+            "m_c и r_c хихикают из-за ерунды.",  
+            "m_c прыгает в лужу, обрызгав r_c. К {PRONOUN/m_c/poss} удивлению, r_c смеётся.",  
+            "m_c не ожидал(а) извинений от r_c, но принял(а) их.",  
+            "m_c сегодня был(а) добрее к r_c.",  
+            "m_c и r_c сблизились из-за пустяка.",  
+            "m_c помогает r_c с тем, что давалось {PRONOUN/r_c/object} с трудом.",  
+            "m_c проясняет недоразумение с r_c."  
         ],
         "reaction_random_cat": {
             "dislike": "decrease"
@@ -37,34 +37,35 @@
     {
         "id": "dislike_de_med1",
         "interactions": [
-            "m_c realized that {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} too harsh in {PRONOUN\/m_c\/poss} judgement of r_c.",
-            "m_c is still a little hurt by r_c, but wants to try and make amends.",
-            "m_c decides to be the bigger cat and plans to make amends with r_c.",
-            "Despite past disagreements, r_c is kind to m_c in passing.",
-            "m_c hears r_c purring during a nap.",
-            "m_c is frustrated with r_c, but hears {PRONOUN\/r_c\/object} crying alone and immediately feels guilty.",
-            "Though m_c has been unhappy with r_c, m_c helps {PRONOUN\/r_c\/object} with something.",
-            "m_c tries to find r_c to apologize for something, but finds {PRONOUN\/r_c\/object} playing with a Clanmate.",
-            "r_c does something endearing, which surprises m_c.",
-            "m_c stumbles upon r_c looking at the stars with wonder in {PRONOUN\/r_c\/poss} eyes.",
-            "m_c is rethinking how {PRONOUN\/m_c\/subject} {VERB\/m_c\/feel\/feels} about r_c and gives {PRONOUN\/r_c\/object} another chance."
+            "m_c понимает, что {PRONOUN/m_c/subject} был(а,и) слишком суров(а) в оценке r_c.",  
+            "m_c всё ещё обижен(а) на r_c, но хочет попытаться загладить вину.",  
+            "m_c решает быть выше этого и планирует помириться с r_c.",  
+            "Несмотря на прошлые разногласия, r_c проявляет доброту к m_c при встрече.",  
+            "m_c слышит мурлыканье r_c во время сна.",  
+            "m_c раздражён(а) r_c, но слышит, как {PRONOUN/r_c/object} плачет в одиночестве, и сразу чувствует вину.",  
+            "Хотя m_c недоволен(на) r_c,но} помогает {PRONOUN/r_c/object} с чем-то.",  
+            "m_c пытается найти r_c для извинений, но видит, как {PRONOUN/r_c/object} играет с соплеменником.",  
+            "r_c делает что-то милое, что удивляет m_c.",  
+            "m_c застаёт r_c за созерцанием звёзд с восхищением в {PRONOUN/r_c/poss} глазах.",  
+            "m_c переосмысливает отношение к r_c и даёт {PRONOUN/r_c/object} ещё один шанс."  
         ]
     },
     {
         "id": "dislike_de_med2",
         "interactions": [
-            "m_c covered for r_c on something minor.",
-            "m_c spends some time with r_c and they both end up understanding each other a little better.",
-            "m_c and r_c realize they have a similar sense of humor.",
-            "m_c gets a little injured and r_c is the first to help.",
-            "m_c and r_c find out they have nice conversations when they aren't bickering.",
-            "m_c reveals something to r_c. Apparently r_c can relate!",
-            "m_c and r_c spend some time together and nearly forget what made them upset with one another in the first place.",
-            "m_c and r_c apologize to each other at the same time.",
-            "When explaining something, m_c is surprised that r_c understands.",
-            "m_c hesitantly asks to exchange fresh-kill with r_c. r_c agrees, since m_c's is {PRONOUN\/r_c\/poss} favorite kind, anyways.",
-            "The Clan is surprised to see m_c and r_c chatting casually over a meal.",
-            "m_c cheers r_c up after a small disagreement."
+            "m_c прикрыл(а) r_c в чём-то незначительном.",  
+            "m_c проводит время с r_c, и оба начинают понимать друг друга лучше.",  
+            "m_c и r_c обнаруживают, что у них схожее чувство юмора.",  
+            "m_c получает лёгкую травму, и r_c первым(ой) приходит на помощь.",  
+            "m_c и r_c понимают, что могут хорошо общаться, когда не ссорятся.",  
+            "m_c открывает что-то r_c. Оказывается, r_c сталкивался(лась) с тем же!",  
+            "m_c и r_c проводят время вместе и почти забывают причину былой обиды.",  
+            "m_c и r_c извиняются друг перед другом одновременно.",  
+            "Объясняя что-то, m_c удивлён(а), что r_c понимает.",  
+            "m_c нерешительно просит обменяться добычей с r_c. r_c соглашается, ведь у m_c {PRONOUN/r_c/poss} любимая еда.",  
+            "Племя удивлено, видя m_c и r_c, непринуждённо болтающих за едой.",  
+            "m_c поднимает настроение r_c после небольшой размолвки."  
+
         ],
         "reaction_random_cat": {
             "dislike": "decrease"
@@ -74,32 +75,32 @@
         "id": "dislike_de_high1",
         "intensity": "high",
         "interactions": [
-            "m_c is surprised to hear r_c express an ideal {PRONOUN\/m_c\/subject} can agree with.",
-            "m_c didn't realize how generous r_c could be.",
-            "m_c sees r_c stand up for a Clanmate despite the pushback from {PRONOUN\/r_c\/poss} peers.",
-            "m_c overhears r_c saying something kind about {PRONOUN\/m_c\/object}.",
-            "m_c tries to look at r_c's actions from another perspective, and starts to like {PRONOUN\/r_c\/object} more.",
-            "m_c notices that some of {PRONOUN\/m_c\/poss} Clanmates talk very highly of r_c.",
-            "The way r_c jumps to help a Clanmate makes m_c think {PRONOUN\/r_c\/subject} might not be all that bad.",
-            "There's something soothing about r_c that m_c never realized before.",
-            "m_c realizes how smart r_c is when it comes to certain things.",
-            "m_c talks to one of r_c's friends and begins to understand why others like {PRONOUN\/r_c\/object}.",
-            "m_c considers how to make amends with r_c after a long night of deliberation."
+            "m_c удивлён(а), услышав, что r_c выражает идеал, с которым {PRONOUN/m_c/subject} может(гут) согласиться.",  
+            "m_c не осознавал(а), насколько щедрым(ой) может быть r_c.",  
+            "m_c видит, как r_c защищает соплеменника, несмотря на сопротивление {PRONOUN/r_c/poss} сверстников.",  
+            "m_c подслушивает, как r_c говорит что-то доброе о {PRONOUN/m_c/object}.",  
+            "m_c пытается взглянуть на поступки r_c под другим углом и начинает симпатизировать {PRONOUN/r_c/object} больше.",  
+            "m_c замечает, что некоторые из {PRONOUN/m_c/poss} соплеменников высоко отзываются о r_c.",  
+            "То, как r_c бросается помогать соплеменникам, заставляет m_c думать, что {PRONOUN/r_c/subject}, возможно, не так уж плох(а).",  
+            "В r_c есть что-то успокаивающее, чего m_c раньше не замечал(а).",  
+            "m_c понимает, насколько r_c умен(умна) в определённых вопросах.",  
+            "m_c разговаривает с другом r_c и начинает понимать, почему другим {PRONOUN/r_c/object} нравится.",  
+            "m_c обдумывает, как загладить вину перед r_c после долгой ночи размышлений." 
         ]
     },
     {
         "id": "dislike_de_high2",
         "intensity": "high",
         "interactions": [
-            "m_c and r_c joke around about how bad the other Clans smell.",
-            "r_c can't help but laugh when m_c tells a funny joke.",
-            "A Clanmate claims that m_c and r_c were sharing tongues.",
-            "m_c and r_c sincerely apologize to one another.",
-            "r_c admits that m_c did something clever.",
-            "m_c and r_c fight over a piece of prey, but soon decide to share it instead.",
-            "The Clan has noticed m_c and r_c are smiling at each other more today.",
-            "m_c and r_c realize they have more in common than previously thought.",
-            "r_c thinks that m_c isn't so bad after all."
+            "m_c и r_c шутят о том, как плохо пахнут другие Племена.",  
+            "r_c не может сдержать смех, когда m_c рассказывает смешную шутку.",  
+            "Соплеменник утверждает, что m_c и r_c вылизывали шерсть друг другу.",  
+            "m_c и r_c искренне извиняются друг перед другом.",  
+            "r_c признаёт, что m_c поступил(а) умно.",  
+            "m_c и r_c спорят из-за добычи, но вскоре решают поделиться.",  
+            "Племя замечает, что сегодня m_c и r_c чаще улыбаются друг другу.",  
+            "m_c и r_c понимают, что у них больше общего, чем казалось.",  
+            "r_c считает, что m_c не так уж и плох(а)." 
         ],
         "reaction_random_cat": {
             "dislike": "decrease"
@@ -109,11 +110,11 @@
         "id": "dislike_de_high3",
         "intensity": "high",
         "interactions": [
-            "m_c and r_c heckled another Clan at the Gathering together.",
-            "m_c and r_c worked well together on a patrol.",
-            "When they return from a patrol, m_c and r_c seem more at peace with each other than usual.",
-            "m_c and r_c defended their Clan at the Gathering together.",
-            "m_c and r_c had a great time on a patrol."
+            "m_c и r_c вместе освистали? другое Племя на Сходе.",  
+            "m_c и r_c отлично сработались в патруле.",  
+            "Когда m_c и r_c возвращаются с патруля,то ведут себя миролюбивее обычного.",  
+            "m_c и r_c совместно защищали своё Племя на Сходе.",  
+            "m_c и r_c прекрасно провели время в патруле."
         ],
         "reaction_random_cat": {
             "dislike": "decrease"

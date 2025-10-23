@@ -3,34 +3,34 @@
         "id": "comfort_inc_low1",
         "intensity": "low",
         "interactions": [
-            "m_c finds a bit of fluff that smells like r_c and adds it to {PRONOUN\/m_c\/poss} nest.",
-            "m_c has a friendly chat with r_c that leaves them both feeling happy.",
-            "r_c's laugh reminds m_c of someone {PRONOUN\/m_c\/subject} {VERB\/m_c\/miss\/misses}.",
-            "m_c overhears r_c humming a comforting tune.",
-            "r_c brought m_c some dry bedding.",
-            "r_c lets m_c grab a piece of fresh-kill first.",
-            "m_c had a good dream about r_c.",
-            "m_c remembers something nice that r_c did.",
-            "m_c sees a pretty flower in r_c's nest.",
-            "m_c heard a story about something kind r_c did."
+            "m_c находит клочок шерсти, пахнущий r_c, и добавляет его в {PRONOUN/m_c/poss} гнездо.",  
+            "m_c дружески беседует с r_c, и оба чувствуют себя счастливыми.",  
+            "Смех r_c напоминает m_c о том, по кому {PRONOUN/m_c/subject} скучает.",  
+            "m_c подслушивает, как r_c напевает успокаивающую мелодию.",  
+            "r_c принёс(ла) m_c сухую подстилку.",  
+            "r_c позволяет m_c взять кусок свежей добычи первым.",  
+            "m_c видел(а) хороший сон о r_c.",  
+            "m_c вспоминает что-то приятное, что сделал(а) r_c.",  
+            "m_c видит красивый цветок в гнезде r_c.",  
+            "m_c услышал(а) историю о добром поступке r_c."  
         ]
     },
     {
         "id": "comfort_inc_low2",
         "intensity": "low",
         "interactions": [
-            "m_c quickly apologizes after bumping into r_c. They have a small laugh about it.",
-            "m_c has been spending time with r_c lately.",
-            "m_c shares a joke about a neighboring Clan with r_c.",
-            "m_c reassures r_c about something that was bothering {PRONOUN\/r_c\/object}.",
-            "m_c likes to sit near r_c during conversations.",
-            "m_c and r_c often look at each other and smile knowingly about something.",
-            "m_c and r_c enjoy the rain together.",
-            "r_c gives advice to m_c. It's not good advice, but m_c appreciates the effort.",
-            "r_c gives m_c something that {PRONOUN\/m_c\/subject} dropped.",
-            "m_c learns that r_c is scared of thunder, too.",
-            "m_c and r_c drink from the same puddle.",
-            "m_c and r_c make each other laugh."
+            "m_c быстро извиняется, столкнувшись с r_c. Они немного посмеялись над этим.",  
+            "m_c проводит время с r_c в последнее время.",  
+            "m_c делится с r_c шуткой о соседнем Племени.",  
+            "m_c успокаивает r_c насчёт того, что беспокоило {PRONOUN/r_c/object}.",  
+            "m_c любит сидеть рядом с r_c во время разговоров.",  
+            "m_c и r_c часто смотрят друг на друга и понимающе улыбаются из-за чего-то.",  
+            "m_c и r_c наслаждаются дождём вместе.",  
+            "r_c даёт совет m_c. Это не самый удачный совет, но m_c ценит старания.",  
+            "r_c возвращает m_c то, что {PRONOUN/m_c/subject} уронил(а).",  
+            "m_c узнаёт, что r_c тоже боится грома.",  
+            "m_c и r_c пьют из одной лужи.",  
+            "m_c и r_c смешат друг друга."  
         ],
         "reaction_random_cat": {
             "comfortable": "increase"
@@ -40,12 +40,12 @@
         "id": "comfort_inc_low3",
         "intensity": "low",
         "interactions": [
-            "m_c is asking r_c to check {PRONOUN\/m_c\/object} for ticks.",
-            "m_c tells r_c stories about former Clanmates while being checked for ticks.",
-            "m_c appreciates r_c's diligence when checking {PRONOUN\/m_c\/object} for ticks.",
-            "r_c knows just the right herb to soothe m_c's aching bones.",
-            "r_c is always so patient when m_c approaches {PRONOUN\/r_c\/object} with pain.",
-            "m_c is happy to see r_c is the cat who is helping {PRONOUN\/m_c\/object} today."
+            "m_c просит r_c проверить {PRONOUN/m_c/object} на клещей.",  
+            "m_c рассказывает r_c истории о бывших соплеменниках, пока {PRONOUN/m_c/subject} проверяют на клещей.",  
+            "m_c ценит старательность r_c, когда {PRONOUN/m_c/object} проверяют на клещей.",  
+            "r_c знает нужную траву, чтобы успокоить ноющие кости m_c.",  
+            "r_c всегда так терпелив(а), когда m_c обращается к {PRONOUN/r_c/object} с болью.",  
+            "m_c рад(а) видеть, что r_c — это кот, который помогает {PRONOUN/m_c/object} сегодня."  
         ],
         "main_status_constraint": [
             "elder"
@@ -59,35 +59,35 @@
     {
         "id": "comfort_inc_med1",
         "interactions": [
-            "r_c helps m_c pick burrs out of {PRONOUN\/m_c\/poss} fur.",
-            "m_c notices that r_c brought {PRONOUN\/m_c\/object} a big piece of prey.",
-            "r_c is the only one who gets m_c's joke.",
-            "m_c overhears something about r_c that {PRONOUN\/m_c\/subject} can relate to.",
-            "m_c calms down when realizing r_c is nearby.",
-            "r_c's advice is more helpful than m_c expected.",
-            "r_c motivates m_c to do something difficult.",
-            "r_c doesn't laugh when m_c does something embarrassing.",
-            "r_c doesn't judge m_c for being anxious about a bad dream.",
-            "When m_c gets hurt, r_c is the first to ask if {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} okay.",
-            "An issue becomes benign when m_c remembers r_c's advice."
+            "r_c помогает m_c вытаскивать репейники из {PRONOUN/m_c/poss} шерсти.",  
+            "m_c замечает, что r_c принёс(ла) {PRONOUN/m_c/object} большой кусок добычи.",  
+            "r_c — единственный(ая), кто понимает шутки m_c.",  
+            "m_c подслушивает что-то о r_c, с чем {PRONOUN/m_c/subject} может согласиться.",  
+            "m_c успокаивается, осознав, что r_c рядом.",  
+            "Совет r_c оказался полезнее, чем m_c ожидал(а).",  
+            "r_c мотивирует m_c сделать что-то сложное.",  
+            "r_c не смеётся, когда m_c делает что-то неловкое.",  
+            "r_c не осуждает m_c за беспокойство из-за плохого сна.",  
+            "Когда m_c получает травму, r_c первым(ой) спрашивает  в порядке ли {PRONOUN/m_c/subject}.",  
+            "Проблема становится менее острой, когда m_c вспоминает совет r_c."  
         ]
     },
     {
         "id": "comfort_inc_med2",
         "interactions": [
-            "m_c has snuggled up against r_c.",
-            "m_c chats with r_c about {PRONOUN\/r_c\/poss} day.",
-            "m_c basks in the sun with r_c.",
-            "m_c just told r_c a hilarious joke.",
-            "m_c settles near r_c to eat {PRONOUN\/m_c\/poss} fresh-kill.",
-            "m_c bumps heads with r_c reassuringly.",
-            "r_c gently woke up m_c this morning.",
-            "m_c does something brave with r_c's support.",
-            "m_c and r_c cuddle during a storm.",
-            "r_c saves the funniest jokes for m_c.",
-            "m_c and r_c perk up happily when they see each other.",
-            "The Clan hears m_c and r_c laughing together across the camp.",
-            "m_c and r_c share little secrets about themselves."
+            "m_c прижался(ась) к r_c.",  
+            "m_c болтает с r_c о {PRONOUN/r_c/poss} дне.",  
+            "m_c греется на солнце с r_c.",  
+            "m_c только что рассказал(а) r_c очень смешную шутку.",  
+            "m_c устраивается рядом с r_c, чтобы съесть {PRONOUN/m_c/poss} свежую добычу.",  
+            "m_c успокаивающе сталкивается лбом с r_c.",  
+            "r_c нежно разбудил(а) m_c сегодня утром.",  
+            "m_c совершает что-то смелое с поддержкой r_c.",  
+            "m_c и r_c прижимаются друг к другу во время бури.",  
+            "r_c приберегает самые смешные шутки для m_c.",  
+            "m_c и r_c оживляются от радости, когда видят друг друга.",  
+            "Племя слышит, как m_c и r_c смеются вместе на весь лагерь.",  
+            "m_c и r_c делятся маленькими секретами о себе."  
         ],
         "reaction_random_cat": {
             "comfortable": "increase"
@@ -96,18 +96,18 @@
     {
         "id": "comfort_inc_med3",
         "interactions": [
-            "m_c is sharing the latest gossip {PRONOUN\/m_c\/subject} heard over the border with r_c.",
-            "m_c tells r_c {PRONOUN\/m_c\/subject}'ll save {PRONOUN\/r_c\/object} a piece of fresh-kill.",
-            "m_c playfully teases r_c for missing a catch.",
-            "m_c gives r_c some feathers from the bird {PRONOUN\/m_c\/subject} caught to line {PRONOUN\/r_c\/poss} nest.",
-            "m_c runs to greet r_c when {PRONOUN\/r_c\/subject} {VERB\/r_c\/return\/returns} from a patrol.",
-            "m_c asks to be on a patrol with r_c.",
-            "m_c and r_c saw something hilarious during a patrol and can't stop giggling about it.",
-            "The Clan notices m_c and r_c share patrols more often.",
-            "During a hunting patrol, m_c and r_c share a piece of prey that is too small to bring back to camp.",
-            "m_c and r_c mark the same spot of the border as a sign of friendship. Gross.",
-            "m_c and r_c get a little giggly off of some mysterious herbs they found on a patrol.",
-            "m_c is delighted to be working with r_c today."
+            "m_c делится последними сплетнями с r_c, которые {PRONOUN/m_c/subject} услышал(а) за границей.",  
+            "m_c говорит r_c, что {PRONOUN/m_c/subject} прибережёт кусок свежей добычи для {PRONOUN/r_c/object}.",  
+            "m_c игриво дразнит r_c за промах на охоте.",  
+            "m_c даёт r_c перья птицы, которую {PRONOUN/m_c/subject} поймал(а), чтобы выстелить гнездо r_c.",  
+            "m_c бежит поприветствовать r_c, когда {PRONOUN/r_c/subject} возвращается с патруля.",  
+            "m_c просит включить {PRONOUN/m_c/object} в патруль с r_c.",  
+            "m_c и r_c увидели что-то смешное во время патруля и не могут перестать хихикать над этим.",  
+            "Племя замечает, что m_c и r_c чаще вместе патрулируют.",  
+            "Во время охотничьего патруля m_c и r_c делятся кусочком добычи, который слишком мал, чтобы нести в лагерь.",  
+            "m_c и r_c метят одно и то же место на границе как знак дружбы. Фю.",  
+            "m_c и r_c слегка хихикают из-за странных трав, найденных на патруле.",  
+            "m_c рад(а) работать сегодня с r_c."  
         ],
         "main_status_constraint": [
             "apprentice",
@@ -128,12 +128,12 @@
     {
         "id": "comfort_inc_med4",
         "interactions": [
-            "r_c is listening to m_c's woes.",
-            "r_c is listening to m_c's troubles.",
-            "r_c always knows what to say to comfort m_c.",
-            "m_c is surprised that r_c is so quick to comfort {PRONOUN\/m_c\/object}.",
-            "m_c is comforted by how intently r_c listens to {PRONOUN\/m_c\/object} complaints.",
-            "r_c noticed m_c was struggling, and offered to help {PRONOUN\/m_c\/object}."
+            "r_c слушает печали m_c.",  
+            "r_c слушает проблемы m_c.",  
+            "r_c всегда знает, что сказать, чтобы утешить m_c.",  
+            "m_c удивлен(а), что r_c так быстро утешает {PRONOUN/m_c/object}.",  
+            "m_c успокаивается, видя, как внимательно r_c слушает {PRONOUN/m_c/object} жалобы.",  
+            "r_c заметил(а), что m_c трудно, и предложил(а) помочь {PRONOUN/m_c/object}."  
         ],
         "random_trait_constraint": [
             "compassionate",
@@ -144,13 +144,13 @@
     {
         "id": "comfort_inc_med5",
         "interactions": [
-            "r_c gave m_c {PRONOUN\/m_c\/poss} favorite piece of prey.",
-            "r_c is being quite considerate with m_c.",
-            "r_c took time out of {PRONOUN\/r_c\/poss} day to help m_c with a difficult task.",
-            "r_c saved extra nest bedding for m_c.",
-            "r_c brought m_c and other Clanmates warm bedding for a cold night.",
-            "r_c complimented m_c on something nobody else did.",
-            "r_c took the time to help m_c work through a technique {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is} struggling with."
+            "r_c дал(а) m_c {PRONOUN/m_c/poss} любимый кусок добычи.",  
+            "r_c проявляет заботу к m_c.",  
+            "r_c выделил(а) время из своего дня, чтобы помочь m_c с трудной задачей.",  
+            "r_c сохранил(а) дополнительную подстилку для m_c.",  
+            "r_c принёс(ла) m_c и другим соплеменникам тёплую подстилку на холодную ночь.",  
+            "r_c похвалил(а) m_c за то, что никто другой не оценил.",  
+            "r_c потратил(а) время, чтобы помочь m_c освоить технику, с которой {PRONOUN/m_c/subject} {VERB/m_c/борется/борются}."
         ],
         "random_trait_constraint": [
             "thoughtful"
@@ -159,13 +159,13 @@
     {
         "id": "comfort_inc_med6",
         "interactions": [
-            "r_c curled around m_c to share warmth.",
-            "r_c lets m_c have the last piece of fresh-kill.",
-            "r_c is listening to m_c's problems.",
-            "r_c complimented m_c on something nobody else did.",
-            "r_c gives m_c the coziest piece of nest material {PRONOUN\/r_c\/subject} {VERB\/r_c\/have\/has}.",
-            "m_c likes something r_c has, so r_c tells {PRONOUN\/m_c\/object} to keep it.",
-            "r_c gives m_c an item {PRONOUN\/m_c\/subject} may like."
+            "r_c свернулся(лась) вокруг m_c, чтобы согреть {PRONOUN/m_c/object}.",  
+            "r_c позволяет m_c взять последний кусок свежей добычи.",  
+            "r_c слушает проблемы m_c.",  
+            "r_c похвалил(а) m_c за то, что никто другой не заметил.",  
+            "r_c даёт m_c самый уютный материал для гнезда, который у {PRONOUN/r_c/subject} есть.",  
+            "m_c понравилось что-то из вещей r_c, и {PRONOUN/r_c/subject} разрешает {PRONOUN/m_c/object} оставить это себе.",  
+            "r_c дарит m_c предмет, который {PRONOUN/m_c/subject} может понравиться."  
         ],
         "random_trait_constraint": [
             "compassionate"
@@ -174,12 +174,12 @@
     {
         "id": "comfort_inc_med7",
         "interactions": [
-            "m_c is watching the shooting stars with r_c.",
-            "r_c calmly explains hunting techniques to m_c again for the fourth time today.",
-            "r_c lets m_c cry on {PRONOUN\/r_c\/subject} for a while.",
-            "r_c stays with m_c until {PRONOUN\/m_c\/subject} fall asleep.",
-            "As m_c tells r_c a long story, {PRONOUN\/r_c\/subject} {VERB\/r_c\/ask\/asks} interesting, engaged questions.",
-            "r_c helps m_c with a tedious task and it makes the whole day a lot easier."
+            "m_c наблюдает за падающими звёздами вместе с r_c.",  
+            "r_c спокойно объясняет m_c охотничьи техники уже в четвёртый раз за сегодня.",  
+            "r_c позволяет m_c поплакать на {PRONOUN/r_c/subject} какое-то время.",  
+            "r_c остаётся с m_c, пока {PRONOUN/m_c/subject} не заснёт.",  
+            "Пока m_c рассказывает r_c длинную историю, {PRONOUN/r_c/subject} задаёт интересные, увлечённые вопросы.",  
+            "r_c помогает m_c с утомительной задачей, и это делает день намного легче."  
         ],
         "random_trait_constraint": [
             "calm"
@@ -188,9 +188,9 @@
     {
         "id": "comfortable_kit_inc_med1",
         "interactions": [
-            "m_c wants to snuggle with r_c.",
-            "m_c lets r_c groom {PRONOUN\/m_c\/object} messy fur.",
-            "r_c teaches m_c how to eat politely."
+            "m_c хочет прижаться к r_c.",  
+            "m_c позволяет r_c привести в порядок {PRONOUN/m_c/object} растрёпанную шерсть.",  
+            "r_c учит m_c, как есть аккуратно."  
         ],
         "main_status_constraint": [
             "kitten"
@@ -199,11 +199,11 @@
     {
         "id": "comfortable_kit_inc_med2",
         "interactions": [
-            "m_c wants to snuggle with r_c.",
-            "m_c hides somewhere with r_c, giggling together about something.",
-            "r_c lets m_c stalk {PRONOUN\/r_c\/poss} tail, pretending not to see {PRONOUN\/m_c\/object}.",
-            "m_c mimics some of the training techniques r_c is doing.",
-            "m_c is hiding under a bush from r_c, but {PRONOUN\/m_c\/subject} can't stop giggling."
+            "m_c хочет прижаться к r_c.",  
+            "m_c прячется где-то с r_c, хихикая вместе над чем-то.",  
+            "r_c позволяет m_c преследовать {PRONOUN/r_c/poss} хвост, притворяясь, что не видит {PRONOUN/m_c/object}.",  
+            "m_c копирует тренировочные техники, которые выполняет r_c.",  
+            "m_c прячется под кустом от r_c, но {PRONOUN/m_c/subject} не может перестать хихикать." 
         ],
         "main_status_constraint": [
             "kitten"
@@ -215,14 +215,14 @@
     {
         "id": "comfortable_kit_inc_med3",
         "interactions": [
-            "m_c spent the whole day playing {PRONOUN\/m_c\/poss} favorite games with r_c.",
-            "m_c had a friendly argument with r_c about which prey tastes the best.",
-            "m_c makes r_c {PRONOUN\/m_c\/poss} deputy in a game of KittenClan.",
-            "m_c and r_c play a prank on an older cat together.",
-            "The Clan looks all over for m_c and r_c and find out they have a secret hiding place.",
-            "m_c and r_c are playing KittenClan. r_c's dying of a hundred diseases, but m_c is the best medicine cat ever.",
-            "m_c and r_c spend the whole day playing hide-n-seek.",
-            "m_c takes a nap with r_c after a long day playing moss-ball."
+            "m_c провёл(а) весь день, играя в {PRONOUN/m_c/poss} любимые игры с r_c.",  
+            "m_c по-дружески поспорил(а) с r_c о том, какая добыча вкуснее.",  
+            "m_c назначает r_c {PRONOUN/m_c/poss} заместителем в игре в Племя Котят.",  
+            "m_c и r_c вместе разыгрывают старшего кота.",  
+            "Племя ищет m_c и r_c повсюду и обнаруживает их тайное укрытие.",  
+            "m_c и r_c играют в Племя Котят. r_c умирает от сотни болезней, но m_c — лучший целитель на свете.",  
+            "m_c и r_c провели весь день, играя в прятки.",  
+            "m_c вздремнул(а) с r_c после долгого дня игры в моховой мяч."  
         ],
         "main_status_constraint": [
             "kitten"
@@ -241,11 +241,11 @@
     {
         "id": "comfortable_kit_odd1",
         "interactions": [
-            "m_c chomps on r_c's ear.",
-            "m_c won't stop copying everything r_c does.",
-            "m_c asks r_c where kits come from.",
-            "m_c asks r_c innocent but invasive questions.",
-            "m_c is demanding r_c's attention."
+            "m_c грызёт ухо r_c.",  
+            "m_c не перестаёт копировать всё, что делает r_c.",  
+            "m_c спрашивает r_c, откуда берутся котята.",  
+            "m_c задаёт r_c наивные, но бесцеремонные вопросы.",  
+            "m_c требует внимания от r_c."  
         ],
         "main_status_constraint": [
             "kitten"
@@ -258,12 +258,12 @@
     {
         "id": "comfort_med_inc_medium1",
         "interactions": [
-            "m_c thanks r_c for checking when {PRONOUN\/r_c\/subject} {VERB\/r_c\/ask\/asks} if {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} feeling alright.",
-            "m_c drops into the medicine den to ask r_c if {PRONOUN\/r_c\/subject}{VERB\/r_c\/'ve\/'s} eaten yet.",
-            "m_c brings r_c a piece of fresh-kill after a long day of healing work.",
-            "m_c helps r_c fix nests in the medicine den.",
-            "m_c lets r_c vent to {PRONOUN\/m_c\/object} about the difficulties as a healer.",
-            "After a rough storm gets into the medicine den, m_c helps r_c pick up herbs."
+           "m_c благодарит r_c за заботу, когда {PRONOUN/r_c/subject} спрасил(а), как {PRONOUN/m_c/subject} себя чувствует(ют).",  
+           "m_c заходит в палатку целителя спросить r_c, ел(а,и) {PRONOUN/r_c/subject} уже.",  
+           "m_c приносит r_c кусок свежей добычи после долгого дня целительской работы.",  
+           "m_c помогает r_c чинить гнёзда в палатке целителя.",  
+           "m_c позволяет r_c выговориться {PRONOUN/m_c/object} о трудностях целителя.",  
+           "После того как сильный шторм навредил палатке целителя, m_c помогает r_c собрать травы."  
         ],
         "random_status_constraint": [
             "medicine cat",
@@ -278,31 +278,32 @@
         "id": "comfort_inc_high1",
         "intensity": "high",
         "interactions": [
-            "m_c appreciates how r_c always seems to ask how {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} doing.",
-            "r_c's words of comfort mean more to m_c than {PRONOUN\/r_c\/subject} {VERB\/r_c\/know\/knows}.",
-            "m_c gets excellent advice from r_c about something {PRONOUN\/m_c\/subject} had been worrying about.",
-            "r_c says something very sincere and comforting to m_c.",
-            "m_c can tell r_c worries about {PRONOUN\/m_c\/poss} health and safety.",
-            "m_c overhears r_c saying something nice about {PRONOUN\/m_c\/object}.",
-            "m_c has had a lot of good dreams about r_c lately.",
-            "Whenever r_c's name is mentioned, m_c relaxes.",
-            "m_c's Clanmates notice that {PRONOUN\/m_c\/subject} {VERB\/m_c\/talk\/talks} a lot about r_c.",
-            "r_c compliments m_c on something {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} self-conscious about.",
-            "m_c associates {PRONOUN\/m_c\/poss} favorite smell with r_c."
+            "m_c ценит, что r_c всегда интересуется, как {PRONOUN/m_c/subject} поживает(е).",  
+            "Утешительные слова r_c значат для m_c больше, чем {PRONOUN/r_c/subject} знает(ют).",  
+            "m_c получает отличный совет от r_c о том, что {PRONOUN/m_c/subject} так беспокоило.",  
+            "r_c говорит m_c что-то очень искреннее и утешительное.",  
+            "m_c замечает, что r_c беспокоится о {PRONOUN/m_c/poss} здоровье и безопасности.",  
+            "m_c подслушивает, как r_c говорит что-то хорошее о {PRONOUN/m_c/object}.",  
+            "В последнее время m_c часто видит хорошие сны о r_c.",  
+            "Когда упоминают имя r_c, m_c расслабляется.",  
+            "Соплеменники m_c замечают, что {PRONOUN/m_c/subject} много говорит(ят) о r_c.",  
+            "r_c хвалит m_c за то, о чём {PRONOUN/m_c/subject} стеснялся(ась)(ись).",  
+            "Любимый запах m_c напоминает {PRONOUN/m_c/self} о r_c."  
         ]
     },
     {
         "id": "comfort_inc_high2",
         "intensity": "high",
         "interactions": [
-            "m_c is sharing tongues with r_c.",
-            "m_c offers to groom a hard-to-reach place for r_c, who thanks {PRONOUN\/m_c\/object} earnestly.",
-            "m_c and r_c spend a few minutes complimenting one another.",
-            "m_c spends the day helping around the camp with r_c.",
-            "m_c and r_c gossip about drama nobody else knows.",
-            "m_c talks to r_c about a mutual friend they have both been worrying about.",
-            "m_c asks r_c to look at a little cut on {PRONOUN\/m_c\/poss} leg.",
-            "After something happens, m_c and r_c find comfort in one another's company."
+            "m_c вылизывает шерсть r_c.",  
+            "m_c предлагает ухаживать за труднодоступным местом r_c, который искренне благодарит {PRONOUN/m_c/object}.",  
+            "m_c и r_c проводят несколько минут, делая друг другу комплименты.",  
+            "m_c проводит день, помогая по лагерю с r_c.",  
+            "m_c и r_c сплетничают о драме, которую больше никто не знает.",  
+            "m_c говорит с r_c об общем друге, за которого оба беспокоятся.",  
+            "m_c просит r_c посмотреть на небольшую царапину на своей лапе.",  
+            "После происшествия m_c и r_c находят утешение в обществе друг друга."  
+
         ],
         "reaction_random_cat": {
             "comfortable": "increase"
@@ -311,14 +312,15 @@
     {
         "id": "comfort_inc_high3",
         "intensity": "high",
-        "interactions": [
-            "m_c feels most like {PRONOUN\/m_c\/self} when {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} around r_c.",
-            "m_c could recognize r_c just by the sound of {PRONOUN\/r_c\/poss} paw steps.",
-            "m_c finds peace in r_c's company where it can't be found anywhere else.",
-            "When m_c panics about something, {PRONOUN\/m_c\/subject} {VERB\/m_c\/think\/thinks} of r_c to feel better.",
-            "m_c wakes up r_c every morning so they're up together.",
-            "m_c and r_c share their prey with one another every day.",
-            "m_c and r_c have multiple inside jokes with one another."
+        "interactions": [  
+            "m_c чувствует себя наиболее собой, когда {PRONOUN/m_c/subject} находится(яться) рядом с r_c.",  
+            "m_c узнаёт r_c только по звуку {PRONOUN/r_c/poss} шагов.",  
+            "m_c обретает покой в обществе r_c, который не найти больше нигде.",  
+            "Когда m_c паникует, {PRONOUN/m_c/subject} думает(ют) о r_c, чтобы успокоиться.",  
+            "m_c будит r_c каждое утро, чтобы вставать вместе.",  
+            "m_c и r_c делятся добычей друг с другом каждый день.",  
+            "У m_c и r_c есть множество личных шуток, понятных только им."  
+
         ],
         "relationship_constraint": [
             "comfortable_30"
@@ -328,11 +330,11 @@
         "id": "comfort_inc_high4",
         "intensity": "high",
         "interactions": [
-            "m_c helps r_c work through something difficult that happened to {PRONOUN\/r_c\/object}.",
-            "m_c comforts r_c after a terrible nightmare.",
-            "When r_c gets sick for a few days, m_c brings {PRONOUN\/r_c\/object} yummy prey and nest bedding.",
-            "r_c knows secrets about m_c that {PRONOUN\/m_c\/subject} {VERB\/m_c\/haven't\/hasn't} told anyone else.",
-            "m_c always goes to r_c first when {PRONOUN\/m_c\/subject} needs advice."
+            "m_c помогает r_c пережить трудную ситуацию, случившуюся с {PRONOUN/r_c/object}.",  
+            "m_c утешает r_c после страшного кошмара.",  
+            "Когда r_c заболевает на несколько дней, m_c приносит {PRONOUN/r_c/object} вкусную еду и подстилку для гнезда.",  
+            "r_c знает секреты m_c, которые {PRONOUN/m_c/subject} не рассказывал(ла,ли) больше никому.",  
+            "m_c всегда в первую очередь обращается к r_c , когда {PRONOUN/m_c/subject} нуждается в совете."  
         ],
         "relationship_constraint": [
             "comfortable_30"

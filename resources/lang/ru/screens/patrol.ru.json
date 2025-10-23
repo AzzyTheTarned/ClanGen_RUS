@@ -1,6 +1,6 @@
 {
     "ru": {
-        "random_patrol": "случайный тип патруля",
+        "random_patrol": "случайный патруль",
         "training": "обучение",
         "hunting": "охота",
         "border": "граница",
@@ -8,11 +8,11 @@
         "choose_cats_info": "Выберите до шести кошек для патрулирования.\nМаленькие патрули помогают кошкам набраться опыта, но большие более безопасны.",
         "able_cats_label": "способные",
         "patrol_label": "патруль",
-        "select": "выберать",
+        "select": "выбрать",
         "unavailable": "недоступно",
         "skills_traits_label": "навыки и черты характера",
         "remove_all_label": "вернуть всех",
-        "go_on_patrol": "отправить патруль",
+        "go_on_patrol": "отправить",
         "current_prey": "сейчас еды: %{prey}",
         "needed_prey": "нужно еды: %{prey}",
         "label_patrol_info": "командир патруля: %{leader}\nчлены патруля: %{members}\nнавыки патруля: %{skills}\nчерты патруля: %{traits}",
@@ -21,7 +21,7 @@
         "dont_proceed": "не действовать",
         "antagonize": "Разозлить ",
         "patrol_again": "Следущий патруль",
-        "back_to_clan": "вернуться в племя",
+        "back_to_clan": "вернуться в Племя",
         "dead_outsider": {
             "one": "%{cats}'s ghost now wanders.",
             "many": "%{cats} ghosts now wander."

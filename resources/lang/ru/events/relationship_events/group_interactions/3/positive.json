@@ -4,8 +4,8 @@
         "cat_amount": 3,
         "intensity": "high",
         "interactions": [
-            "m_c is convincing r_c1 that r_c2 isn't so bad once you get to know {PRONOUN\/r_c2\/object}.",
-            "m_c chats with r_c1 about how r_c2 is a nice cat."
+            "m_c убеждает(ят) r_c1, что r_c2 не так уж плох(а), когда узнаешь {PRONOUN\/r_c2\/object} получше.",
+            "m_c болтает(ают) с r_c1 о том, какой r_c2 хороший(ая) кот(кошка)."
         ],
         "trait_constraint": {
             "m_c": [

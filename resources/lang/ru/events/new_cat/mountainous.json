@@ -8,7 +8,7 @@
             "any"
         ],
         "weight": 5,
-        "event_text": "m_c found an injured loner while out on a walk - clearly, {PRONOUN\/n_c:0\/subject}'d been attacked by an eagle. {PRONOUN\/m_c\/subject\/CAP} rushes {PRONOUN\/n_c:0\/object} back to camp to be treated.",
+        "event_text": "m_c нашёл(ла) раненого одиночку во время прогулки. Очевидно, на {PRONOUN/n_c:0/object} напал орёл. {PRONOUN/m_c/subject/CAP} спешно доставляет {PRONOUN/n_c:0/object} в лагерь для лечения.",
         "m_c": {
             "age": [
                 "young adult",
@@ -45,9 +45,9 @@
                 "cats": [
                     "n_c:0"
                 ],
-                "scar": "m_c was scarred after {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} dropped by an eagle.",
-                "reg_death": "m_c died after {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} dropped by an eagle.",
-                "lead_death": "died after {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} dropped by an eagle"
+                "scar": "m_c получил(а) шрам после того, как {PRONOUN/m_c/subject} был(ла,ли) сброшен(а) орлом.",
+                "reg_death": "m_c погиб(ла) после того, как {PRONOUN/m_c/subject} был(ла,ли)} сброшен(а) орлом.",
+                "lead_death": "погиб(ла) после того, как {PRONOUN/m_c/subject} был(ла,ли) сброшен(а) орлом"
             }
         ],
         "relationships": [
@@ -107,7 +107,7 @@
             "any"
         ],
         "weight": 5,
-        "event_text": "m_c finds a dead loner at the bottom of a cliff, near a litter of kittens. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/take\/takes} the poor kittens back to camp, where they're offered a place in the Clan.",
+        "event_text": "m_c находит мёртвого одиночку у подножия обрыва, рядом с выводком котят. {PRONOUN/m_c/subject/CAP} забрал бедных котят в лагерь, где им предлагают место в Племени.",
         "m_c": {
             "age": [
                 "young adult",

@@ -1,53 +1,53 @@
 {
     "high_romantic": {
         "m_c_mates": [
-            "After a talk with [m_c_mates], m_c confessed {PRONOUN\/m_c\/poss} feelings to r_c, and they have become mates.",
-            "After a talk with {PRONOUN\/m_c\/poss} (m_c_mate\/mates), m_c confessed {PRONOUN\/m_c\/poss} feelings to r_c, and they have become mates."
+            "После разговора с [m_c_mates], m_c признался(ась) r_c в {PRONOUN/m_c/poss} чувствах, и они стали парой.",
+            "После разговора с {PRONOUN/m_c/poss} (m_c_mate/mates), m_c признался(ась) r_c в {PRONOUN/m_c/poss} чувствах, и они стали парой."
         ],
         "r_c_mates": [
-            "m_c asked r_c out, after {PRONOUN\/r_c\/subject} talked with [r_c_mates]. m_c and r_c have become mates.",
-            "m_c asked r_c out, after r_c talked with {PRONOUN\/r_c\/poss} (r_c_mate\/mates). m_c and r_c have become mates."
+            "m_c пригласил(а) r_c стать парой, после того как {PRONOUN/r_c/subject} поговорил(а) с [r_c_mates]. m_c и r_c стали партнёрами.",
+            "m_c пригласил(а) r_c стать парой, после того как r_c поговорил(а) с {PRONOUN/r_c/poss} (r_c_mate/mates). m_c и r_c стали партнёрами."
         ],
         "both_mates": [
-            "m_c and r_c talked with their mates, and happily announced that m_c and r_c are now mates."
+            "m_c и r_c поговорили со своими партнёрами и с радостью объявили, что теперь они пара."
         ]
     },
     "low_romantic": {
         "m_c_mates": [
-            "After m_c talked about {PRONOUN\/m_c\/poss} feelings for r_c with [m_c_mates], m_c and r_c have become mates.",
-            "After m_c talked about {PRONOUN\/m_c\/poss} feelings for r_c with {PRONOUN\/m_c\/poss} (m_c_mate\/mates), m_c and r_c have become mates."
+            "После того как m_c поговорил(а) о {PRONOUN/m_c/poss} чувствах к r_c с [m_c_mates], m_c и r_c стали парой.",
+            "После того как m_c поговорил(а) о {PRONOUN/m_c/poss} чувствах к r_c с {PRONOUN/m_c/poss} (m_c_mate/mates), m_c и r_c стали парой."
         ],
         "r_c_mates": [
-            "After r_c talked with [r_c_mates] about {PRONOUN\/r_c\/poss} feelings for m_c, m_c and r_c have become mates.",
-            "After r_c talked with {PRONOUN\/r_c\/poss} (r_c_mate\/mates) about {PRONOUN\/r_c\/poss} feelings for m_c, m_c and r_c have become mates."
+            "После того как r_c поговорил(а) с [r_c_mates] о {PRONOUN/r_c/poss} чувствах к m_c, m_c и r_c стали парой.",
+            "После того как r_c поговорил(а) с {PRONOUN/r_c/poss} (r_c_mate/mates) о {PRONOUN/r_c/poss} чувствах к m_c, m_c и r_c стали парой."
         ],
         "both_mates": [
-            "m_c and r_c talked with their mates, and announced that they are now mates."
+            "m_c и r_c поговорили со своими партнёрами и объявили, что теперь они пара."
         ]
     },
     "platonic_to_romantic": {
         "m_c_mates": [
-            "m_c talked with [m_c_mates], that {PRONOUN\/m_c\/subject} {VERB\/m_c\/see\/sees} r_c in a different light, and m_c and r_c have become mates.",
-            "m_c talked with {PRONOUN\/m_c\/poss} (m_c_mate\/mates), that {PRONOUN\/m_c\/subject} {VERB\/m_c\/see\/sees} r_c in a different light, and m_c and r_c have become mates."
+            "m_c рассказал(а) [m_c_mates], что {PRONOUN/m_c/subject} {VERB/m_c/see/sees} r_c в новом свете, и m_c и r_c стали парой.",
+            "m_c рассказал(а) {PRONOUN/m_c/poss} (m_c_mate/mates), что {PRONOUN/m_c/subject} {VERB/m_c/see/sees} r_c в новом свете, и m_c и r_c стали парой."
         ],
         "r_c_mates": [
-            "m_c and r_c see each other in a different light; after r_c talked with [r_c_mates], m_c and r_c have become mates.",
-            "m_c and r_c see each other in a different light; after r_c talked with {PRONOUN\/r_c\/poss} (r_c_mate\/mates), they have become mates."
+            "m_c и r_c смотрят друг на друга по-новому; после того как r_c поговорил(а) с [r_c_mates], m_c и r_c стали парой.",
+            "m_c и r_c смотрят друг на друга по-новому; после того как r_c поговорил(а) с {PRONOUN/r_c/poss} (r_c_mate/mates), они стали парой."
         ],
         "both_mates": [
-            "m_c and r_c talked with their mates, and announced that they are now mates."
+            "m_c и r_c поговорили со своими партнёрами и объявили, что теперь они пара."
         ]
     },
     "rejected": {
         "m_c_mates": [
-            "After a talk with [m_c_mates], m_c confessed {PRONOUN\/m_c\/poss} feelings to r_c, but was rejected.",
-            "After a talk with {PRONOUN\/m_c\/poss} (m_c_mate\/mates), m_c confessed {PRONOUN\/m_c\/poss} feelings to r_c, but was rejected."
+            "После разговора с [m_c_mates], m_c признался(ась) r_c в {PRONOUN/m_c/poss} чувствах, но был(а) отвергнут(а).",
+            "После разговора с {PRONOUN/m_c/poss} (m_c_mate/mates), m_c признался(ась) r_c в {PRONOUN/m_c/poss} чувствах, но был(а) отвергнут(а)."
         ],
         "r_c_mates": [
-            "m_c confessed {PRONOUN\/m_c\/poss} feelings to r_c, but was rejected."
+            "m_c признался(ась) r_c в {PRONOUN/m_c/poss} чувствах, но был(а) отвергнут(а)."
         ],
         "both_mates": [
-            "m_c confessed {PRONOUN\/m_c\/poss} feelings to r_c, but was rejected."
+            "m_c признался(ась) r_c в {PRONOUN/m_c/poss} чувствах, но был(а) отвергнут(а)."
         ]
     }
 }

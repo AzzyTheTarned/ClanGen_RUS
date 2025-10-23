@@ -3,38 +3,38 @@
         "id": "admire_inc_low1",
         "intensity": "low",
         "interactions": [
-            "m_c saw r_c being considerate.",
-            "m_c noticed r_c is doing {PRONOUN\/r_c\/poss} best today.",
-            "m_c appreciates r_c's helpful attitude.",
-            "m_c was flattered by r_c's politeness this morning.",
-            "m_c is impressed by r_c helping others today.",
-            "m_c sees r_c help a Clanmate get unstuck from some brambles.",
-            "m_c notices that r_c is fixing a damaged part of the camp without being asked.",
-            "m_c sees a glimmer of determination in r_c's eyes.",
-            "m_c is motivated by r_c's big smile.",
-            "r_c's good morning to m_c meant a lot to {PRONOUN\/m_c\/object}.",
-            "When tucking in for the night, m_c saw that r_c fixed {PRONOUN\/m_c\/poss} nest.",
-            "After the Gathering, m_c notices that r_c is making sure everyone got home.",
-            "m_c can tell how brave r_c is being about something important.",
-            "m_c thinks r_c is a good singer."
+            "m_c заметил(а), что r_c проявляет заботу.",
+            "m_c увидел(а), что r_c сегодня выкладывается на полную.",
+            "m_c ценит доброжелательность r_c.",
+            "m_c польщён(а) вежливостью r_c сегодня утром.",
+            "m_c впечатлён(а), как r_c сегодня помогает другим.",
+            "m_c видел(а), как r_c вызволил(а) сородича из колючих зарослей.",
+            "m_c заметил(а), что r_c чинит повреждённую часть лагеря без напоминаний.",
+            "m_c увидел(а) искру решительности в глазах r_c.",
+            "m_c воодушевлён(а) широкой улыбкой r_c.",
+            "Для m_c утреннее приветствие r_c многое значило.",
+            "Перед сном m_c увидел(а), что r_c починил(а) {PRONOUN/m_c/poss} гнездо.",
+            "После Совета m_c заметил(а), что r_c проверяет, все ли вернулись в лагерь.",
+            "m_c видит, как храбро r_c справляется с чем-то важным.",
+            "m_c считает, что r_c хорошо поёт."
         ]
     },
     {
         "id": "admire_inc_low2",
         "intensity": "low",
         "interactions": [
-            "m_c mews congratulations to r_c for a job well done.",
-            "m_c thinks r_c is being thoughtful of others.",
-            "m_c approves of r_c's recent efforts.",
-            "r_c motivated m_c to get out of {PRONOUN\/m_c\/poss} nest this morning.",
-            "m_c and r_c spend the morning telling interesting stories.",
-            "r_c draws a pretty symbol in the sand that m_c makes sure not to mess up.",
-            "r_c helps m_c get a thorn out of {PRONOUN\/m_c\/poss} paw.",
-            "m_c and r_c find out they have the same favorite prey!",
-            "m_c and r_c come up with a catchy song together.",
-            "m_c listens to r_c's big plans for the day.",
-            "r_c points out to m_c that a spider is in {PRONOUN\/m_c\/poss} nest before {PRONOUN\/m_c\/subject} {VERB\/m_c\/sit\/sits} in it.",
-            "m_c and r_c work together to lead a scary bug out of the camp."
+            "m_c мяукнул(а) поздравление r_c за отличную работу.",
+            "m_c считает, что r_c заботится о других.",
+            "m_c одобряет недавние усилия r_c.",
+            "r_c вдохновил(а) m_c покинуть {PRONOUN/m_c/poss} гнездо этим утром.",
+            "m_c и r_c провели утро, рассказывая интересные истории.",
+            "r_c нарисовал(а) красивый символ на песке, и m_c старается его не испортить.",
+            "r_c помог(ла) m_c вытащить занозу из {PRONOUN/m_c/poss} лапы.",
+            "m_c и r_c узнали, что у них одинаковая любимая еда!",
+            "m_c и r_c вместе придумали запоминающуюся песню.",
+            "m_c слушает грандиозные планы r_c на день.",
+            "r_c предупредил(а) m_c, что в {PRONOUN/m_c/poss} гнезде паук, прежде чем {PRONOUN/m_c/subject} сел(а) на него.",
+            "m_c и r_c вместе вывели страшное насекомое из лагеря."
         ],
         "reaction_random_cat": {
             "admiration": "increase"
@@ -44,15 +44,15 @@
         "id": "admire_inc_low3",
         "intensity": "low",
         "interactions": [
-            "m_c wants to be just like r_c someday.",
-            "m_c really looks up to r_c!",
-            "m_c is awed by how much r_c has done for the Clan.",
-            "m_c is really impressed by all of r_c's accomplishments.",
-            "m_c wants to hold an important position like r_c.",
-            "m_c dreams about being like m_c in the future.",
-            "m_c works extra hard after seeing how skilled r_c is.",
-            "m_c tells {PRONOUN\/m_c\/poss} friend that r_c is {PRONOUN\/m_c\/poss} hero.",
-            "m_c daydreams about sharing a suffix with r_c."
+            "m_c мечтает стать таким же, как r_c, когда-нибудь.",
+            "m_c искренне восхищается r_c!",
+            "m_c поражён(а) тем, сколько r_c сделал(а) для Клана.",
+            "m_c очень впечатлён(а) всеми достижениями r_c.",
+            "m_c хочет занять важный пост, как у r_c.",
+            "m_c мечтает в будущем быть похожим(ей) на r_c.",
+            "m_c стал(а) усерднее трудиться, увидев, насколько r_c умел(а).",
+            "m_c говорит {PRONOUN/m_c/poss} другу, что r_c — {PRONOUN/m_c/poss} герой.",
+            "m_c мечтает, чтобы {PRONOUN/m_c/poss} имя имел общий суффикс, как у r_c."
         ],
         "main_status_constraint": [
             "apprentice",
@@ -70,33 +70,33 @@
     {
         "id": "admire_inc_medium1",
         "interactions": [
-            "m_c admires how brave r_c is.",
-            "m_c admires r_c's dedication.",
-            "m_c is impressed with r_c's willingness to help.",
-            "m_c notices that r_c is always one of the first to volunteer for a difficult task.",
-            "m_c notices how closely r_c sticks to {PRONOUN\/r_c\/poss} beliefs.",
-            "Some things have been rough for r_c lately, but m_c admires {PRONOUN\/r_c\/poss} willingness to go on.",
-            "During rough weather, r_c helps m_c get safely to {PRONOUN\/m_c\/poss} den.",
-            "m_c wasn't going to help a Clanmate, but realized that r_c would do it in a heartbeat.",
-            "m_c is inspired by r_c's passion.",
-            "m_c didn't know that r_c was so talented.",
-            "m_c thinks that r_c is very creative.",
-            "m_c is told about r_c's bravery during a recent time of struggle."
+            "m_c восхищается храбростью r_c.",
+            "m_c восхищается преданностью r_c.",
+            "m_c впечатлён(а) готовностью r_c помогать.",
+            "m_c замечает, что r_c всегда одним из первых вызывается на сложные задания.",
+            "m_c замечает, как твёрдо r_c придерживается {PRONOUN/r_c/poss} убеждений.",
+            "У r_c в последнее время были трудности, но m_c восхищается {PRONOUN/r_c/poss} стойкостью.",
+            "В непогоду r_c помогает m_c безопасно добраться до {PRONOUN/m_c/poss} логова.",
+            "m_c не собирался(лась) помогать соплеменнику, но понял(а), что r_c сделал(а) бы это без колебаний.",
+            "m_c вдохновлён(а) страстью r_c.",
+            "m_c не знал(а), что r_c такой талантливый(ая).",
+            "m_c считает, что r_c очень креативен(на).",
+            "m_c узнал(а) о храбрости r_c в недавней сложной ситуации."
         ]
     },
     {
         "id": "admire_inc_medium2",
         "interactions": [
-            "m_c is sparring with r_c.",
-            "m_c has a mock battle with r_c.",
-            "m_c learns a helpful skill from r_c.",
-            "m_c asks r_c to teach {PRONOUN\/m_c\/object} how to sing so well.",
-            "m_c and r_c have a race. m_c wins.",
-            "m_c and r_c have a race. r_c wins.",
-            "m_c and r_c debate about something interesting. They end up agreeing.",
-            "m_c and r_c debate about something interesting. Though they disagree, they stay amicable.",
-            "m_c and r_c repair some nests together.",
-            "m_c compliments r_c on {PRONOUN\/r_c\/poss} bravery today."
+            "m_c тренируется в бою с r_c.",
+            "m_c участвует в учебном бою с r_c.",
+            "m_c изучает полезный навык у r_c.",
+            "m_c просит r_c научить {PRONOUN/m_c/object} так хорошо петь.",
+            "m_c и r_c устраивают гонку. m_c побеждает.",
+            "m_c и r_c устраивают гонку. r_c побеждает.",
+            "m_c и r_c спорят о чём-то интересном. В итоге они приходят к согласию.",
+            "m_c и r_c спорят о чём-то интересном. Хотя они не согласны, они остаются дружелюбными.",
+            "m_c и r_c вместе чинят гнёзда.",
+            "m_c хвалит r_c за {PRONOUN/r_c/poss} храбрость сегодня."
         ],
         "reaction_random_cat": {
             "admiration": "increase"
@@ -105,19 +105,19 @@
     {
         "id": "admire_med_inc_medium1",
         "interactions": [
-            "m_c watched r_c show kindness and compassion towards {PRONOUN\/r_c\/poss} patients.",
-            "m_c caught a glimpse of r_c caring for a wounded warrior with confidence and grace.",
-            "m_c spent some time hanging out with r_c in the medicine den.",
-            "m_c hopes r_c knows how grateful {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is} to have {PRONOUN\/r_c\/object} as a medicine cat.",
-            "m_c listens to r_c talk about herbs and healing methods with awe.",
-            "m_c sees the skill with which r_c heals a Clanmate.",
-            "m_c is surprised by how quickly r_c can heal a Clanmate.",
-            "m_c asks r_c about prophecies and they have a long chat.",
-            "m_c finds comfort in the quiet of r_c's medicine den.",
-            "m_c is thankful for r_c's patience.",
-            "r_c soothes m_c about a bad dream {PRONOUN\/m_c\/subject} had.",
-            "Despite m_c being a bit dramatic about the thorn in {PRONOUN\/m_c\/poss} paw, r_c treats {PRONOUN\/m_c\/object} gently.",
-            "m_c went to r_c for advice about a dream {PRONOUN\/m_c\/subject} had."
+               "m_c видел(а), как r_c проявляет доброту и сострадание к {PRONOUN/r_c/poss} пациентам.",
+    "m_c мельком увидел(а), как r_c ухаживает за раненым воином с уверенностью и изяществом.",
+    "m_c провёл(а) время с r_c у Целителя.",
+    "m_c надеется, что r_c знает, как {PRONOUN/m_c/subject} благодарен(на) иметь {PRONOUN/r_c/object} в качестве целителя.",
+    "m_c с восхищением слушает, как r_c рассказывает о травах и методах лечения.",
+    "m_c видит мастерство, с которым r_c лечит соплеменника.",
+    "m_c удивлён(а), как быстро r_c может вылечить соплеменника.",
+    "m_c спрашивает r_c о пророчествах, и они долго беседуют.",
+    "m_c находит утешение в тишине у Целителя.",
+    "m_c благодарен(а) за терпение r_c.",
+    "r_c успокаивает m_c после кошмара, который {PRONOUN/m_c/subject} видел(а).",
+    "Несмотря на то, что m_c драматизирует из-за занозы в лапе, r_c обращается с {PRONOUN/m_c/object} бережно.",
+    "m_c обратился(лась) к r_c за советом насчёт сна, который {PRONOUN/m_c/subject} видел(а)."
         ],
         "random_status_constraint": [
             "medicine cat",
@@ -132,14 +132,14 @@
     {
         "id": "admire_med_inc_med2",
         "interactions": [
-            "m_c escorted r_c so {PRONOUN\/r_c\/subject} could gather herbs.",
-            "m_c thought of r_c on the last patrol and brought a herb back with {PRONOUN\/m_c\/object}.",
-            "m_c notices that r_c is trying really hard to be a great medicine cat.",
-            "m_c is suddenly struck by the thought of how much r_c does to keep the Clan healthy.",
-            "m_c thanks r_c for keeping the Clan healthy.",
-            "m_c watches r_c sort herbs as {PRONOUN\/m_c\/subject} {VERB\/m_c\/chat\/chats} about how {PRONOUN\/r_c\/poss} day has gone.",
-            "m_c lets r_c know that {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} about to go out and asks if {PRONOUN\/m_c\/subject} {VERB\/m_c\/need\/needs} to watch for any herbs.",
-            "m_c asks r_c if there's any herbs {PRONOUN\/m_c\/subject} should look out for while {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} out on patrol later."
+            "m_c сопровождал(а) r_c, чтобы {PRONOUN/r_c/subject} мог(ла) собрать лечебные травы.",
+            "m_c вспомнил(а) о r_c во время последнего патруля и принёс(ла) траву с {PRONOUN/m_c/object}.",
+            "m_c замечает, как r_c очень старается стать отличным целителем.",
+            "m_c внезапно осознал(а), как много r_c делает для здоровья Племени.",
+            "m_c благодарит r_c за то, что {PRONOUN/r_c/subject} поддерживает здоровье Племени.",
+            "m_c наблюдает, как r_c сортирует травы, пока {PRONOUN/m_c/subject} болтает о том, как прошёл {PRONOUN/r_c/poss} день.",
+            "m_c сообщает r_c, что {PRONOUN/m_c/subject} собирается выйти и спрашивает, не нужно ли {PRONOUN/m_c/subject} ??? за травами.",
+            "m_c спрашивает r_c, есть ли травы, на которые {PRONOUN/m_c/subject} должен(на) обратить внимание во время патруля."        
         ],
         "main_status_constraint": [
             "apprentice",
@@ -159,18 +159,18 @@
     {
         "id": "admiration_kit_inc_med1",
         "interactions": [
-            "m_c wants to become just like r_c someday!",
-            "m_c is pretending to be r_c.",
-            "m_c always wants to play as r_c in {PRONOUN\/m_c\/poss} games of pretend.",
-            "r_c soothes m_c during a scary storm.",
-            "r_c brings m_c the biggest moss-ball ever!",
-            "m_c can't believe all the stories about r_c are real.",
-            "m_c has a big smile whenever r_c comes around.",
-            "m_c believes everything r_c says.",
-            "m_c tries to tell jokes as funny as r_c's, but they make little sense.",
-            "r_c lets m_c make a wish on a shooting star, even though {PRONOUN\/r_c\/subject} saw it first.",
-            "r_c shows m_c that bugs aren't that scary.",
-            "m_c always looks at r_c with wonder."
+            "m_c мечтает стать таким же, как r_c, когда-нибудь!",
+            "m_c притворяется r_c.",
+            "m_c всегда хочет играть за r_c в {PRONOUN/m_c/poss} играх понарошку.",
+            "r_c успокаивает m_c во время страшной грозы.",
+            "r_c приносит m_c самый большой мховой шар на свете!",
+            "m_c не верит, что все истории о r_c правдивы.",
+            "m_c улыбается во весь рот, когда появляется r_c.",
+            "m_c верит каждому слову r_c.",
+            "m_c пытается шутить так же смешно, как r_c, но шутки получаются несвязными.",
+            "r_c позволяет m_c загадать желание на падающую звезду, хотя {PRONOUN/r_c/subject} заметил(а) её первым(ой).",
+            "r_c показывает m_c, что жуки не так уж страшны.",
+            "m_c всегда смотрит на r_c с восхищением."
         ],
         "main_status_constraint": [
             "kitten"
@@ -190,10 +190,10 @@
     {
         "id": "admiration_kit_inc_med2",
         "interactions": [
-            "m_c tells r_c that {PRONOUN\/m_c\/subject} would like to be like {PRONOUN\/r_c\/object} when {PRONOUN\/m_c\/subject} grows up.",
-            "m_c can't believe r_c is real and that cool.",
-            "When r_c compliments m_c, m_c doesn't stop talking about it for days.",
-            "m_c does anything {PRONOUN\/m_c\/subject} can to make r_c proud."
+            "m_c говорит r_c, что хочет стать таким(ой) же, как {PRONOUN/r_c/object}, когда вырастет.",
+            "m_c не может поверить, что r_c реальный(ая) и такой(ая) крутой(ая)!",
+            "Когда r_c хвалит m_c, {PRONOUN/m_c/subject} не замолкает об этом днями.",
+            "m_c делает всё, что может, чтобы r_c гордился(лась)."
         ],
         "main_status_constraint": [
             "kitten"
@@ -219,16 +219,16 @@
     {
         "id": "admire_adult_inc_med1",
         "interactions": [
-            "m_c is feeling proud of r_c.",
-            "m_c is watching r_c perform an almost-decent hunting crouch.",
-            "m_c is wowed by how well r_c did today!",
-            "m_c is impressed with r_c's progress.",
-            "m_c can see great potential in r_c and is excited to see {PRONOUN\/r_c\/object} become an adult.",
-            "m_c remembers being like r_c and is impressed by {PRONOUN\/r_c\/poss} talent.",
-            "m_c thinks that r_c is so young, but so brave.",
-            "When talking with r_c about {PRONOUN\/r_c\/poss} future, m_c sees {PRONOUN\/r_c\/poss} passion.",
-            "m_c thinks that r_c will grow up to be an excellent member of the Clan.",
-            "m_c thinks r_c has a bright future ahead of {PRONOUN\/r_c\/object}."
+            "m_c гордится r_c.",
+            "m_c наблюдает, как r_c демонстрирует ?почти хорошую? охотничью стойку.",
+            "m_c восхищён(а) тем, как хорошо r_c сегодня справился(лась)!",
+            "m_c впечатлён(а) прогрессом r_c.",
+            "m_c видит большой потенциал в r_c и с нетерпением ждёт, когда {PRONOUN/r_c/object} станет взрослей.",
+            "m_c вспоминает, что был(а) таким же, как r_c, и впечатлён(а) {PRONOUN/r_c/poss} талантом.",
+            "m_c считает, что r_c такой молодой, но такой храбрый(ая).",
+            "Когда m_c говорит с r_c о {PRONOUN/r_c/poss} будущем, {PRONOUN/m_c/subject} видит {PRONOUN/r_c/poss} страсть.",
+            "m_c считает, что r_c вырастет прекрасным членом Племени.",
+            "m_c уверен(а), что r_c ждёт яркое будущее."
         ],
         "relationship_constraint": [
             "admiration_30"
@@ -251,13 +251,13 @@
     {
         "id": "admire_adult_odd_med1",
         "interactions": [
-            "m_c feels like {PRONOUN\/m_c\/subject}'ll never accomplish as much as r_c.",
-            "m_c wonders if {PRONOUN\/m_c\/subject} can ever be as good as r_c.",
-            "m_c strives to catch up to r_c's success.",
-            "m_c can't imagine being as talented as r_c was in {PRONOUN\/r_c\/poss} youth.",
-            "m_c wants to tell stories as well as r_c.",
-            "m_c listens to r_c's fascinating life stories with envy and intrigue.",
-            "m_c hopes to leave behind a legacy like r_c."
+            "m_c чувствует, что {PRONOUN/m_c/subject} никогда не достигнет таких же высот, как r_c.",
+            "m_c задаётся вопросом, сможет ли {PRONOUN/m_c/subject} когда-нибудь сравниться с r_c.",
+            "m_c изо всех сил старается догнать успехи r_c.",
+            "m_c не может представить, как быть таким же талантливым(ой), как r_c в {PRONOUN/r_c/poss} молодости.",
+            "m_c хочет рассказывать истории так же мастерски, как r_c.",
+            "m_c слушает увлекательные истории из жизни r_c с завистью и интересом.",
+            "m_c мечтает оставить после себя наследие, подобно r_c."        
         ],
         "relationship_constraint": [
             "admiration_30"
@@ -283,12 +283,12 @@
     {
         "id": "admire_adult_odd_med1",
         "interactions": [
-            "m_c thinks r_c is so much braver than {PRONOUN\/m_c\/object}.",
-            "If it were a life-or-death situation, m_c thinks that r_c should be saved first.",
-            "m_c thinks about how to be more like r_c.",
-            "m_c tries to groom {PRONOUN\/m_c\/poss} pelt the same way r_c does.",
-            "m_c can barely keep up with r_c.",
-            "m_c feels like r_c is more accomplished than {PRONOUN\/m_c\/object}."
+            "m_c считает, что r_c намного смелее, чем {PRONOUN/m_c/object}.",
+            "Если бы речь шла о жизни и смерти, m_c полагает, что r_c нужно спасти первым(ой).",
+            "m_c размышляет, как стать больше похожим(ей) на r_c.",
+            "m_c пытается ухаживать за {PRONOUN/m_c/poss} шерстью так же, как это делает r_c.",
+            "m_c едва успевает за r_c.",
+            "m_c чувствует, что r_c достиг(ла) большего, чем {PRONOUN/m_c/object}."
         ],
         "relationship_constraint": [
             "admiration_60"
@@ -316,14 +316,14 @@
         "id": "admire_inc_high1",
         "intensity": "high",
         "interactions": [
-            "m_c saw r_c show off a skill {PRONOUN\/m_c\/subject} never knew {PRONOUN\/r_c\/subject} had.",
-            "m_c is wowed by how bravely r_c fought the other day.",
-            "m_c is impressed by r_c's competence in any situation.",
-            "m_c is amazed at how skilled r_c really is.",
-            "m_c overhears r_c educating Clanmates about their fallen ancestors.",
-            "m_c thinks the Clan's ancestors smile upon r_c.",
-            "m_c is proud to be in the same Clan as r_c.",
-            "m_c can't believe how talented r_c is!"
+            "m_c видел(а), как r_c продемонстрировал(а) навык, о котором {PRONOUN/m_c/subject} даже не подозревал(а).",
+            "m_c поражён(а) тем, как храбро r_c сражался(лась) на днях.",
+            "m_c впечатлён(а) умением r_c справляться с любыми ситуациями.",
+            "m_c поражает, насколько r_c на самом деле умел(а).",
+            "m_c подслушал(а), как r_c рассказывает соплеменникам об умерших предках.",
+            "m_c считает, что предки Племени благоволят r_c.",
+            "m_c гордится тем, что живёт в том же Племени, что и r_c.",
+            "m_c не может поверить, насколько r_c талантлив(а)!"
         ],
         "random_status_constraint": [
             "warrior",
@@ -339,18 +339,18 @@
         "id": "admire_inc_high2",
         "intensity": "high",
         "interactions": [
-            "m_c had a difficult conversation with r_c and they now have a deeper understanding of each other.",
-            "m_c and r_c have a long discussion about goals and aspirations, and find that they both have a lot in common.",
-            "m_c spent a long time talking with r_c and was impressed by r_c's insight.",
-            "m_c and r_c debated something interesting for hours yesterday.",
-            "m_c asks r_c about something complicated and is amazed at how quickly r_c understands.",
-            "m_c and r_c strive to be like one another.",
-            "m_c and r_c learn a lot about each other when they're stuck in a den during a storm.",
-            "A cloud parts over m_c and r_c, shining a light on them. They interpret this as a sign that they are meant for great things soon.",
-            "When discussing the future, m_c and r_c discuss the policies they'd implement in a Clan of their own.",
-            "m_c and r_c always challenge one another.",
-            "m_c and r_c always learn something new when they're together.",
-            "An injured butterfly lands in front of m_c and r_c. They take turns nurturing it for a few days until it can fly again."
+            "m_c и r_c провели тяжёлый разговор и теперь лучше понимают друг друга.",
+            "m_c и r_c долго обсуждают цели и устремления и обнаруживают, что у них много общего.",
+            "m_c долго разговаривал(а) с r_c и был(а) впечатлён(а) проницательностью r_c.",
+            "m_c и r_c вчера часами спорили о чём-то интересном.",
+            "m_c спрашивает r_c о чём-то сложном и поражён(а) тем, как быстро r_c понимает.",
+            "m_c и r_c стремятся быть похожими друг на друга.",
+            "m_c и r_c узнают много нового друг о друге, когда застревают в логове во время бури.",
+            "Облако расступилось над m_c и r_c, осветив их. Они воспринимают это как знак, что скоро их ждут великие дела.",
+            "Обсуждая будущее, m_c и r_c говорят о правилах, которые введут в своём Племени.",
+            "m_c и r_c всегда бросают вызов друг другу.",
+            "m_c и r_c всегда узнают что-то новое, когда вместе.",
+            "Раненая бабочка садится перед m_c и r_c. Они по очереди ухаживают за ней несколько дней, пока та не сможет летать."
         ],
         "reaction_random_cat": {
             "admiration": "increase"
@@ -360,11 +360,11 @@
         "id": "admire_inc_high3",
         "intensity": "high",
         "interactions": [
-            "m_c defends r_c from a Clanmate's rude remarks.",
-            "r_c's name comes up in a heated conversation, and m_c is the first to stand up for {PRONOUN\/r_c\/object}.",
-            "In the middle of an argument, m_c tells r_c that they'll still always be friends.",
-            "m_c calls out a Clanmate for spreading a rumor about r_c.",
-            "m_c and r_c agree with each other when no one else does."
+            "m_c защищает r_c от грубых замечаний соплеменника.",
+            "Имя r_c всплывает в жарком споре, и m_c первым(ой) заступается за {PRONOUN/r_c/object}.",
+            "Во время ссоры m_c говорит r_c, что они всё равно останутся друзьями.",
+            "m_c призывает к ответу соплеменника за распространение слухов о r_c.",
+            "m_c и r_c поддерживают друг друга, когда остальные против."
         ],
         "relationship_constraint": [
             "admiration_30"
@@ -378,7 +378,7 @@
         "id": "admire_kit_inc_high1",
         "intensity": "high",
         "interactions": [
-            "m_c asks r_c if {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} really going to be the leader someday."
+            "m_c спрашивает r_c, действительно ли {PRONOUN/r_c/subject} станет когда-нибудь лидером Племени."
         ],
         "main_status_constraint": [
             "kitten"

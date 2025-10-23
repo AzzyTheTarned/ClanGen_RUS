@@ -4,8 +4,8 @@
         "cat_amount": 3,
         "intensity": "low",
         "interactions": [
-            "m_c confesses to r_c1 that {PRONOUN\/m_c\/subject} {VERB\/m_c\/have\/has} feelings for r_c2.",
-            "While m_c and r_c1 are talking, m_c gets the feeling that {PRONOUN\/m_c\/subject} can trust r_c1, and confesses that {PRONOUN\/m_c\/subject} {VERB\/m_c\/like\/likes} r_c2."
+            "m_c признается(ются) r_c1, что {PRONOUN\/m_c\/subject} испытывает(ют) чувства к r_c2.",
+            "Во время разговора m_c и r_c1, m_c чувствует(ют), что может доверять r_c1, и признается(ятся), что {PRONOUN\/m_c\/subject} нравится(ятся) r_c2."
         ],
         "status_constraint": {
             "m_c": [
@@ -54,8 +54,8 @@
         "cat_amount": 3,
         "intensity": "low",
         "interactions": [
-            "m_c, r_c1, and r_c2 had a nice talk, while eating.",
-            "m_c, r_c1, and r_c2 took a sunbath and had a little small talk."
+            "m_c, r_c1 и r_c2 приятно побеседовали за едой.",
+            "m_c, r_c1 и r_c2 грелись на солнце и немного поболтали."
         ],
         "general_reaction": {
             "comfortable": "increase",
