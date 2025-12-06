@@ -7,14 +7,14 @@
         },
         "exclamation": "%{text}!",
         "question": "%{text}?",
-        "first": "первый",
-        "second": "второй",
-        "third": "третий",
-        "fourth": "четвёртый",
-        "fifth": "пятый",
-        "sixth": "шестой",
-        "seventh": "седьмой",
-        "eighth": "восьмой",
+        "first": "первую",
+        "second": "вторую",
+        "third": "третью",
+        "fourth": "четвёртую",
+        "fifth": "пятую",
+        "sixth": "шестую",
+        "seventh": "седьмую",
+        "eighth": "восьмую",
         "indefinite": "%{text}"
     }
 }

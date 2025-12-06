@@ -5,12 +5,12 @@
             "many": "%{count} луны/лун"
         },
         "moons_age_in_death": {
-            "one": "1 moon (in death)",
-            "many": "%{count} moons (in death)"
+            "one": "1 луна (после смерти)",
+            "many": "%{count} луны/лун (после смерти)"
         },
         "moons_age_in_life": {
-            "one": "1 moon (in life)",
-            "many": "%{count} moons (in life)"
+            "one": "1 луна (в жизни)",
+            "many": "%{count} луны/лун (в жизни)"
         },
         "moon_date": "moon %{moon}",
         "leader": {
@@ -61,11 +61,11 @@
             "one": "котёнок",
             "many": "котята"
         },
-        "kitten_profile": "ребёнок",
+        "kitten_profile": "котёнок",
         "adolescent": "подросток",
-        "young adult": "молодой взрослый",
+        "young adult": "молодой",
         "adult": "взрослый",
-        "senior adult": "зрелый взрослый",
+        "senior adult": "зрелый",
         "senior": "пожилой",
         "kit": {
             "one": "котёнок",
@@ -111,7 +111,7 @@
         "is": "is",
         "are": "are",
         "can_work": "этот кот может работать",
-        "cant_work": "Этот кот не может работать",
+        "cant_work": "Эта кошка не может работать",
         "cant_work_condition": "Не может работать в таком состоянии",
         "exp_label": "опыт: %{exp}",
         "newleaf": "юыне-листья",
@@ -119,10 +119,10 @@
         "greenleaf": "зелёные листья",
         "Greenleaf": "Зёленые Листья",
         "leaf-fall": "падающие листья",
-        "Leaf-fall": "падающие Листья",
+        "Leaf-fall": "Падающие Листья",
         "leaf-bare": "голые деревья",
-        "Leaf-bare": "голые Деревья",
-        "relation_BLOOD": "",
+        "Leaf-bare": "Голые Деревья",
+        "relation_BLOOD": "111",
         "relation_ADOPTIVE": "приёмный",
         "relation_HALF_BLOOD": "сводный",
         "relation_NOT_BLOOD": "неродственный",
@@ -168,19 +168,19 @@
         "mentor_label": "наставник: %{mentor}",
         "apprentice_label": {
             "zero": "",
-            "one": "оруженосец: %{apprentices}",
-            "many": "оруженосцы: %{apprentices}"
+            "one": "ученик миротворца",
+            "many": "ученики: %{apprentices}"
         },
         "former_apprentice_label": {
-            "one": "бывший оруженосец: %{apprentices}",
-            "many": "бывшие оруженосцы: %{apprentices}"
+            "one": "бывший ученик: %{apprentices}",
+            "many": "бывшие ученики: %{apprentices}"
         },
         "apprentice_extra": {
             "zero": "",
             "one": "1 other",
             "many": "%{count} others"
         },
-        "dead_label": "%{name} (погиб(ла))",
+        "dead_label": "%{name} {ADJ/m_c/погибли/погиб/погибла}",
         "mark_favorite": "Добавить в избранное",
         "remove_favorite": "Удалить из избранного",
         "has_permanent_condition": "has a permanent condition",
@@ -192,11 +192,11 @@
         "had_injury_for": "получил(а) ранение %{moons}",
         "pregnant_for": "беременна  %{moons}",
         "recovering_from_birth_for": "восстановление после родов %{moons}",
-        "sick": "болен(на)",
-        "injured": "ранен(а)",
+        "sick": "{ADJ/m_c/больны/болен/больна}",
+        "injured": "{ADJ/m_c/ранены/ранен/ранена}",
         "grieving": "в трауре",
         "fleas": "кишит блохами",
-        "is_infected": "инфицирован(а)",
+        "is_infected": "{ADJ/m_c/инфицированы/инфицирован/инфицирована}",
         "is_festering": "нагноение"
     }
 }

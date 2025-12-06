@@ -1,31 +1,31 @@
 {
     "ru": {
-        "training_kit": "Этот кот/кошка ещё не начал/начала обучение.",
-        "training_app": "Этот кот/кошка ещё не закончил/закончила обучение..",
+        "training_kit": "{ADJ/m_c/Они/Этот кот/Эта кошка} ещё не {ADJ/m_c/начали/начал/начала} обучение.",
+        "training_app": "{ADJ/m_c/Они/Этот кот/Эта кошка} ещё не {ADJ/m_c/закончили/закончил/закончила} обучение..",
         "training_mentors": {
-            "zero": "У этого кота/кошки либо не было наставника, либо {PRONOUN/m_c/poss} наставник неизвестен.",
-            "one": "{PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/were\/was} mentored by %{mentors}.",
-            "many": "{PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/were\/was} mentored by %{mentors}."
+            "zero": "У {ADJ/m_c/них/этого кота/этой кошки} либо не было наставника, либо {PRONOUN/m_c/object} наставник неизвестен.",
+            "one": "{PRONOUN\/m_c\/object\/CAP} наставником был(ла,ли) %{mentors}.",
+            "many": "{PRONOUN\/m_c\/object\/CAP} наставником был(ла,ли) %{mentors}."
         },
-        "training_mentor_trait_influence": "r_c influenced {PRONOUN\/m_c\/object} to be more likely to %{influence}.",
-        "training_mentor_skill_influence": "r_c helped {PRONOUN\/m_c\/object} become better at %{influence}.",
-        "graduation_honor": "When {PRONOUN\/m_c\/subject} graduated, {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} honored for {PRONOUN\/m_c\/poss} %{honor}.",
-        "graduation_early": "{PRONOUN\/m_c\/poss\/CAP} training went so well that {PRONOUN\/m_c\/subject} graduated early at %{age} moons old.",
-        "graduation_normal": "{PRONOUN\/m_c\/subject\/CAP} graduated at %{age} moons old.",
-        "graduation_late": "{PRONOUN\/m_c\/subject\/CAP} graduated late at %{age} moons old.",
-        "mentored": "{PRONOUN\/m_c\/subject\/CAP} mentored %{apprentices}.",
-        "leader_death_final": "lost {PRONOUN\/m_c\/poss} final life",
-        "leader_death_all": "lost all of {PRONOUN\/m_c\/poss} lives",
-        "leader_death_remaining": "lost the rest of {PRONOUN\/m_c\/poss} lives",
+    "training_mentor_trait_influence": "r_c повлиял на н{PRONOUN/m_c/object}, сделав более склонным к %{influence}.",
+    "training_mentor_skill_influence": "r_c помог {PRONOUN/m_c/poss} стать лучше в %{influence}.",
+    "graduation_honor": "Когда {PRONOUN/m_c/subject} {ADJ/m_c/выпускались/выпускался/выпускалась}, то {ADJ/m_c/были/был/была} удостоен чести за {PRONOUN/m_c/poss} %{honor}.",
+    "graduation_early": "{PRONOUN/m_c/poss/CAP} обучение прошло так хорошо, что {ADJ/m_c/выпустились/выпустился/выпустилась} досрочно в возрасте %{age} лун.",
+    "graduation_normal": "{PRONOUN/m_c/subject/CAP} выпустился в возрасте %{age} лун.",
+    "graduation_late": "{PRONOUN/m_c/subject/CAP} выпустился поздно в возрасте %{age} лун.",
+    "mentored": "{PRONOUN/m_c/subject/CAP} {ADJ/m_c/были/был/была} наставником: %{apprentices}.",
+    "leader_death_final": "{ADJ/m_c/потеряли/потерял/потеряла} совою последнюю жизнь",
+    "leader_death_all": "{ADJ/m_c/потеряли/потерял/потеряла} все свои жизни",
+    "leader_death_remaining": "{ADJ/m_c/потеряли/потерял/потеряла} остальные свои жизни",
         "leader_death_cardinal": {
-            "one": "lost {PRONOUN\/m_c\/poss} %{cardinal} life",
-            "many": "lost {PRONOUN\/m_c\/poss} %{cardinal} lives"
+            "one": "{ADJ/m_c/потеряли/потерял/потеряла} {PRONOUN\/m_c\/poss} %{cardinal} жизнь",
+            "many": "{ADJ/m_c/потеряли/потерял/потеряла} {PRONOUN\/m_c\/poss} %{cardinal} жизни"
         },
-        "leader_death_retired": "потерял {PRONOUN\/m_c\/poss} последнюю жизнь",
-        "leader_death_default": "потерял жизнь",
+        "leader_death_retired": "{ADJ/m_c/потеряли/потерял/потеряла} {PRONOUN\/m_c\/poss} последнюю жизнь",
+        "leader_death_default": "{ADJ/m_c/потеряли/потерял/потеряла} жизнь",
         "leader_lost_lives": {
-            "one": "m_c потерял жизнь.",
-            "many": "m_c потерял %{count} жизни/ней."
+            "one": "m_c {ADJ/m_c/потеряли/потерял/потеряла} жизнь.",
+            "many": "m_c {ADJ/m_c/потеряли/потерял/потеряла} %{count} жизни/ней."
         },
         "regular_death": "%{cats} погиб.",
         "death_cause": "%{death} когда {PRONOUN\/m_c\/subject} %{text}.",

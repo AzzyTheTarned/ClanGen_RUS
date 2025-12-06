@@ -1,41 +1,41 @@
 {
     "ru": {
-        "romantic_label": {
-            "one": "romantic like:",
-            "many": "romantic love:"
-        },
-        "platonic_label": {
-            "one": "platonic like:",
-            "many": "platonic love:"
-        },
-        "dislike_label": {
-            "one": "dislike:",
-            "many": "hate:"
-        },
-        "admire_label": {
-            "one": "respect:",
-            "many": "admiration:"
-        },
-        "comfortable_label": {
-            "one": "comfortable:",
-            "many": "security:"
-        },
-        "jealous_label": {
-            "one": "jealousy:",
-            "many": "resentment:"
-        },
-        "trust_label": {
-            "one": "trust:",
-            "many": "reliance:"
+    "romantic_label": {
+        "one": "симпатия:",
+        "many": "любовь:"
+    },
+    "platonic_label": {
+        "one": "товарищество:",
+        "many": "дружба:"
+    },
+    "dislike_label": {
+        "one": "неприязнь:",
+        "many": "ненависть:"
+    },
+    "admire_label": {
+        "one": "уважение:",
+        "many": "восхищение:"
+    },
+    "comfortable_label": {
+        "one": "комфорт:",
+        "many": "безопасность:"
+    },
+    "jealous_label": {
+        "one": "ревность:",
+        "many": "неприятие:"
+    },
+    "trust_label": {
+        "one": "доверие:",
+        "many": "опора:"
         },
         "positive_postscript": " (положительный эффект)",
-        "positive_postscript_low": " (низкий положительный эффект)",
+        "positive_postscript_low": " (слабый положительный эффект)",
         "positive_postscript_medium": " (средний положительный эффект)",
-        "positive_postscript_high": " (высокий положительный эффект)",
+        "positive_postscript_high": " (сильный положительный эффект)",
         "negative_postscript": " (негативный эффект)",
-        "negative_postscript_low": " (низкий негативный эффект)",
+        "negative_postscript_low": " (слабый негативный эффект)",
         "negative_postscript_medium": " (средний негативный эффект)",
-        "negative_postscript_high": " (высокий негативный эффект)",
+        "negative_postscript_high": " (сильный негативный эффект)",
         "neutral_postscript": " (нейтральный эффект)",
         "age_postscript": {
             "one": "- %{name} was %{count} moon old",

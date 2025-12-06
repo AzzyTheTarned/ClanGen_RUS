@@ -3,27 +3,27 @@
         "0": {
             "subject": "они",
             "object": "их",
-            "poss": "их",
-            "inposs": "их",
-            "self": "им",
+            "poss": "им",
+            "inposs": "ими",
+            "self": "них",
             "conju": 1,
             "gender": 0
         },
         "1": {
             "subject": "он",
             "object": "его",
-            "poss": "его",
-            "inposs": "его",
-            "self": "ему",
+            "poss": "ему",
+            "inposs": "им",
+            "self": "нём",
             "conju": 2,
             "gender": 1
         },
         "2": {
             "subject": "она",
             "object": "её",
-            "poss": "её",
-            "inposs": "её",
-            "self": "ей",
+            "poss": "ей",
+            "inposs": "ею",
+            "self": "ней",
             "conju": 2,
             "gender": 2
         }
