@@ -1,44 +1,44 @@
 {
     "running nose": [
-        "m_c проснулся с насморком.",
+        "m_c проснул{ADJ\/m_c\/ись\/ся\/ась} с насморком.",
         "m_c постоянно сопит.",
-        "у m_c насморк."
+        "У m_c насморк."
     ],
     "stomachache": [
-        "у m_c болит живот.",
-        "живот m_c весь день болел."
+        "У m_c болит живот.",
+        "Живот m_c весь день болит."
     ],
     "fleas:": [
-        "m_c похоже, подцепил несколько блох.",
-        "m_c has been scratching and itching all day, it seems {PRONOUN\/m_c\/subject} {VERB\/m_c\/have\/has} fleas."
+        "m_c похоже, подцепил{ADJ\/m_c\/и\/\/а} несколько блох.",
+        "m_c весь день чеш{VERB\/m_c\/утся\/ется}. Похоже, у н{ADJ\/m_c\/их\/его\/её} блохи."
     ],
     "heat exhaustion": [
-        "m_c spent too long out in the sun, {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} gotten heat exhaustion."
+        "m_c провел{ADJ\/m_c\/и\/\/а} слишком много времени на солнце и перегрел{ADJ\/m_c\/ись\/ся\/ась}."
     ],
     "heat stroke": [
-        "m_c spent too long out in the sun, {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} gotten heat stroke."
+        "m_c провел{ADJ\/m_c\/и\/\/а} слишком много времени на солнце, у н{ADJ\/m_c\/их\/его\/её} тепловой удар."
     ],
     "kittencough": [
-        "m_c has gotten kittencough.",
-        "m_c is sick with kittencough."
+        "m_c подхватил{ADJ\/m_c\/и\/\/а} котячий кашель.",
+        "m_c заболел{ADJ\/m_c\/и\/\/а} котячим кашлем."
     ],
     "whitecough": [
-        "m_c has gotten whitecough.",
-        "m_c is sick with whitecough."
+        "m_c подхватил{ADJ\/m_c\/и\/\/а} белый кашель.",
+        "m_c заболел{ADJ\/m_c\/и\/\/а} белым кашлем."
     ],
     "greencough": [
-        "m_c has gotten greencough.",
-        "m_c is sick with greencough."
+        "m_c подхватил{ADJ\/m_c\/и\/\/а} зеленый кашель.",
+        "m_c заболел{ADJ\/m_c\/и\/\/а} зеленым кашлем."
     ],
     "yellowcough": [
-        "m_c has gotten yellowcough.",
-        "m_c is sick with yellowcough."
+        "m_c подхватил{ADJ\/m_c\/и\/\/а} желтый кашель.",
+        "m_c заболел{ADJ\/m_c\/и\/\/а} желтым кашлем."
     ],
     "malnourished": [
-        "m_c has become malnourished.",
-        "Lack of fresh-kill has left m_c malnourished."
+        "m_c недоеда{VERB\/m_c\/ют\/ет}.",
+        "Из-за недостатка добычи m_c стал{ADJ\/m_c\/и\/\/а} недоедать."
     ],
     "starving": [
-        "m_c is starving."
+        "m_c голода{VERB\/m_c\/ют\/ет}."
     ]
 }
